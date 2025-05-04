@@ -16,9 +16,10 @@ CATEGORY_MODELS = {
     'january': January,
     'february': February,
     'march': March,
-    'govt_scheme': GovtScheme,
+    'april': April,
     'budget': Budget,
-    'eco' : Economics
+    'eco' : Economics,
+    'govt_scheme': GovtScheme
 }
 
 CATEGORY_DISPLAY_NAMES = {
@@ -26,9 +27,10 @@ CATEGORY_DISPLAY_NAMES = {
     'january': 'January',
     'february': 'February',
     'march': 'March',
-    'govt_scheme': 'Government Schemes',
+    'april': 'April',
     'budget': 'Budget',
-    'eco' : 'Economics'
+    'eco' : 'Economics',
+    'govt_scheme': 'Government Schemes'
 }
 
 # Map file names to model classes
@@ -37,9 +39,10 @@ FILE_TO_MODEL = {
     'january.txt': January,
     'february.txt': February,
     'march.txt': March,
-    'govt_scheme.txt': GovtScheme,
+    'april.txt': April,
     'budget.txt': Budget,
     'eco.txt' : Economics,
+    'govt_scheme.txt': GovtScheme
 }
 
 @app.route('/')

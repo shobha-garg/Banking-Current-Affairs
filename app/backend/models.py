@@ -24,6 +24,9 @@ class February(db.Model, QuestionBase):
 class March(db.Model, QuestionBase):
     __tablename__ = 'march_questions'
 
+class April(db.Model, QuestionBase):
+    __tablename__ = 'april_questions'
+    
 class GovtScheme(db.Model, QuestionBase):
     __tablename__ = 'govt_scheme_questions'
 

@@ -1,0 +1,1954 @@
+﻿[
+    {
+        "question": "What was the policy Repo Rate decided by the RBI's Monetary Policy Committee (MPC) in its meeting held in early April 2024?",
+        "option_a": "6.25%",
+        "option_b": "6.50%",
+        "option_c": "6.75%",
+        "option_d": "6.00%",
+        "correct_option": "B"
+    },
+    {
+        "question": "What was the monetary policy stance maintained by the RBI MPC in the April 2024 meeting?",
+        "option_a": "Accommodative",
+        "option_b": "Neutral",
+        "option_c": "Withdrawal of accommodation",
+        "option_d": "Calibrated tightening",
+        "correct_option": "C"
+    },
+    {
+        "question": "What was the RBI's CPI inflation projection for the fiscal year 2024-25 (FY25) as announced in the April 2024 MPC statement?",
+        "option_a": "4.0%",
+        "option_b": "4.5%",
+        "option_c": "5.0%",
+        "option_d": "5.4%",
+        "correct_option": "B"
+    },
+    {
+        "question": "What was the RBI's real GDP growth projection for FY25 announced during the April 2024 MPC meeting?",
+        "option_a": "6.5%",
+        "option_b": "6.8%",
+        "option_c": "7.0%",
+        "option_d": "7.2%",
+        "correct_option": "C"
+    },
+    {
+        "question": "In April 2024, SEBI proposed significant changes or issued a consultation paper related to the validation of information submitted by which type of market entities?",
+        "option_a": "Mutual Funds",
+        "option_b": "Credit Rating Agencies (CRAs)",
+        "option_c": "Stock Brokers",
+        "option_d": "Alternative Investment Funds (AIFs)",
+        "correct_option": "B"
+    },
+    {
+        "question": "SEBI introduced an optional (beta version) same-day settlement cycle for a limited set of scrips in April 2024. What is this settlement cycle referred to as?",
+        "option_a": "T+1 Settlement",
+        "option_b": "T+0 Settlement",
+        "option_c": "Instant Settlement",
+        "option_d": "T+2 Settlement",
+        "correct_option": "B"
+    },
+    {
+        "question": "During April 2024, India's Foreign Exchange (Forex) Reserves, as reported by the RBI, generally exhibited which trend?",
+        "option_a": "Sharp continuous decline",
+        "option_b": "Remained stagnant around $600 billion",
+        "option_c": "Reached or hovered near record high levels (above $640 billion)",
+        "option_d": "Fell below $550 billion",
+        "correct_option": "C"
+    },
+    {
+        "question": "In April 2024, SEBI took measures or issued clarifications related to the framework for which specific type of stock exchange introduced earlier?",
+        "option_a": "Commodity Derivatives Exchange",
+        "option_b": "Social Stock Exchange (SSE)",
+        "option_c": "International Financial Services Centre (IFSC) Exchange",
+        "option_d": "Agricultural Futures Exchange",
+        "correct_option": "B"
+    },
+    {
+        "question": "RBI, in April 2024, likely reiterated or maintained its regulatory stance concerning the high growth observed in which segment of lending by Banks and NBFCs?",
+        "option_a": "Agricultural Loans",
+        "option_b": "Housing Loans",
+        "option_c": "Unsecured Personal Loans and Credit Cards",
+        "option_d": "MSME Loans",
+        "correct_option": "C"
+    },
+    {
+        "question": "SEBI issued guidelines in April 2024 pertaining to upward revision in Net Worth requirements for which category of intermediaries?",
+        "option_a": "Portfolio Managers (PMS)",
+        "option_b": "Stock Brokers",
+        "option_c": "Clearing Corporations",
+        "option_d": "Investment Advisers (IAs)",
+        "correct_option": "A"
+    },
+    {
+        "question": "Which entity did SEBI mandate, via a circular likely discussed in April 2024 news, to establish a specific framework for identifying stockbrokers contributing significantly to market volatility?",
+        "option_a": "Individual Stock Exchanges (NSE, BSE)",
+        "option_b": "Clearing Corporations",
+        "option_c": "Association of Mutual Funds in India (AMFI)",
+        "option_d": "Depositories (CDSL, NSDL)",
+        "correct_option": "B"
+    },
+    {
+        "question": "Discussions in April 2024 might have included RBI's actions or statements regarding the implementation progress and transaction volumes related to which digital currency initiative?",
+        "option_a": "Unified Payments Interface (UPI)",
+        "option_b": "Central Bank Digital Currency (CBDC) or e₹ (Retail and Wholesale)",
+        "option_c": "National Electronic Funds Transfer (NEFT)",
+        "option_d": "Bharat Bill Payment System (BBPS)",
+        "correct_option": "B"
+    },
+    {
+        "question": "SEBI, in April 2024, likely disposed of proceedings or passed orders related to violations in specific high-profile cases involving:",
+        "option_a": "Banking license applications",
+        "option_b": "Insider trading or fraudulent trade practices",
+        "option_c": "KYC norm violations by payment banks",
+        "option_d": "Non-compliance with priority sector lending targets",
+        "correct_option": "B"
+    },
+    {
+        "question": "What type of liquidity management operations did RBI likely continue to use actively in April 2024 to manage banking system liquidity, as reflected in financial news?",
+        "option_a": "Only Open Market Operations (OMOs) - Outright Purchase",
+        "option_b": "Only Statutory Liquidity Ratio (SLR) changes",
+        "option_c": "Variable Rate Repo (VRR) and Variable Rate Reverse Repo (VRRR) auctions",
+        "option_d": "Only Bank Rate adjustments",
+        "correct_option": "C"
+    },
+    {
+        "question": "SEBI, in April 2024, might have issued clarifications or minor modifications concerning the framework for which aspect of Alternative Investment Funds (AIFs)?",
+        "option_a": "Fee structures charged to investors",
+        "option_b": "Valuation of investment portfolios",
+        "option_c": "Overseas investment limits",
+        "option_d": "Appointment of fund managers",
+        "correct_option": "B"
+    },
+    {
+        "question": "In April 2024, did the RBI announce any major changes to the regulations governing Non-Banking Financial Companies (NBFCs) concerning their scale-based classification (Base, Middle, Upper, Top layers)?",
+        "option_a": "Yes, significantly revised the layer classifications",
+        "option_b": "Yes, introduced a new 'Lower' layer",
+        "option_c": "No major changes announced to the classification structure itself in April 2024 (though ongoing supervision continued)",
+        "option_d": "Yes, merged the Upper and Top layers",
+        "correct_option": "C"
+    },
+    {
+        "question": "What topic related to corporate governance might SEBI have addressed through circulars or emphasis in April 2024?",
+        "option_a": "Mandatory separation of Chairman and MD/CEO roles for listed companies",
+        "option_b": "Disclosure requirements related to cybersecurity incidents",
+        "option_c": "Process for removal of independent directors",
+        "option_d": "Related Party Transaction (RPT) norms compliance",
+        "correct_option": "D"
+    },
+    {
+        "question": "Did the RBI issue any specific directive in April 2024 significantly altering the Prompt Corrective Action (PCA) framework for Banks or NBFCs?",
+        "option_a": "Yes, relaxed PCA norms for all banks",
+        "option_b": "Yes, tightened PCA norms specifically for NBFCs",
+        "option_c": "No, major changes to the PCA framework itself were announced in April 2024",
+        "option_d": "Yes, introduced new triggers related to governance lapses",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which entity launched the BHIM 3.0 app?",
+        "option_a": "Reserve Bank of India (RBI)",
+        "option_b": "National Payments Corporation of India (NPCI)",
+        "option_c": "NPCI BHIM Services Limited (NBSL)",
+        "option_d": "Ministry of Finance",
+        "correct_option": "C"
+    },
+    {
+        "question": "BHIM 3.0 represents which evolution of the BHIM app since its inception?",
+        "option_a": "First major evolution",
+        "option_b": "Second major evolution",
+        "option_c": "Third major evolution",
+        "option_d": "Fourth major evolution",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the name of the in-app payment solution introduced in BHIM 3.0 for online merchant platforms?",
+        "option_a": "BHIM Pay",
+        "option_b": "BHIM Connect",
+        "option_c": "BHIM Swift",
+        "option_d": "BHIM Vega",
+        "correct_option": "D"
+    },
+    {
+        "question": "According to the slides, the full availability of the BHIM 3.0 upgrade is expected by when?",
+        "option_a": "January 2025",
+        "option_b": "March 2025",
+        "option_c": "April 2025",
+        "option_d": "June 2025",
+        "correct_option": "C"
+    },
+     {
+        "question": "Which new feature in BHIM 3.0 allows users to onboard family members and track shared expenses?",
+        "option_a": "Split Expenses",
+        "option_b": "Family Mode",
+        "option_c": "Spends Analytics",
+        "option_d": "Action Needed",
+        "correct_option": "B"
+    },
+    {
+        "question": "As per the presentation, BHIM 3.0 is available in how many languages?",
+        "option_a": "10 languages",
+        "option_b": "12 languages",
+        "option_c": "15+ languages (mentioned initially)",
+        "option_d": "20 languages (mentioned in FAQ/Rollout slide)",
+        "correct_option": "D"
+    },
+    {
+        "question": "What is the Ways and Means Advances (WMA) limit set by RBI for the first half of the financial year 2025-26?",
+        "option_a": "₹1,00,000 crore",
+        "option_b": "₹1,25,000 crore",
+        "option_c": "₹1,50,000 crore",
+        "option_d": "₹2,00,000 crore",
+        "correct_option": "C"
+    },
+    {
+        "question": "How is the decision on the WMA limit made?",
+        "option_a": "Solely by the Reserve Bank of India (RBI)",
+        "option_b": "Solely by the Government of India",
+        "option_c": "By RBI in consultation with the Government of India",
+        "option_d": "By the Monetary Policy Committee (MPC)",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the interest rate charged if the government avails the Overdraft facility beyond the WMA limit?",
+        "option_a": "Repo Rate",
+        "option_b": "Repo Rate + 1%",
+        "option_c": "Repo Rate + 2%",
+        "option_d": "Bank Rate",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which of the following was NOT listed as a Domestic Systemically Important Insurer (D-SII) for 2024-25 by IRDAI?",
+        "option_a": "Life Insurance Corporation of India (LIC)",
+        "option_b": "Oriental Insurance Company",
+        "option_c": "The New India Assurance Company",
+        "option_d": "General Insurance Corporation of India (GIC Re)",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the primary implication for an insurer designated as a D-SII by IRDAI?",
+        "option_a": "They receive government subsidies",
+        "option_b": "They are exempt from certain regulations",
+        "option_c": "They are subjected to enhanced regulatory supervision",
+        "option_d": "They can only operate in domestic markets",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which organization presented the Digital Transformation Award 2025 to RBI in London?",
+        "option_a": "Bank for International Settlements (BIS)",
+        "option_b": "World Economic Forum (WEF)",
+        "option_c": "International Monetary Fund (IMF)",
+        "option_d": "Central Banking",
+        "correct_option": "D"
+    },
+    {
+        "question": "Which two innovative digital platforms of RBI were recognized by the Digital Transformation Award 2025?",
+        "option_a": "UPI and NEFT",
+        "option_b": "Pravaah and Sarthi",
+        "option_c": "E-Kuber and RTGS",
+        "option_d": "BBPS and NACH",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the purpose of the RBI's 'Pravaah' system, launched in May 2024?",
+        "option_a": "To manage internal document flow",
+        "option_b": "To simplify submission of regulatory applications from external stakeholders",
+        "option_c": "To process large value payments",
+        "option_d": "To track retail inflation data",
+        "correct_option": "B"
+    },
+    {
+        "question": "When was the RBI's 'Sarthi' system launched to digitize internal workflow and document management?",
+        "option_a": "May 2024",
+        "option_b": "January 2023",
+        "option_c": "April 2025",
+        "option_d": "October 2023",
+        "correct_option": "B"
+    },
+    {
+        "question": "According to the RBI's Remittances Survey 2023-24, which country accounted for the highest share of remittances into India?",
+        "option_a": "United Arab Emirates (UAE)",
+        "option_b": "United Kingdom (UK)",
+        "option_c": "United States (US)",
+        "option_d": "Saudi Arabia",
+        "correct_option": "C"
+    },
+    {
+        "question": "Based on the RBI Bulletin data for 2023-24, what was the share of the United States in India's inward remittances?",
+        "option_a": "19.2%",
+        "option_b": "23.4%",
+        "option_c": "27.7%",
+        "option_d": "10.8%",
+        "correct_option": "C"
+    },
+     {
+        "question": "Which Indian state received the highest share of inward remittances in 2023-24, according to the RBI Bulletin table?",
+        "option_a": "Kerala",
+        "option_b": "Maharashtra",
+        "option_c": "Tamil Nadu",
+        "option_d": "Karnataka",
+        "correct_option": "B"
+    },
+    {
+        "question": "What significant shift did the RBI Bulletin highlight regarding the source of inward remittances to India for 2023-24?",
+        "option_a": "Increase in remittances from African nations",
+        "option_b": "Developed nations like US & UK surpassing Gulf countries",
+        "option_c": "Singapore becoming the top source",
+        "option_d": "A decline in remittances from the US",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the primary objective of the 'Bond Central' portal launched by SEBI in February 2025?",
+        "option_a": "To regulate stock market transactions",
+        "option_b": "To centralize corporate bond data and boost retail investor participation",
+        "option_c": "To promote international investments in Indian bonds",
+        "option_d": "To facilitate government bond auctions",
+        "correct_option": "B"
+    },
+    {
+        "question": "The 'Bond Central' portal was developed by the Online Bond Platform Providers Association (OBPP Association) in collaboration with whom?",
+        "option_a": "Reserve Bank of India (RBI)",
+        "option_b": "Only National Stock Exchange (NSE)",
+        "option_c": "Market Infrastructure Institutions (MIIs)",
+        "option_d": "Ministry of Finance",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which feature of the 'Bond Central' portal allows investors to compare corporate bond prices with G-Secs?",
+        "option_a": "Comprehensive Bond Listings",
+        "option_b": "Comparison with Government Securities (G-Secs)",
+        "option_c": "Investor-Centric Information",
+        "option_d": "Standardized Corporate Bond Data",
+        "correct_option": "B"
+    },
+    {
+        "question": "According to the slides, the launch of 'Bond Central' follows a significant increase (3270%) in monthly transactions of corporate bonds and which other instruments?",
+        "option_a": "Government Securities (G-Secs)",
+        "option_b": "Treasury Bills (T-Bills)",
+        "option_c": "Structured Debt Instruments (SDIs)",
+        "option_d": "Equity Shares",
+        "correct_option": "C"
+    },
+    {
+        "question": "Under which section of the RBI Act was the Monetary Policy Committee (MPC) instituted?",
+        "option_a": "Section 45ZA",
+        "option_b": "Section 45ZB",
+        "option_c": "Section 42",
+        "option_d": "Section 58",
+        "correct_option": "B"
+    },
+    {
+        "question": "How many members does the Monetary Policy Committee (MPC) have?",
+        "option_a": "5",
+        "option_b": "6",
+        "option_c": "7",
+        "option_d": "8",
+        "correct_option": "B"
+    },
+    {
+        "question": "Who is the ex-officio chairperson of the Monetary Policy Committee (MPC)?",
+        "option_a": "Finance Minister",
+        "option_b": "RBI Governor",
+        "option_c": "Chief Economic Advisor",
+        "option_d": "Deputy Governor in charge of Monetary Policy",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the tenure for the appointed external members of the MPC?",
+        "option_a": "Three years, eligible for reappointment",
+        "option_b": "Four years, eligible for reappointment",
+        "option_c": "Four years, not eligible for reappointment",
+        "option_d": "Five years, not eligible for reappointment",
+        "correct_option": "C"
+    },
+     {
+        "question": "How many times does the MPC usually meet in a year?",
+        "option_a": "Four times",
+        "option_b": "Five times",
+        "option_c": "Six times",
+        "option_d": "Eight times",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which statement accurately describes the verification process for the SEBI-DNVS (Document Number Verification System)?",
+        "option_a": "Requires fingerprint authentication",
+        "option_b": "Requires OTP verification sent to the recipient's mobile number",
+        "option_c": "Verifies the content of the document issued by SEBI",
+        "option_d": "Requires physical submission of the document to SEBI office",
+        "correct_option": "B"
+    },
+    {
+        "question": "What information does a user need to input on the SEBI website to use the SEBI-DNVS?",
+        "option_a": "Only the Outward Number",
+        "option_b": "Outward Number, Sender's Name, Communication Date, Recipient's Name",
+        "option_c": "Recipient's PAN number and Outward Number",
+        "option_d": "A scanned copy of the document",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the primary purpose of the SEBI-DNVS launched by SEBI?",
+        "option_a": "To issue new summons electronically",
+        "option_b": "To allow the public to file complaints online",
+        "option_c": "To enhance transparency and verify the authenticity of physical documents issued by SEBI",
+        "option_d": "To track the status of ongoing SEBI investigations",
+        "correct_option": "C"
+    },
+    {
+        "question": "How can the SEBI-DNVS be accessed?",
+        "option_a": "Only via a dedicated mobile app",
+        "option_b": "Through the SEBI website (Home > Authenticate Document Number Issued by SEBI)",
+        "option_c": "By sending an email to SEBI",
+        "option_d": "Via NPCI portal",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which type of banks were recently allowed by RBI to offer pre-sanctioned credit lines through UPI?",
+        "option_a": "Regional Rural Banks (RRBs)",
+        "option_b": "Payments Banks",
+        "option_c": "Small Finance Banks (SFBs)",
+        "option_d": "State Cooperative Banks",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the maximum limit for bank loans per borrower for setting up schools, drinking water facilities, and sanitation facilities under Priority Sector Lending (PSL) for Social Infrastructure?",
+        "option_a": "Rs 1 crore",
+        "option_b": "Rs 5 crore",
+        "option_c": "Rs 10 crore",
+        "option_d": "Rs 2 crore",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the maximum limit for bank loans per borrower for building healthcare facilities under PSL Social Infrastructure, including those under 'Ayushman Bharat' in Tier II to Tier VI centers?",
+        "option_a": "Rs 5 crore",
+        "option_b": "Rs 10 crore",
+        "option_c": "Rs 15 crore",
+        "option_d": "Rs 20 crore",
+        "correct_option": "B"
+    },
+     {
+        "question": "Are bank loans for setting up sports facilities eligible under PSL for Social Infrastructure, according to the statements presented?",
+        "option_a": "Yes, explicitly mentioned",
+        "option_b": "No, explicitly excluded",
+        "option_c": "Maybe, depending on the location",
+        "option_d": "No, statement 4 is incorrect based on the provided options for Q11/6",
+        "correct_option": "D"
+    },
+     {
+        "question": "Based on the MPC meeting decision dated April 09, 2025 (as per slide), what was the Policy Repo Rate set to?",
+        "option_a": "6.50%",
+        "option_b": "6.25%",
+        "option_c": "6.00%",
+        "option_d": "5.75%",
+        "correct_option": "C"
+    },
+     {
+        "question": "What change in monetary policy stance was decided by the MPC in its meeting ending April 09, 2025 (as per slide)?",
+        "option_a": "Maintained Neutral stance",
+        "option_b": "Changed from Neutral to Accommodative",
+        "option_c": "Changed from Accommodative to Withdrawal of Accommodation",
+        "option_d": "Changed from Neutral to Hawkish",
+        "correct_option": "B"
+    },
+     {
+        "question": "Following the repo rate reduction to 6.00% (as per slide dated April 09, 2025), what was the revised Standing Deposit Facility (SDF) Rate?",
+        "option_a": "6.25%",
+        "option_b": "6.00%",
+        "option_c": "5.75%",
+        "option_d": "3.35%",
+        "correct_option": "C"
+    },
+     {
+        "question": "Following the repo rate reduction to 6.00% (as per slide dated April 09, 2025), what was the revised Marginal Standing Facility (MSF) Rate and Bank Rate?",
+        "option_a": "6.00%",
+        "option_b": "6.50%",
+        "option_c": "6.25%",
+        "option_d": "5.75%",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the RBI's projected CPI inflation for the financial year 2025-26, assuming a normal monsoon (as per slides)?",
+        "option_a": "4.5%",
+        "option_b": "4.2%",
+        "option_c": "4.0%",
+        "option_d": "3.8%",
+        "correct_option": "C"
+    },
+     {
+        "question": "What is the projected real GDP growth for 2025-26 according to the latest slide shown?",
+        "option_a": "7.0%",
+        "option_b": "6.7%",
+        "option_c": "6.5%",
+        "option_d": "6.2%",
+        "correct_option": "C"
+    },
+    {
+        "question": "When will the minutes of the MPC's meeting (ending April 09, 2025) be published, according to the slide?",
+        "option_a": "April 15, 2025",
+        "option_b": "April 23, 2025",
+        "option_c": "May 01, 2025",
+        "option_d": "June 04, 2025",
+        "correct_option": "B"
+    },
+    {
+        "question": "When is the next meeting of the MPC scheduled after the April 2025 meeting?",
+        "option_a": "May 10-12, 2025",
+        "option_b": "June 4-6, 2025",
+        "option_c": "July 1-3, 2025",
+        "option_d": "August 8-10, 2025",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the purpose of RBI's 'On Tap' application facility under the Regulatory Sandbox?",
+        "option_a": "To allow banks to apply for licenses anytime",
+        "option_b": "To allow FinTech companies to apply to test any new idea anytime ('Theme Neutral')",
+        "option_c": "To provide continuous funding for startups",
+        "option_d": "To allow customers to open accounts instantly",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which cohort theme in the Regulatory Sandbox experience summary table is marked as 'Theme Neutral'?",
+        "option_a": "Cohort 2: Cross-border Payments",
+        "option_b": "Cohort 3: MSME Lending",
+        "option_c": "Cohort 5: Theme Neutral",
+        "option_d": "Cohort 1: Retail Payments",
+        "correct_option": "C"
+    },
+    {
+        "question": "RBI proposed extending the guidelines on Co-Lending Arrangements (CLA), currently applicable to Banks and NBFCs for PSL, to whom?",
+        "option_a": "Only to Housing Finance Companies",
+        "option_b": "Only to Microfinance Institutions",
+        "option_c": "To all regulated entities and for all loans (priority sector or otherwise)",
+        "option_d": "Only to Urban Cooperative Banks",
+        "correct_option": "C"
+    },
+     {
+        "question": "What mechanism is proposed by RBI to enable securitisation of stressed assets, in addition to the existing ARC route under SARFAESI Act, 2002?",
+        "option_a": "Government guarantee scheme",
+        "option_b": "Market-based mechanism",
+        "option_c": "Direct sale to RBI",
+        "option_d": "Mandatory write-off by banks",
+        "correct_option": "B"
+    },
+    {
+        "question": "Who has been appointed as the new chairperson of the Pension Fund Regulatory and Development Authority (PFRDA)?",
+        "option_a": "Deepak Mohanty",
+        "option_b": "Ajay Bhushan Pandey",
+        "option_c": "Sivasubramanian Ramann",
+        "option_d": "Poonam Gupta",
+        "correct_option": "C"
+    },
+     {
+        "question": "What is the tenure of the new PFRDA Chairperson, Sivasubramanian Ramann?",
+        "option_a": "Three years or age 62",
+        "option_b": "Four years or age 65",
+        "option_c": "Five years or age 65",
+        "option_d": "Five years or age 67",
+        "correct_option": "C"
+    },
+    {
+        "question": "Sivasubramanian Ramann belongs to which service?",
+        "option_a": "Indian Administrative Service (IAS)",
+        "option_b": "Indian Revenue Service (IRS)",
+        "option_c": "Indian Audit & Accounts Service (IA&AS)",
+        "option_d": "Indian Economic Service (IES)",
+        "correct_option": "C"
+    },
+    {
+        "question": "Prior to PFRDA, Sivasubramanian Ramann served as Chairman and MD of which institution (2021-2024)?",
+        "option_a": "SEBI",
+        "option_b": "SIDBI",
+        "option_c": "NeSL",
+        "option_d": "NABARD",
+        "correct_option": "B"
+    },
+    {
+        "question": "Who did Sivasubramanian Ramann succeed as PFRDA Chairperson?",
+        "option_a": "Supratim Bandyopadhyay",
+        "option_b": "Pravin Kutumbe",
+        "option_c": "Deepak Mohanty",
+        "option_d": "Hemant Contractor",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which platform was launched by SEBI in February 2025 to help investors track and reclaim inactive or unclaimed mutual fund folios?",
+        "option_a": "Bond Central",
+        "option_b": "MITRA (Mutual Fund Investment Tracing and Retrieval Assistant)",
+        "option_c": "iSPOT",
+        "option_d": "Dharohar",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the purpose of SEBI's 'iSPOT' (Integrated SEBI Portal for Technical glitches) platform?",
+        "option_a": "Reporting Related Party Transactions",
+        "option_b": "Reporting of technical glitches by market infrastructure institutions",
+        "option_c": "Tracking unclaimed mutual funds",
+        "option_d": "Preserving history of Indian Securities Market",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which SEBI initiative aims to preserve and present the history of the Indian Securities Market in a digital format?",
+        "option_a": "MITRA",
+        "option_b": "Bond Central",
+        "option_c": "iSPOT",
+        "option_d": "Dharohar",
+        "correct_option": "D"
+    },
+    {
+        "question": "What framework became effective from April 1, 2025, to ensure seamless trading across stock exchanges during technical outages?",
+        "option_a": "SEBI DNVS",
+        "option_b": "New Interoperability Framework for Stock Exchanges",
+        "option_c": "Related Party Transaction Portal",
+        "option_d": "Bond Central Framework",
+        "correct_option": "B"
+    },
+    {
+        "question": "What percentage of the withdrawn ₹2000 banknotes (by value) had been returned as of the close of business on March 31, 2025, according to the RBI slide?",
+        "option_a": "95.50%",
+        "option_b": "97.26%",
+        "option_c": "98.21%",
+        "option_d": "99.05%",
+        "correct_option": "C"
+    },
+     {
+        "question": "What was the total value of ₹2000 notes in circulation when the withdrawal was announced on May 19, 2023?",
+        "option_a": "₹3.12 lakh crore",
+        "option_b": "₹3.56 lakh crore",
+        "option_c": "₹4.05 lakh crore",
+        "option_d": "₹2.88 lakh crore",
+        "correct_option": "B"
+    },
+    {
+        "question": "What was the value of ₹2000 notes remaining in circulation as of March 31, 2025?",
+        "option_a": "₹10,520 crore",
+        "option_b": "₹8,470 crore",
+        "option_c": "₹6,366 crore",
+        "option_d": "₹5,100 crore",
+        "correct_option": "C"
+    },
+    {
+        "question": "Where can individuals currently (after Oct 07, 2023) exchange or deposit ₹2000 banknotes?",
+        "option_a": "Any commercial bank branch",
+        "option_b": "Only Post Offices",
+        "option_c": "The 19 RBI Issue Offices or via India Post to RBI Issue Offices",
+        "option_d": "The facility is no longer available anywhere",
+        "correct_option": "C"
+    },
+    {
+        "question": "Do ₹2000 banknotes continue to be legal tender?",
+        "option_a": "No, they ceased to be legal tender on Oct 07, 2023",
+        "option_b": "Yes, they continue to be legal tender",
+        "option_c": "Only for transactions up to ₹10,000",
+        "option_d": "Only at RBI counters",
+        "correct_option": "B"
+    },
+     {
+        "question": "RBI announced it will shortly issue ₹10 and ₹500 denomination banknotes in the Mahatma Gandhi (New) Series bearing whose signature?",
+        "option_a": "Shaktikanta Das",
+        "option_b": "Urjit Patel",
+        "option_c": "Sanjay Malhotra",
+        "option_d": "Raghuram Rajan",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the dimension of the ₹50 denomination banknote (Mahatma Gandhi New Series)?",
+        "option_a": "66 mm x 142 mm",
+        "option_b": "66 mm x 135 mm",
+        "option_c": "63 mm x 129 mm",
+        "option_d": "66 mm x 146 mm",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the colour of the ₹50 denomination banknote (Mahatma Gandhi New Series)?",
+        "option_a": "Lavender",
+        "option_b": "Stone Grey",
+        "option_c": "Bright Yellow",
+        "option_d": "Fluorescent Blue",
+        "correct_option": "D"
+    },
+     {
+        "question": "What motif is featured on the reverse side of the ₹50 denomination banknote (Mahatma Gandhi New Series)?",
+        "option_a": "Sanchi Stupa",
+        "option_b": "Red Fort",
+        "option_c": "Hampi with Chariot",
+        "option_d": "Rani ki Vav",
+        "correct_option": "C"
+    },
+    {
+        "question": "RBI launched a verified WhatsApp channel for public awareness under which ongoing initiative?",
+        "option_a": "RBI Connect",
+        "option_b": "RBI Kehta Hai",
+        "option_c": "Digital India",
+        "option_d": "Financial Literacy Week",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the official RBI WhatsApp number provided for public awareness?",
+        "option_a": "91 99 9904 1934",
+        "option_b": "91 99 9904 1935",
+        "option_c": "91 88 8804 1935",
+        "option_d": "91 98 7654 3210",
+        "correct_option": "B"
+    },
+     {
+        "question": "Which theme was associated with the Digital Payments Awareness Week (DPAW) mentioned on the RBI WhatsApp slide?",
+        "option_a": "Har Payment Secure",
+        "option_b": "Digital Payment Utsav",
+        "option_c": "India Pays Digitally",
+        "option_d": "Cashless India",
+        "correct_option": "C"
+    },
+    {
+        "question": "RBI mandated banks to migrate their internet domains to which new, exclusive domain?",
+        "option_a": ".bank.com",
+        "option_b": ".rbi.in",
+        "option_c": ".bank.in",
+        "option_d": ".fin.in",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which institution has been authorized by NIXI (under MeitY) to act as the exclusive registrar for the '.bank.in' domain?",
+        "option_a": "RBI",
+        "option_b": "NPCI",
+        "option_c": "SEBI",
+        "option_d": "IDRBT (Institute for Development and Research in Banking Technology)",
+        "correct_option": "D"
+    },
+    {
+        "question": "What is the deadline for banks (Commercial, UCBs, State Co-op, DCCBs) to complete the migration to the '.bank.in' domain?",
+        "option_a": "June 30, 2025",
+        "option_b": "August 31, 2025",
+        "option_c": "October 31, 2025",
+        "option_d": "December 31, 2025",
+        "correct_option": "C"
+    },
+    {
+        "question": "Where is the Institute for Development and Research in Banking Technology (IDRBT) headquartered?",
+        "option_a": "Mumbai",
+        "option_b": "Pune",
+        "option_c": "Bengaluru",
+        "option_d": "Hyderabad",
+        "correct_option": "D"
+    },
+    {
+        "question": "RBI recently cancelled the banking license of which Urban Co-operative Bank based in Aurangabad, Maharashtra, effective April 22, 2025?",
+        "option_a": "Saraswat Co-operative Bank",
+        "option_b": "Cosmos Co-operative Bank",
+        "option_c": "Ajanta Urban Co-op Bank Maryadit",
+        "option_d": "Shamrao Vithal Co-operative Bank",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which of the following was NOT cited as a key reason for the cancellation of Ajanta Urban Co-op Bank's license?",
+        "option_a": "Inadequate Capital",
+        "option_b": "Poor Earnings Outlook",
+        "option_c": "Excessive branch expansion",
+        "option_d": "Inability to Protect Depositors' Interests",
+        "correct_option": "C"
+    },
+     {
+        "question": "Depositors of Ajanta Urban Co-op Bank are covered under the DICGC scheme. What is the maximum insurance cover per depositor?",
+        "option_a": "₹1 lakh",
+        "option_b": "₹2 lakh",
+        "option_c": "₹5 lakh",
+        "option_d": "₹10 lakh",
+        "correct_option": "C"
+    },
+     {
+        "question": "According to the slide, what percentage of depositors of Ajanta Urban Co-op Bank were expected to receive the full amount of their deposits under the DICGC cover, based on bank data?",
+        "option_a": "85.20%",
+        "option_b": "91.55%",
+        "option_c": "95.10%",
+        "option_d": "100%",
+        "correct_option": "B"
+    },
+    {
+        "question": "RBI imposed a monetary penalty of ₹63.60 lakh on which bank for non-compliance with directives regarding loans to the Agricultural sector and MSMEs?",
+        "option_a": "Punjab National Bank (PNB)",
+        "option_b": "Indian Overseas Bank (IOB)",
+        "option_c": "Mahindra & Mahindra Financial Services Limited (MMFSL)",
+        "option_d": "Bank of Baroda",
+        "correct_option": "B"
+    },
+    {
+        "question": "What specific violation led to the penalty on Indian Overseas Bank (IOB)?",
+        "option_a": "Failure to meet PSL targets",
+        "option_b": "Violation of RBI's collateral-free rules for agricultural loans (up to ₹1.60 lakh) and MSE loans (up to ₹10 lakh)",
+        "option_c": "Non-compliance with KYC norms",
+        "option_d": "Delay in reporting fraud",
+        "correct_option": "B"
+    },
+     {
+        "question": "RBI imposed a penalty of ₹71.30 lakh on which NBFC due to multiple compliance failures, including non-disclosure of fees and issues with loan agreements?",
+        "option_a": "Bajaj Finance Ltd",
+        "option_b": "Mahindra & Mahindra Financial Services Limited (MMFSL)",
+        "option_c": "Tata Capital Financial Services Ltd",
+        "option_d": "HDB Financial Services Ltd",
+        "correct_option": "B"
+    },
+    {
+        "question": "Where is Indian Overseas Bank (IOB) headquartered?",
+        "option_a": "Mumbai",
+        "option_b": "Kolkata",
+        "option_c": "Chennai",
+        "option_d": "New Delhi",
+        "correct_option": "C"
+    },
+    {
+        "question": "Where is Mahindra & Mahindra Financial Services Limited (MMFSL) headquartered?",
+        "option_a": "Chennai",
+        "option_b": "Pune",
+        "option_c": "Mumbai",
+        "option_d": "Gurugram",
+        "correct_option": "C"
+    },
+    {
+        "question": "Equitas Small Finance Bank renewed its partnership as the Official Banking Partner with which two IPL teams?",
+        "option_a": "Mumbai Indians and Royal Challengers Bangalore",
+        "option_b": "Chennai Super Kings (CSK) and Gujarat Titans (GT)",
+        "option_c": "Kolkata Knight Riders and Sunrisers Hyderabad",
+        "option_d": "Delhi Capitals and Rajasthan Royals",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the duration of the renewed partnership between Equitas SFB and Chennai Super Kings (CSK)?",
+        "option_a": "3rd year",
+        "option_b": "5th year",
+        "option_c": "6th year",
+        "option_d": "1st year",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the campaign name associated with Equitas SFB's partnership with the IPL teams?",
+        "option_a": "#BankingOnChampions",
+        "option_b": "#BankBehindChampions",
+        "option_c": "#EquitasPowerPlay",
+        "option_d": "#ChampionsBank",
+        "correct_option": "B"
+    },
+    {
+        "question": "Axis Bank partnered with J.P. Morgan and its blockchain unit, Kinexys, to offer what service for commercial clients in India?",
+        "option_a": "Instant Rupee payments abroad",
+        "option_b": "24/7 Cryptocurrency trading",
+        "option_c": "Real-time, 24/7 US dollar payment processing",
+        "option_d": "Cross-border trade finance platform",
+        "correct_option": "C"
+    },
+    {
+        "question": "From where will the Axis Bank and J.P. Morgan 24/7 USD payment service be operated?",
+        "option_a": "Mumbai BKC",
+        "option_b": "Delhi Aerocity",
+        "option_c": "GIFT City (Gujarat International Finance Tec-City)",
+        "option_d": "Bengaluru Electronic City",
+        "correct_option": "C"
+    },
+    {
+        "question": "On April 8, 2025, the Pradhan Mantri Mudra Yojana (PMMY) completed how many years since its launch in 2015?",
+        "option_a": "8 years",
+        "option_b": "9 years",
+        "option_c": "10 years",
+        "option_d": "11 years",
+        "correct_option": "C"
+    },
+    {
+        "question": "What kind of financial support is primarily provided under PMMY?",
+        "option_a": "Subsidized housing loans",
+        "option_b": "Collateral-free financial support to micro and small enterprises (MSEs)",
+        "option_c": "Agricultural subsidies",
+        "option_d": "Educational scholarships",
+        "correct_option": "B"
+    },
+    {
+        "question": "Since 2015, approximately how many crore loans have been disbursed under PMMY?",
+        "option_a": "32 crore",
+        "option_b": "42 crore",
+        "option_c": "52 crore",
+        "option_d": "62 crore",
+        "correct_option": "C"
+    },
+    {
+        "question": "What was the total amount disbursed through PMMY since 2015, as mentioned in the slide?",
+        "option_a": "₹25.50 lakh crore",
+        "option_b": "₹30.10 lakh crore",
+        "option_c": "₹32.61 lakh crore",
+        "option_d": "₹33.65 lakh crore (from graphic)",
+        "correct_option": "C"
+    },
+     {
+        "question": "MSME lending rose from ₹8.5 lakh crore (FY14) to what amount in FY24, with its share in bank credit growing to nearly 20%, according to the PMMY slide?",
+        "option_a": "₹20.15 lakh crore",
+        "option_b": "₹25.00 lakh crore",
+        "option_c": "₹27.25 lakh crore",
+        "option_d": "₹30.50 lakh crore",
+        "correct_option": "C"
+    },
+     {
+        "question": "What percentage of PMMY loan beneficiaries were women, as highlighted in the infographic?",
+        "option_a": "50%",
+        "option_b": "60%",
+        "option_c": "70%",
+        "option_d": "80%",
+        "correct_option": "C"
+    },
+     {
+        "question": "Under PMMY, what is the loan limit for the 'Shishu' category?",
+        "option_a": "Up to ₹50,000",
+        "option_b": "Up to ₹1 lakh",
+        "option_c": "Up to ₹5 lakh",
+        "option_d": "Up to ₹10 lakh",
+        "correct_option": "A"
+    },
+     {
+        "question": "Under PMMY, what is the loan range for the 'Kishor' category?",
+        "option_a": "₹50,001 to ₹1 lakh",
+        "option_b": "₹50,001 to ₹5 lakh",
+        "option_c": "₹1 lakh to ₹5 lakh",
+        "option_d": "₹1 lakh to ₹10 lakh",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the loan range for the 'Tarun' category under PMMY?",
+        "option_a": "₹1 lakh to ₹5 lakh",
+        "option_b": "₹5 lakh to ₹10 lakh",
+        "option_c": "Above ₹5 lakh and up to ₹10 lakh",
+        "option_d": "Above ₹10 lakh and up to ₹20 lakh",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the new loan limit for the recently introduced 'Tarun Plus' category under PMMY?",
+        "option_a": "Up to ₹15 lakh",
+        "option_b": "Above ₹10 lakh and up to ₹20 lakh",
+        "option_c": "Up to ₹25 lakh",
+        "option_d": "Above ₹5 lakh and up to ₹15 lakh",
+        "correct_option": "B"
+    },
+     {
+        "question": "The increase in the PMMY Tarun loan limit (creating Tarun Plus) was announced on which anniversary of the scheme?",
+        "option_a": "5th Anniversary",
+        "option_b": "8th Anniversary",
+        "option_c": "10th Anniversary",
+        "option_d": "12th Anniversary",
+        "correct_option": "C"
+    },
+    {
+        "question": "SBI reintroduced its special FD scheme, 'Amrit Vrishti', effective from which date in 2025?",
+        "option_a": "April 1, 2025",
+        "option_b": "April 15, 2025",
+        "option_c": "May 1, 2025",
+        "option_d": "March 31, 2025",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the specific tenure of the SBI 'Amrit Vrishti' FD scheme?",
+        "option_a": "365 days",
+        "option_b": "400 days",
+        "option_c": "444 days",
+        "option_d": "555 days",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the revised interest rate offered under the SBI 'Amrit Vrishti' scheme (444 days) for Senior Citizens (60+)?",
+        "option_a": "7.75%",
+        "option_b": "7.65%",
+        "option_c": "7.55%",
+        "option_d": "7.05%",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the specific interest rate offered under the SBI 'Amrit Vrishti' scheme (444 days) for Super Senior Citizens (80+)?",
+        "option_a": "7.55%",
+        "option_b": "7.65%",
+        "option_c": "7.75%",
+        "option_d": "8.05%",
+        "correct_option": "B"
+    },
+     {
+        "question": "What is the revised interest rate offered under the SBI 'Amrit Vrishti' scheme (444 days) for the General Public?",
+        "option_a": "7.25%",
+        "option_b": "7.55%",
+        "option_c": "7.05%",
+        "option_d": "6.95%",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the name of the initiative launched by SBI deploying specially trained personnel to assist customers and promote digital banking adoption at branches?",
+        "option_a": "SBI Mitra",
+        "option_b": "Grahak Seva Kendra",
+        "option_c": "Grahak Mitras",
+        "option_d": "Digital Dost",
+        "correct_option": "C"
+    },
+    {
+        "question": "The 'Grahak Mitras' deployed by SBI are personnel from which subsidiary?",
+        "option_a": "SBI Life Insurance",
+        "option_b": "SBI Capital Markets",
+        "option_c": "SBI General Insurance",
+        "option_d": "State Bank Operations Support Services (SBOSS)",
+        "correct_option": "D"
+    },
+     {
+        "question": "What is the primary objective of deploying 'Grahak Mitras' at SBI branches?",
+        "option_a": "To sell insurance products",
+        "option_b": "To handle cash transactions only",
+        "option_c": "To decongest branches, reduce footfall for routine transactions, and promote digital literacy",
+        "option_d": "To provide investment advice",
+        "correct_option": "C"
+    },
+    {
+        "question": "Initially, around how many SBI branches (nearly 20% of network) were planned for the deployment of 'Grahak Mitras'?",
+        "option_a": "2,500",
+        "option_b": "3,500",
+        "option_c": "4,500",
+        "option_d": "5,500",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which savings account was launched by Bandhan Bank targeting High Net-worth Individuals (HNIs)?",
+        "option_a": "Bandhan Premium Savings",
+        "option_b": "Bandhan Elite Plus Savings Account",
+        "option_c": "Bandhan HNI Advantage",
+        "option_d": "Bandhan Wealth Management Account",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the name of the retail term deposit scheme launched by Bank of Baroda (BoB) with a tenure of 444 days?",
+        "option_a": "BoB Advantage Deposit",
+        "option_b": "BoB Square Drive Deposit Scheme",
+        "option_c": "BoB 444 Special Deposit",
+        "option_d": "BoB Retail Bonanza",
+        "correct_option": "B"
+    },
+     {
+        "question": "What is the eligibility criteria (maximum deposit amount) for the BoB Square Drive Deposit Scheme?",
+        "option_a": "Retail term deposits below ₹1 crore",
+        "option_b": "Retail term deposits below ₹2 crore",
+        "option_c": "Retail term deposits below ₹3 crore",
+        "option_d": "Retail term deposits below ₹5 crore",
+        "correct_option": "C"
+    },
+    {
+        "question": "PNB celebrated its 131st Foundation Day on which date in 2025, launching 34 new initiatives?",
+        "option_a": "April 1, 2025",
+        "option_b": "April 12, 2025",
+        "option_c": "April 19, 2025",
+        "option_d": "May 19, 2025",
+        "correct_option": "B"
+    },
+    {
+        "question": "How many new deposit schemes were launched by PNB as part of its Foundation Day initiatives?",
+        "option_a": "10",
+        "option_b": "12",
+        "option_c": "15",
+        "option_d": "34",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the name of the AI-powered live chat assistant launched by PNB as part of its digital transformation products?",
+        "option_a": "PNB Dost",
+        "option_b": "PNB Genie",
+        "option_c": "Pihu",
+        "option_d": "PNB Saathi",
+        "correct_option": "C"
+    },
+    {
+        "question": "What was the theme of the 'Cyber Run - Half Marathon' cybersecurity initiative organized by PNB?",
+        "option_a": "Secure Banking, Secure India",
+        "option_b": "Cyber Safe India",
+        "option_c": "Cyber Run - Empowering a Secure Digital India",
+        "option_d": "Digital Safety First",
+        "correct_option": "C"
+    },
+    {
+        "question": "According to the slides (March 2025 data), what was the Retail Inflation (CPI) rate?",
+        "option_a": "3.61%",
+        "option_b": "3.34%",
+        "option_c": "2.69%",
+        "option_d": "4.85%",
+        "correct_option": "B"
+    },
+    {
+        "question": "The Retail Inflation (CPI) in March 2025 was the lowest since which month/year?",
+        "option_a": "August 2019",
+        "option_b": "January 2020",
+        "option_c": "March 2021",
+        "option_d": "July 2022",
+        "correct_option": "A"
+    },
+     {
+        "question": "What was the primary driver for the decline in food inflation (CPI) to 2.69% in March 2025 from 3.75% in February 2025?",
+        "option_a": "Rise in vegetable prices",
+        "option_b": "Sharp decline in prices of vegetables, eggs, and pulses",
+        "option_c": "Increase in prices of oils & fats",
+        "option_d": "Higher sugar prices",
+        "correct_option": "B"
+    },
+    {
+        "question": "According to the slides (March 2025 data), what was the Wholesale Price Index (WPI) inflation rate?",
+        "option_a": "2.86%",
+        "option_b": "3.07%",
+        "option_c": "2.05%",
+        "option_d": "1.57%",
+        "correct_option": "C"
+    },
+    {
+        "question": "The WPI inflation rate in March 2025 (2.05%) was reported as a low of how many months?",
+        "option_a": "Three-Month Low",
+        "option_b": "Six-Month Low",
+        "option_c": "Nine-Month Low",
+        "option_d": "Twelve-Month Low",
+        "correct_option": "B"
+    },
+    {
+        "question": "While overall WPI eased in March 2025, which component saw a sequential increase in inflation to 3.07%?",
+        "option_a": "Primary Articles",
+        "option_b": "Fuel and Power",
+        "option_c": "Manufactured Goods",
+        "option_d": "Food Articles",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the weightage of 'Food and beverages' in the Combined CPI series (Base 2011-12)?",
+        "option_a": "47.58%",
+        "option_b": "36.29%",
+        "option_c": "45.86%",
+        "option_d": "54.18%",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the weightage of 'Manufactured Products' in the WPI (Base 2011-12)?",
+        "option_a": "22.62%",
+        "option_b": "13.15%",
+        "option_c": "64.23%",
+        "option_d": "24.38%",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the base year for the current WPI series discussed in the slides?",
+        "option_a": "2004-05",
+        "option_b": "2011-12",
+        "option_c": "Calendar Year 2012",
+        "option_d": "2017-18",
+        "correct_option": "B"
+    },
+     {
+        "question": "How many items are included in the WPI basket (Base 2011-12)?",
+        "option_a": "448 items",
+        "option_b": "460 items",
+        "option_c": "697 items",
+        "option_d": "1200 items",
+        "correct_option": "C"
+    },
+     {
+        "question": "How many items are included in the CPI basket (Base 2011-12) for Urban areas?",
+        "option_a": "448 items",
+        "option_b": "460 items",
+        "option_c": "697 items",
+        "option_d": "Variable",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which type of monetary policy stance involves the central bank attempting to expand the overall money supply to boost a slowing economy, often called 'easy monetary policy'?",
+        "option_a": "Hawkish",
+        "option_b": "Dovish",
+        "option_c": "Accommodative",
+        "option_d": "Neutral",
+        "correct_option": "C"
+    },
+     {
+        "question": "Which monetary policy stance favours high-interest rates to keep inflation in check?",
+        "option_a": "Hawkish",
+        "option_b": "Dovish",
+        "option_c": "Accommodative",
+        "option_d": "Neutral",
+        "correct_option": "A"
+    },
+     {
+        "question": "A monetary policy stance characterized by low interest rates to encourage borrowing and spending is known as:",
+        "option_a": "Hawkish",
+        "option_b": "Dovish",
+        "option_c": "Accommodative",
+        "option_d": "Neutral",
+        "correct_option": "B"
+    },
+     {
+        "question": "What characterizes a 'Neutral' monetary policy stance?",
+        "option_a": "Actively increasing interest rates",
+        "option_b": "Actively decreasing interest rates",
+        "option_c": "Policy rates neither stimulate nor restrain economic growth; key rates are unchanged",
+        "option_d": "Focusing solely on currency exchange rates",
+        "correct_option": "C"
+    },
+    {
+        "question": "Morgan Stanley revised India's FY26 Growth Forecast downwards to what percentage, citing uncertainty due to trade and tariff policies?",
+        "option_a": "6.5%",
+        "option_b": "6.3%",
+        "option_c": "6.1%",
+        "option_d": "6.0%",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is Morgan Stanley's expected GDP growth for India in FY27?",
+        "option_a": "6.1%",
+        "option_b": "6.3%",
+        "option_c": "6.5%",
+        "option_d": "6.7%",
+        "correct_option": "B"
+    },
+    {
+        "question": "Who is the current Chairman and CEO of Morgan Stanley?",
+        "option_a": "James P. Gorman (Chairman Emeritus)",
+        "option_b": "Ted Pick",
+        "option_c": "Andy Saperstein",
+        "option_d": "Henry Sturgis Morgan",
+        "correct_option": "B"
+    },
+    {
+        "question": "Ajay Bhushan Pandey, former NFRA Chairperson, has joined which international financial institution as Vice President, Investment Solutions?",
+        "option_a": "World Bank",
+        "option_b": "International Monetary Fund (IMF)",
+        "option_c": "Asian Development Bank (ADB)",
+        "option_d": "Asian Infrastructure Investment Bank (AIIB)",
+        "correct_option": "D"
+    },
+    {
+        "question": "Which three departments at AIIB will Ajay Bhushan Pandey be leading?",
+        "option_a": "HR, IT, and Legal",
+        "option_b": "Sectors/Themes/Finance Solutions, Sustainability/Fiduciary Solutions, and Portfolio Management",
+        "option_c": "Treasury, Risk Management, and Communications",
+        "option_d": "Economic Research, Project Finance, and Member Relations",
+        "correct_option": "B"
+    },
+    {
+        "question": "Where is the headquarters of the Asian Infrastructure Investment Bank (AIIB)?",
+        "option_a": "Manila, Philippines",
+        "option_b": "Beijing, China",
+        "option_c": "Shanghai, China",
+        "option_d": "Washington D.C., US",
+        "correct_option": "B"
+    },
+    {
+        "question": "Who is the current President of the AIIB?",
+        "option_a": "Ajay Bhushan Pandey",
+        "option_b": "Kristalina Georgieva",
+        "option_c": "Jin Liqun",
+        "option_d": "Masatsugu Asakawa",
+        "correct_option": "C"
+    },
+    {
+        "question": "IDFC First Bank is raising ₹7,500 crore in equity capital from which two major investors?",
+        "option_a": "Blackstone and KKR",
+        "option_b": "Warburg Pincus LLC and Abu Dhabi Investment Authority (ADIA)",
+        "option_c": "Softbank Vision Fund and Temasek Holdings",
+        "option_d": "Sequoia Capital and Carlyle Group",
+        "correct_option": "B"
+    },
+    {
+        "question": "How much of the ₹7,500 crore investment in IDFC First Bank is being contributed by Warburg Pincus?",
+        "option_a": "₹2,624 crore",
+        "option_b": "₹3,750 crore",
+        "option_c": "₹4,876 crore",
+        "option_d": "₹7,500 crore",
+        "correct_option": "C"
+    },
+    {
+        "question": "What will be the approximate post-money stake of Warburg Pincus in IDFC First Bank after the investment?",
+        "option_a": "5.1%",
+        "option_b": "7.5%",
+        "option_c": "9.48%",
+        "option_d": "12.3%",
+        "correct_option": "C"
+    },
+    {
+        "question": "What will be the approximate post-money stake of ADIA in IDFC First Bank after the investment?",
+        "option_a": "5.1%",
+        "option_b": "9.48%",
+        "option_c": "2.6%",
+        "option_d": "10.0%",
+        "correct_option": "A"
+    },
+    {
+        "question": "Who is the MD & CEO of IDFC First Bank?",
+        "option_a": "Sandeep Bakhshi",
+        "option_b": "Amitabh Chaudhry",
+        "option_c": "V. Vaidyanathan",
+        "option_d": "Uday Kotak",
+        "correct_option": "C"
+    },
+    {
+        "question": "RBI imposed a penalty of ₹38.6 lakh on IDFC First Bank for violating which norms?",
+        "option_a": "Priority Sector Lending norms",
+        "option_b": "Capital Adequacy norms",
+        "option_c": "Know Your Customer (KYC) norms",
+        "option_d": "Loan system directions",
+        "correct_option": "C"
+    },
+    {
+        "question": "RBI imposed a penalty of ₹61.40 lakh on Kotak Mahindra Bank for non-compliance related to:",
+        "option_a": "KYC norms",
+        "option_b": "Directions on the loan system for delivery of bank credit and statutory provisions on loans/advances",
+        "option_c": "Customer service rules",
+        "option_d": "Reporting requirements",
+        "correct_option": "B"
+    },
+    {
+        "question": "RBI imposed a penalty of ₹29.6 lakh on Punjab National Bank (PNB) for failing to comply with rules related to:",
+        "option_a": "KYC norms",
+        "option_b": "Loan provisions",
+        "option_c": "'Customer service in banks'",
+        "option_d": "Agricultural lending",
+        "correct_option": "C"
+    },
+    {
+        "question": "Who has been appointed as the new Secretary of the Department of Revenue in the Ministry of Finance?",
+        "option_a": "Ajay Seth",
+        "option_b": "Vumlunmang Vualnam",
+        "option_c": "Arvind Shrivastava",
+        "option_d": "Anuradha Thakur",
+        "correct_option": "C"
+    },
+    {
+        "question": "Who has been appointed as the new Secretary of the Department of Expenditure (DoE) in the Ministry of Finance?",
+        "option_a": "Arvind Shrivastava",
+        "option_b": "Anuradha Thakur",
+        "option_c": "Manoj Govil",
+        "option_d": "Vumlunmang Vualnam",
+        "correct_option": "D"
+    },
+     {
+        "question": "Who has been appointed as Officer on Special Duty (OSD) in the Department of Economic Affairs (DEA) and will become Secretary DEA upon Ajay Seth's retirement?",
+        "option_a": "Arvind Shrivastava",
+        "option_b": "Vumlunmang Vualnam",
+        "option_c": "Anuradha Thakur",
+        "option_d": "K Moses Chalai",
+        "correct_option": "C"
+    },
+     {
+        "question": "Who is the outgoing Expenditure Secretary appointed as Secretary-Coordination in the Cabinet Secretariat?",
+        "option_a": "Ajay Seth",
+        "option_b": "Manoj Govil",
+        "option_c": "Arunish Chawla",
+        "option_d": "Tuhin Kanta Pandey",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which two entities collaborated to launch the co-branded 'Tata Neu SBI Card'?",
+        "option_a": "SBI and Tata Motors",
+        "option_b": "SBI Card and Tata Digital",
+        "option_c": "SBI Life and Tata AIG",
+        "option_d": "SBI Mutual Fund and Tata Sons",
+        "correct_option": "B"
+    },
+     {
+        "question": "What are the two variants of the Tata Neu SBI Card?",
+        "option_a": "Standard and Premium",
+        "option_b": "Classic and Platinum",
+        "option_c": "Plus and Infinity",
+        "option_d": "Select and Prime",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the maximum percentage earned back as NeuCoins on the Tata Neu Infinity SBI Card for purchases via Tata Neu and partner brands?",
+        "option_a": "5%",
+        "option_b": "7%",
+        "option_c": "10%",
+        "option_d": "12%",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the percentage earned back as NeuCoins on the Tata Neu Plus SBI Card for purchases via Tata Neu and partner brands?",
+        "option_a": "3%",
+        "option_b": "5%",
+        "option_c": "7%",
+        "option_d": "10%",
+        "correct_option": "C"
+    },
+    {
+        "question": "Where can the NeuCoins earned on the Tata Neu SBI Card be redeemed?",
+        "option_a": "Only for flight bookings",
+        "option_b": "On the Tata Neu app for various lifestyle categories",
+        "option_c": "As statement credit only",
+        "option_d": "At any SBI branch",
+        "correct_option": "B"
+    },
+    {
+        "question": "According to the IMF data presented, what is India's projected GDP growth rate for FY26 (labelled 2025)?",
+        "option_a": "6.5%",
+        "option_b": "6.2%",
+        "option_c": "6.7%",
+        "option_d": "7.0%",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the IMF's projected GDP growth rate for India for FY27 (labelled 2026)?",
+        "option_a": "6.2%",
+        "option_b": "6.3%",
+        "option_c": "6.4%",
+        "option_d": "6.5%",
+        "correct_option": "B"
+    },
+     {
+        "question": "Which agency projected India's FY26 GDP growth at 6.7%?",
+        "option_a": "IMF",
+        "option_b": "Moody's",
+        "option_c": "ADB",
+        "option_d": "Fitch",
+        "correct_option": "C"
+    },
+     {
+        "question": "Which agency projected India's FY26 GDP growth at 5.5-6.5%?",
+        "option_a": "IMF",
+        "option_b": "Moody's",
+        "option_c": "ADB",
+        "option_d": "UBS",
+        "correct_option": "B"
+    },
+     {
+        "question": "What is the IMF's projected Global Output (World GDP) growth for 2025?",
+        "option_a": "3.3%",
+        "option_b": "2.8%",
+        "option_c": "3.0%",
+        "option_d": "3.7%",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the IMF's projected Global Output (World GDP) growth for 2026?",
+        "option_a": "2.8%",
+        "option_b": "3.3%",
+        "option_c": "3.9%",
+        "option_d": "3.0%",
+        "correct_option": "D"
+    },
+     {
+        "question": "What is the primary reason cited for the downward revision in global growth forecasts and intensifying downside risks?",
+        "option_a": "Unexpected rise in oil prices",
+        "option_b": "Shifting government policy priorities, high uncertainty, and factors like effective tariff rates",
+        "option_c": "Faster than expected recovery in advanced economies",
+        "option_d": "Decline in commodity prices",
+        "correct_option": "B"
+    },
+    {
+        "question": "Who is the Managing Director of the IMF?",
+        "option_a": "Gita Gopinath",
+        "option_b": "Pierre-Olivier Gourinchas",
+        "option_c": "Kristalina Georgieva",
+        "option_d": "David Malpass",
+        "correct_option": "C"
+    },
+    {
+        "question": "Who is the First Deputy Managing Director of the IMF?",
+        "option_a": "Kristalina Georgieva",
+        "option_b": "Gita Gopinath",
+        "option_c": "Pierre-Olivier Gourinchas",
+        "option_d": "Anshula Kant",
+        "correct_option": "B"
+    },
+    {
+        "question": "Where is the headquarters of the IMF located?",
+        "option_a": "Geneva, Switzerland",
+        "option_b": "New York, U.S.",
+        "option_c": "Washington, D.C., U.S.",
+        "option_d": "London, U.K.",
+        "correct_option": "C"
+    },
+    {
+        "question": "The term of RBI Deputy Governor T Rabi Sankar has been extended by how long, effective from May 3, 2025?",
+        "option_a": "Six months",
+        "option_b": "One year",
+        "option_c": "Two years",
+        "option_d": "Three years",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which department is NOT listed among the portfolios held by RBI Deputy Governor T Rabi Sankar?",
+        "option_a": "Currency Management",
+        "option_b": "Foreign Exchange Department",
+        "option_c": "Department of Supervision",
+        "option_d": "Department of Payment and Settlement Systems",
+        "correct_option": "C"
+    },
+    {
+        "question": "The Indian Ministry of Finance imposed a provisional safeguard duty of what percentage on imports of certain steel products, effective April 21, 2025?",
+        "option_a": "10%",
+        "option_b": "12%",
+        "option_c": "15%",
+        "option_d": "20%",
+        "correct_option": "B"
+    },
+    {
+        "question": "For how long will the 12% provisional safeguard duty on steel imports remain in effect, unless revoked or amended earlier?",
+        "option_a": "100 days",
+        "option_b": "150 days",
+        "option_c": "200 days",
+        "option_d": "365 days",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the primary purpose cited for imposing the 12% safeguard duty on steel imports?",
+        "option_a": "To raise government revenue",
+        "option_b": "To encourage steel exports",
+        "option_c": "To protect the domestic steel industry from injury caused by a recent surge in imports, particularly cheap imports from China",
+        "option_d": "To comply with WTO regulations",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which body recommended the imposition of the 12% safeguard duty for 200 days?",
+        "option_a": "Ministry of Steel",
+        "option_b": "Directorate General of Foreign Trade (DGFT)",
+        "option_c": "Directorate General of Trade Remedies (DGTR)",
+        "option_d": "Competition Commission of India (CCI)",
+        "correct_option": "C"
+    },
+     {
+        "question": "Imports from which two countries are explicitly NOT excluded from the 12% safeguard duty on steel?",
+        "option_a": "Japan and South Korea",
+        "option_b": "USA and European Union",
+        "option_c": "China and Vietnam",
+        "option_d": "Russia and Brazil",
+        "correct_option": "C"
+    },
+    {
+        "question": "According to the projection shown, India's annual steel production is expected to exceed how many million tons by 2030-31?",
+        "option_a": "200 million tons",
+        "option_b": "250 million tons",
+        "option_c": "300 million tons",
+        "option_d": "350 million tons",
+        "correct_option": "C"
+    },
+     {
+        "question": "What is India's estimated crude steel production capacity for FY24 (ending March 2024) as per the bar chart?",
+        "option_a": "160 million tonnes",
+        "option_b": "171 million tonnes",
+        "option_c": "144 million tonnes",
+        "option_d": "300 million tonnes",
+        "correct_option": "B"
+    },
+    {
+        "question": "Who welcomed the safeguard duty as critical to address unfairly priced imports and support India's self-reliant steel sector?",
+        "option_a": "Steel Minister HD Kumaraswamy",
+        "option_b": "TV Narendran (CEO, Tata Steel)",
+        "option_c": "DGTR Chief",
+        "option_d": "Finance Secretary",
+        "correct_option": "B"
+    },
+     {
+        "question": "RBI released final rules on Liquidity Coverage Ratio (LCR) where the implementation date for the final norms is set to:",
+        "option_a": "April 2025",
+        "option_b": "October 2025",
+        "option_c": "January 2026",
+        "option_d": "April 2026",
+        "correct_option": "D"
+    },
+    {
+        "question": "The final LCR rules mandate an additional 'run-off' factor of what percentage for retail and small business deposits accessible via internet and mobile banking (IMB)?",
+        "option_a": "5%",
+        "option_b": "2.5%",
+        "option_c": "7.5%",
+        "option_d": "10%",
+        "correct_option": "B"
+    },
+    {
+        "question": "What was the higher additional run-off factor proposed in the draft LCR guidelines for IMB-accessible retail/small business deposits?",
+        "option_a": "2.5%",
+        "option_b": "3.5%",
+        "option_c": "5%",
+        "option_d": "7.5%",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the resulting run-off rate for 'Stable retail deposits (IMB enabled)' under the final LCR norms?",
+        "option_a": "5%",
+        "option_b": "7.5%",
+        "option_c": "10%",
+        "option_d": "12.5%",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the resulting run-off rate for 'Less stable retail deposits (IMB enabled)' under the final LCR norms?",
+        "option_a": "7.5%",
+        "option_b": "10%",
+        "option_c": "12.5%",
+        "option_d": "15%",
+        "correct_option": "C"
+    },
+    {
+        "question": "According to rating agency ICRA's estimate, how much in lendable resources could the lower-than-proposed run-off factor potentially free up for banks?",
+        "option_a": "₹1.5 - ₹2 lakh crore",
+        "option_b": "₹2.7 - ₹3 lakh crore",
+        "option_c": "₹3.5 - ₹4 lakh crore",
+        "option_d": "₹4.0 - ₹4.5 lakh crore",
+        "correct_option": "B"
+    },
+     {
+        "question": "The final LCR norms reduced the run-off rate for wholesale funding from non-financial entities (trusts, partnerships, LLPs etc.) to what percentage from the current 100%?",
+        "option_a": "75%",
+        "option_b": "60%",
+        "option_c": "50%",
+        "option_d": "40%",
+        "correct_option": "D"
+    },
+    {
+        "question": "What is the objective of the Liquidity Coverage Ratio (LCR) norms?",
+        "option_a": "To ensure banks have enough capital",
+        "option_b": "To limit banks' exposure to specific sectors",
+        "option_c": "To ensure banks hold enough High-Quality Liquid Assets (HQLAs) to cover net cash outflows over a 30-day stress period",
+        "option_d": "To regulate interest rates on deposits",
+        "correct_option": "C"
+    },
+    {
+        "question": "RBI deferred the implementation of stricter project financing norms, originally planned for April 1, 2025, to when?",
+        "option_a": "October 1, 2025",
+        "option_b": "January 1, 2026",
+        "option_c": "March 31, 2026",
+        "option_d": "April 1, 2026",
+        "correct_option": "C"
+    },
+     {
+        "question": "The RBI's proposed (now deferred) project financing norms required lenders to set aside provisions up to what percentage of outstanding exposure during the construction phase?",
+        "option_a": "1%",
+        "option_b": "2.5%",
+        "option_c": "5%",
+        "option_d": "7.5%",
+        "correct_option": "C"
+    },
+     {
+        "question": "Under the phased implementation proposed for project loan provisions, what was the provisioning rate expected in Phase II (FY26)?",
+        "option_a": "2%",
+        "option_b": "3.5%",
+        "option_c": "5%",
+        "option_d": "1%",
+        "correct_option": "B"
+    },
+    {
+        "question": "RBI has revised its guidelines allowing minors of what age and above to open and operate savings/term deposit accounts independently?",
+        "option_a": "8 years and above",
+        "option_b": "10 years and above",
+        "option_c": "12 years and above",
+        "option_d": "14 years and above",
+        "correct_option": "B"
+    },
+    {
+        "question": "To which types of banks do the revised RBI guidelines on minor accounts apply?",
+        "option_a": "Only Commercial Banks",
+        "option_b": "Only Co-operative Banks",
+        "option_c": "All Commercial Banks, Primary (Urban) Co-op Banks, State Co-op Banks, and District Central Co-op Banks",
+        "option_d": "Only Small Finance Banks and Payments Banks",
+        "correct_option": "C"
+    },
+     {
+        "question": "Can accounts held by minors (operated independently or by guardian) be allowed to be overdrawn?",
+        "option_a": "Yes, up to a certain limit",
+        "option_b": "Yes, with parental consent",
+        "option_c": "No, they must not be allowed to be overdrawn and must always maintain a credit balance",
+        "option_d": "Only term deposit accounts can be overdrawn",
+        "correct_option": "C"
+    },
+    {
+        "question": "What must banks obtain when a minor account holder attains majority (Age 18)?",
+        "option_a": "A new photograph only",
+        "option_b": "Fresh operating instructions and specimen signature",
+        "option_c": "Consent from the former guardian",
+        "option_d": "Proof of income",
+        "correct_option": "B"
+    },
+    {
+        "question": "Can banks offer additional facilities like internet banking, ATM/debit cards, or cheque books to minor account holders?",
+        "option_a": "No, it is strictly prohibited",
+        "option_b": "Yes, but only after age 16",
+        "option_c": "Yes, at their discretion based on risk assessment, product suitability, and customer appropriateness",
+        "option_d": "Yes, but only with joint operation by guardian",
+        "correct_option": "C"
+    },
+    {
+        "question": "Banks must adhere to which norms for the opening and ongoing monitoring of minor accounts?",
+        "option_a": "Priority Sector Lending (PSL) norms",
+        "option_b": "Capital Adequacy Ratio (CAR) norms",
+        "option_c": "Customer Due Diligence (CDD) norms as per Master Direction on KYC",
+        "option_d": "Foreign Exchange Management Act (FEMA) norms",
+        "correct_option": "C"
+    },
+    {
+        "question": "Under which sections of the Banking Regulation Act, 1949 are the guidelines for minor accounts issued?",
+        "option_a": "Sections 21 and 35A",
+        "option_b": "Sections 35A and 56",
+        "option_c": "Sections 10 and 21A",
+        "option_d": "Sections 45U and 45W",
+        "correct_option": "B"
+    },
+    {
+        "question": "What is the deadline for banks to update their policies to align with the revised guidelines on minor accounts?",
+        "option_a": "January 1, 2025",
+        "option_b": "April 1, 2025",
+        "option_c": "July 01, 2025",
+        "option_d": "October 31, 2025",
+        "correct_option": "C"
+    },
+    {
+        "question": "RBI has increased the ATM transaction fee (beyond free limits) for customers to what amount, effective from May 1st, 2025?",
+        "option_a": "₹20",
+        "option_b": "₹21",
+        "option_c": "₹23",
+        "option_d": "₹25",
+        "correct_option": "C"
+    },
+    {
+        "question": "How many free transactions (financial and non-financial) are customers eligible for at their own bank ATMs per month?",
+        "option_a": "Three",
+        "option_b": "Five",
+        "option_c": "Seven",
+        "option_d": "Unlimited",
+        "correct_option": "B"
+    },
+    {
+        "question": "How many free transactions are customers eligible for at other bank ATMs in metro cities per month?",
+        "option_a": "One",
+        "option_b": "Three",
+        "option_c": "Five",
+        "option_d": "None",
+        "correct_option": "B"
+    },
+    {
+        "question": "How many free transactions are customers eligible for at other bank ATMs in non-metro cities per month?",
+        "option_a": "Three",
+        "option_b": "Five",
+        "option_c": "Seven",
+        "option_d": "One",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which committee approved the increase in the ATM interchange fee?",
+        "option_a": "RBI Monetary Policy Committee",
+        "option_b": "NPCI Board of Directors",
+        "option_c": "National Financial Switch (NFS) steering committee",
+        "option_d": "Indian Banks' Association (IBA) committee",
+        "correct_option": "C"
+    },
+    {
+        "question": "Effective May 1, 2025, the ATM interchange fee for cash withdrawal transactions increased from ₹17 to what amount per transaction?",
+        "option_a": "₹18",
+        "option_b": "₹19",
+        "option_c": "₹20",
+        "option_d": "₹21",
+        "correct_option": "B"
+    },
+    {
+        "question": "Effective May 1, 2025, the ATM interchange fee for non-financial transactions (like balance inquiry) increased from ₹6 to what amount per transaction?",
+        "option_a": "₹7",
+        "option_b": "₹8",
+        "option_c": "₹9",
+        "option_d": "₹10",
+        "correct_option": "A"
+    },
+     {
+        "question": "Who has been appointed as the Deputy Governor of the RBI for a three-year term, primarily responsible for steering Monetary Policy?",
+        "option_a": "Michael Debabrata Patra",
+        "option_b": "M Rajeshwar Rao",
+        "option_c": "Poonam Gupta",
+        "option_d": "T Rabi Sankar",
+        "correct_option": "C"
+    },
+    {
+        "question": "Who did Poonam Gupta succeed as the RBI Deputy Governor holding the Monetary Policy portfolio?",
+        "option_a": "Viral Acharya",
+        "option_b": "N S Vishwanathan",
+        "option_c": "Michael Debabrata Patra",
+        "option_d": "Urjit Patel",
+        "correct_option": "C"
+    },
+     {
+        "question": "Poonam Gupta was formerly the Director General of which economic research institution?",
+        "option_a": "National Institute of Public Finance and Policy (NIPFP)",
+        "option_b": "Indian Council for Research on International Economic Relations (ICRIER)",
+        "option_c": "National Council of Applied Economic Research (NCAER)",
+        "option_d": "Institute of Economic Growth (IEG)",
+        "correct_option": "C"
+    },
+    {
+        "question": "Poonam Gupta has previous experience working with which international organizations?",
+        "option_a": "World Trade Organization (WTO) and UNCTAD",
+        "option_b": "World Bank and International Monetary Fund (IMF)",
+        "option_c": "Asian Development Bank (ADB) and AIIB",
+        "option_d": "Bank for International Settlements (BIS) and OECD",
+        "correct_option": "B"
+    },
+     {
+        "question": "Poonam Gupta was also a member of which important government advisory council?",
+        "option_a": "NITI Aayog",
+        "option_b": "Economic Advisory Council to the Prime Minister (PMEAC)",
+        "option_c": "Board of SEBI",
+        "option_d": "Board of IRDAI",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which Finance Commission was Poonam Gupta associated with as Convener of the advisory council?",
+        "option_a": "14th Finance Commission",
+        "option_b": "15th Finance Commission",
+        "option_c": "16th Finance Commission",
+        "option_d": "13th Finance Commission",
+        "correct_option": "C"
+    },
+     {
+        "question": "According to the portfolio distribution shown (effective May 2, 2025), which Deputy Governor heads departments like Co-ordination, Regulation, Enforcement, Legal, and Risk Monitoring?",
+        "option_a": "Shri M Rajeshwar Rao",
+        "option_b": "Shri T Rabi Sankar",
+        "option_c": "Shri Swaminathan Janakiraman",
+        "option_d": "Dr. Poonam Gupta",
+        "correct_option": "A"
+    },
+    {
+        "question": "Which Deputy Governor's portfolio includes Central Security Cell, Currency Management, External Investments & Operations, and Payment & Settlement Systems?",
+        "option_a": "Shri M Rajeshwar Rao",
+        "option_b": "Shri T Rabi Sankar",
+        "option_c": "Shri Swaminathan Janakiraman",
+        "option_d": "Dr. Poonam Gupta",
+        "correct_option": "B"
+    },
+     {
+        "question": "Which Deputy Governor oversees departments like Consumer Education & Protection, Supervision, Financial Inclusion, Inspection, and DICGC?",
+        "option_a": "Shri M Rajeshwar Rao",
+        "option_b": "Shri T Rabi Sankar",
+        "option_c": "Shri Swaminathan Janakiraman",
+        "option_d": "Dr. Poonam Gupta",
+        "correct_option": "C"
+    },
+     {
+        "question": "Dr. Poonam Gupta, as Deputy Governor for Monetary Policy, oversees which key departments?",
+        "option_a": "Regulation, Enforcement, Legal",
+        "option_b": "Supervision, Inspection, Financial Inclusion",
+        "option_c": "Economic and Policy Research, Statistics and Information Management, Financial Markets Operations, International Department, Monetary Policy Department",
+        "option_d": "Currency Management, Payment Systems, Foreign Exchange",
+        "correct_option": "C"
+    },
+    {
+        "question": "Who was the first lady deputy governor of RBI?",
+        "option_a": "Shyamala Gopinath",
+        "option_b": "Usha Thorat",
+        "option_c": "K.J. Udeshi",
+        "option_d": "Poonam Gupta",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the standard transaction limit for UPI P2P and P2M payments, according to the slide?",
+        "option_a": "₹50,000",
+        "option_b": "₹1 lakh",
+        "option_c": "₹2 lakh",
+        "option_d": "₹5 lakh",
+        "correct_option": "B"
+    },
+     {
+        "question": "For specific use cases like Capital Markets, Insurance, etc., what is the higher UPI transaction limit mentioned?",
+        "option_a": "₹1 lakh",
+        "option_b": "₹2 lakh",
+        "option_c": "₹3 lakh",
+        "option_d": "₹5 lakh",
+        "correct_option": "B"
+    },
+     {
+        "question": "For IPO, RDG/Hospital/Educational payments, what is the highest UPI transaction limit mentioned?",
+        "option_a": "₹1 lakh",
+        "option_b": "₹2 lakh",
+        "option_c": "₹5 lakh",
+        "option_d": "₹10 lakh",
+        "correct_option": "C"
+    },
+     {
+        "question": "Who may announce and revise UPI transaction limits based on evolving user needs, in consultation with banks and stakeholders?",
+        "option_a": "Reserve Bank of India (RBI)",
+        "option_b": "National Payments Corporation of India (NPCI)",
+        "option_c": "Ministry of Finance",
+        "option_d": "Individual Banks",
+        "correct_option": "B"
+    },
+    {
+      "question": "What was the key feature introduced by SEBI in April 2025 to enhance the Bond Central platform’s accessibility for retail investors?",
+      "option_a": "Mandatory demat account linkage",
+      "option_b": "Integration with UPI for bond purchases",
+      "option_c": "Zero transaction fees for bonds under ₹1 lakh",
+      "option_d": "Daily NAV updates for corporate bonds",
+      "correct_option": "B"
+    },
+    {
+      "question": "In April 2025, SEBI revised its framework for which of the following to strengthen oversight of mutual funds?",
+      "option_a": "Systematic Investment Plans (SIPs)",
+      "option_b": "Know Your Customer (KYC) norms",
+      "option_c": "Environmental, Social, and Governance (ESG) disclosures",
+      "option_d": "Expense ratio caps",
+      "correct_option": "C"
+    },
+    {
+      "question": "Which new initiative did SEBI launch in April 2025 to curb insider trading in listed companies?",
+      "option_a": "Real-time trade monitoring system",
+      "option_b": "Mandatory quarterly compliance audits",
+      "option_c": "Whistleblower reward program",
+      "option_d": "AI-based surveillance for SME exchanges",
+      "correct_option": "C"
+    },
+    {
+      "question": "According to RBI data, what was India’s foreign exchange reserve level as of April 30, 2025?",
+      "option_a": "$672.15 billion",
+      "option_b": "$659.83 billion",
+      "option_c": "$685.42 billion",
+      "option_d": "$647.29 billion",
+      "correct_option": "A"
+    },
+    {
+      "question": "What was India’s trade deficit for April 2025, as reported by the Ministry of Commerce?",
+      "option_a": "$15.62 billion",
+      "option_b": "$18.47 billion",
+      "option_c": "$12.89 billion",
+      "option_d": "$20.13 billion",
+      "correct_option": "B"
+    },
+    {
+      "question": "What was the growth rate of India’s Index of Industrial Production (IIP) for April 2025, as per the Ministry of Statistics?",
+      "option_a": "4.8%",
+      "option_b": "5.2%",
+      "option_c": "3.9%",
+      "option_d": "6.1%",
+      "correct_option": "B"
+    },
+    {
+      "question": "Which feature was introduced in BHIM 3.0 upon its official rollout by NPCI in April 2025?",
+      "option_a": "Offline transaction support",
+      "option_b": "Multi-language voice commands",
+      "option_c": "Integration with CBDC wallets",
+      "option_d": "QR code-based international payments",
+      "correct_option": "C"
+    },
+    {
+      "question": "In April 2025, RBI increased the UPI transaction limit for which category to promote digital payments?",
+      "option_a": "Tax payments",
+      "option_b": "International remittances",
+      "option_c": "Merchant transactions",
+      "option_d": "P2P transfers",
+      "correct_option": "C"
+    },
+    {
+      "question": "Which key issue was discussed at the IMF-World Bank Spring Meetings held in April 2025?",
+      "option_a": "Global debt restructuring",
+      "option_b": "Climate finance for developing nations",
+      "option_c": "Digital currency regulations",
+      "option_d": "Trade sanctions reform",
+      "correct_option": "B"
+    },
+    {
+      "question": "In April 2025, India signed a trade agreement with which country to boost bilateral exports?",
+      "option_a": "Australia",
+      "option_b": "Japan",
+      "option_c": "United Kingdom",
+      "option_d": "Singapore",
+      "correct_option": "C"
+    },
+    {
+      "question": "Who was appointed as the Executive Director of RBI in April 2025?",
+      "option_a": "Anil Kumar Sharma",
+      "option_b": "Poonam Gupta",
+      "option_c": "Sivasubramanian Ramann",
+      "option_d": "Charulatha S. Kar",
+      "correct_option": "A"
+    },
+    {
+      "question": "Which individual was named as the Chairperson of SEBI in April 2025?",
+      "option_a": "Madhabi Puri Buch",
+      "option_b": "Ananth Narayan Gopalakrishnan",
+      "option_c": "Ajay Tyagi",
+      "option_d": "G. Mahalingam",
+      "correct_option": "B"
+    }
+  ]
