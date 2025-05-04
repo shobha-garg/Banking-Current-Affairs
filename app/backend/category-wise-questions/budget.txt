@@ -1,0 +1,696 @@
+﻿[
+  {
+    "question": "Who presented the Union Budget for the fiscal year 2025-26?",
+    "option_a": "Narendra Modi",
+    "option_b": "Amit Shah",
+    "option_c": "Nirmala Sitharaman",
+    "option_d": "Vivek Singh",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which Article of the Indian Constitution mandates the presentation of the Annual Financial Statement (Union Budget) before the Parliament?",
+    "option_a": "Article 110",
+    "option_b": "Article 265",
+    "option_c": "Article 112",
+    "option_d": "Article 280",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which scheme was announced in Budget 2025-26 to provide digital-form Indian language books for school and higher education?",
+    "option_a": "Digital India Books",
+    "option_b": "Bharatnet Pustak Scheme",
+    "option_c": "Bharatiya Bhasha Pustak Scheme",
+    "option_d": "National Digital Library 2.0",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which mission was announced in Budget 2025-26 for the survey, documentation, and conservation of manuscript heritage, aiming to cover over 1 crore manuscripts?",
+    "option_a": "National Manuscript Mission",
+    "option_b": "Gyan Bharatam Mission",
+    "option_c": "Heritage Conservation Drive",
+    "option_d": "Digital Library Initiative",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the name of the unified digital public infrastructure proposed in Budget 2025-26 for international trade documentation and financing solutions?",
+    "option_a": "Trade Suvidha Portal",
+    "option_b": "Export Mitra Connect",
+    "option_c": "BharatTradeNet (BTN)",
+    "option_d": "Digital Trade Corridor",
+    "correct_option": "C"
+  },
+  {
+    "question": "A Makhana Board is proposed to be established in which state?",
+    "option_a": "West Bengal",
+    "option_b": "Assam",
+    "option_c": "Bihar",
+    "option_d": "Odisha",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 announced financial support for the Western Koshi Canal ERM Project located in which region/state?",
+    "option_a": "Uttar Pradesh",
+    "option_b": "Mithilanchal (Bihar)",
+    "option_c": "West Bengal",
+    "option_d": "Odisha",
+    "correct_option": "B"
+  },
+  {
+    "question": "To support Food Processing, Budget 2025-26 announced the establishment of a National Institute of Food Technology, Entrepreneurship and Management in which state?",
+    "option_a": "Punjab",
+    "option_b": "Haryana",
+    "option_c": "Uttar Pradesh",
+    "option_d": "Bihar",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who is the Chief Economic Advisor (CEA) of India, pictured in the Economic Survey 2024-25 highlights slide?",
+    "option_a": "Raghuram Rajan",
+    "option_b": "Arvind Subramanian",
+    "option_c": "Krishnamurthy Subramanian",
+    "option_d": "V. Anantha Nageswaran",
+    "correct_option": "D"
+  },
+  {
+    "question": "Budget 2025-26 proposes specific benefits for certain units of global companies set up in which specific location?",
+    "option_a": "SEZs (Special Economic Zones)",
+    "option_b": "GIFT City (IFSC)",
+    "option_c": "Metropolitan Cities",
+    "option_d": "Tier 2 Cities",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which committee is proposed in Budget 2025-26 to review all non-financial sector regulations, certifications, licenses, and permissions?",
+    "option_a": "Financial Stability and Development Council (FSDC)",
+    "option_b": "High-Level Committee for Regulatory Reforms",
+    "option_c": "Investment Friendliness Committee",
+    "option_d": "Jan Vishwas Committee",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the name of the bill (version 2.0) proposed in Budget 2025-26 to decriminalize over 100 provisions in various laws?",
+    "option_a": "The Ease of Business Bill 2.0",
+    "option_b": "The Regulatory Reform Bill 2.0",
+    "option_c": "The Jan Vishwas Bill 2.0",
+    "option_d": "The Compliance Burden Reduction Bill 2.0",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Budget 2025-26 indicated a proposal to introduce which new bill related to direct taxation?",
+    "option_a": "Direct Tax Code Bill",
+    "option_b": "New Income Tax Bill",
+    "option_c": "Unified Tax Bill",
+    "option_d": "Simplified Tax Procedures Bill",
+    "correct_option": "B"
+  },
+
+
+  {
+    "question": "According to the Budget 2025-26 highlights, how many lifesaving drugs/medicines were added to the list fully exempted from Basic Customs Duty (BCD)?",
+    "option_a": "6",
+    "option_b": "13",
+    "option_c": "36",
+    "option_d": "37",
+    "correct_option": "C"
+  },
+  {
+    "question": "As per the Budget 2025-26, what concessional Basic Customs Duty (BCD) rate is proposed for 6 specific lifesaving medicines?",
+    "option_a": "Nil",
+    "option_b": "5%",
+    "option_c": "10%",
+    "option_d": "18%",
+    "correct_option": "B"
+  },
+  {
+    "question": "How many additional medicines and new patient assistance programmes were added to the BCD exempt list in Budget 2025-26?",
+    "option_a": "36 medicines, 6 programmes",
+    "option_b": "6 medicines, 13 programmes",
+    "option_c": "37 medicines, 13 programmes",
+    "option_d": "13 medicines, 37 programmes",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Budget 2025-26 introduced a scheme for determining the arm's length price of international transactions for a block period of how many years?",
+    "option_a": "1 year",
+    "option_b": "2 years",
+    "option_c": "3 years",
+    "option_d": "5 years",
+    "correct_option": "C"
+  },
+  {
+    "question": "In the Budget 2025-26, the tax deduction limit on interest income for senior citizens was doubled from ₹50,000 to what amount?",
+    "option_a": "₹75,000",
+    "option_b": "₹1 lakh",
+    "option_c": "₹1.5 lakh",
+    "option_d": "₹2 lakh",
+    "correct_option": "B"
+  },
+  {
+    "question": "The annual limit for Tax Deduction at Source (TDS) on rent has been increased in Budget 2025-26 from ₹2.40 lakh to what amount?",
+    "option_a": "₹3 lakh",
+    "option_b": "₹4.5 lakh",
+    "option_c": "₹5 lakh",
+    "option_d": "₹6 lakh",
+    "correct_option": "D"
+  },
+  {
+    "question": "The Budget 2025-26 proposes extending the time limit to file updated income tax returns from the current two years to how many years?",
+    "option_a": "3 years",
+    "option_b": "4 years",
+    "option_c": "5 years",
+    "option_d": "6 years",
+    "correct_option": "B"
+  },
+  {
+    "question": "To reduce the compliance burden for small charitable trusts/institutions, Budget 2025-26 increased their period of registration from 5 years to how many years?",
+    "option_a": "7 years",
+    "option_b": "8 years",
+    "option_c": "10 years",
+    "option_d": "12 years",
+    "correct_option": "C"
+  },
+  {
+    "question": "As per Budget 2025-26, taxpayers are allowed to claim the annual value of how many self-occupied properties as nil without any conditions (previously one)?",
+    "option_a": "One",
+    "option_b": "Two",
+    "option_c": "Three",
+    "option_d": "Four",
+    "correct_option": "B"
+  },
+  {
+    "question": "Budget 2025-26 proposed a Tonnage Tax Scheme specifically for which sector?",
+    "option_a": "Road Transport",
+    "option_b": "Inland Vessels",
+    "option_c": "Aviation",
+    "option_d": "Railways",
+    "correct_option": "B"
+  },
+  {
+    "question": "To boost the start-up ecosystem, Budget 2025-26 proposed an extension for the incorporation period of eligible start-ups by how many years?",
+    "option_a": "2 years",
+    "option_b": "3 years",
+    "option_c": "5 years",
+    "option_d": "7 years",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Budget 2025-26 aims to set up how many Atal Tinkering Labs in government schools over the next 5 years?",
+    "option_a": "10,000",
+    "option_b": "25,000",
+    "option_c": "50,000",
+    "option_d": "75,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the total outlay announced in Budget 2025-26 for setting up a Centre of Excellence in Artificial Intelligence for education?",
+    "option_a": "₹100 crore",
+    "option_b": "₹250 crore",
+    "option_c": "₹500 crore",
+    "option_d": "₹1000 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 proposes an expansion of medical education aiming to add how many additional seats in the next year?",
+    "option_a": "5,000",
+    "option_b": "7,500",
+    "option_c": "10,000",
+    "option_d": "15,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the target for adding total medical seats over the next 5 years as per Budget 2025-26?",
+    "option_a": "50,000 seats",
+    "option_b": "60,000 seats",
+    "option_c": "75,000 seats",
+    "option_d": "1,00,000 seats",
+    "correct_option": "C"
+  },
+  {
+    "question": "The revamped PM SVANidhi scheme mentioned in Budget 2025-26 includes enhanced loans, capacity building support, and what specific digital integration?",
+    "option_a": "Aadhaar-linked payments",
+    "option_b": "UPI linked credit cards",
+    "option_c": "Direct Benefit Transfer",
+    "option_d": "Blockchain verification",
+    "correct_option": "B"
+  },
+  {
+    "question": "What credit limit was mentioned in the context of UPI linked credit cards under the revamped PM SVANidhi scheme in the Budget 2025-26 highlights?",
+    "option_a": "₹10,000",
+    "option_b": "₹20,000",
+    "option_c": "₹30,000",
+    "option_d": "₹50,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 announced measures for the welfare of Online Platform Workers, including registration on the e-Shram portal and healthcare under which scheme?",
+    "option_a": "PM SVANidhi",
+    "option_b": "Ayushman Bharat",
+    "option_c": "PM Jan Arogya Yojana",
+    "option_d": "Atal Pension Yojana",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under the 'Support to States for Infrastructure' initiative in Budget 2025-26, what is the proposed outlay for 50-year interest-free loans for capital expenditure?",
+    "option_a": "₹1 lakh crore",
+    "option_b": "₹1.5 lakh crore",
+    "option_c": "₹2 lakh crore",
+    "option_d": "₹2.5 lakh crore",
+    "correct_option": "B"
+  },
+  {
+    "question": "The Jal Jeevan Mission, aiming for 100% coverage, has been extended until which year as per Budget 2025-26?",
+    "option_a": "2026",
+    "option_b": "2027",
+    "option_c": "2028",
+    "option_d": "2030",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Asset Monetization Plan 2025-30, launched in the budget, aims to plough back capital of what amount into new projects?",
+    "option_a": "₹1 lakh crore",
+    "option_b": "₹5 lakh crore",
+    "option_c": "₹10 lakh crore",
+    "option_d": "₹15 lakh crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "What amount is proposed to be allocated in the financial year 2025-26 for the Urban Challenge Fund?",
+    "option_a": "₹1,000 crore",
+    "option_b": "₹5,000 crore",
+    "option_c": "₹10,000 crore",
+    "option_d": "₹1 lakh crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the corpus announced for the Maritime Development Fund in Budget 2025-26, with up to 49% government contribution?",
+    "option_a": "₹10,000 crore",
+    "option_b": "₹15,000 crore",
+    "option_c": "₹25,000 crore",
+    "option_d": "₹50,000 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Nuclear Energy Mission for Viksit Bharat includes research & development of Small Modular Reactors (SMR) with a proposed outlay of?",
+    "option_a": "₹5,000 crore",
+    "option_b": "₹10,000 crore",
+    "option_c": "₹15,000 crore",
+    "option_d": "₹20,000 crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "By which year does the Nuclear Energy Mission aim to make 5 indigenously developed Small Modular Reactors (SMR) operational?",
+    "option_a": "2028",
+    "option_b": "2030",
+    "option_c": "2033",
+    "option_d": "2035",
+    "correct_option": "C"
+  },
+  {
+    "question": "The modified UDAN scheme announced in Budget 2025-26 aims to enhance regional connectivity to how many new destinations?",
+    "option_a": "50",
+    "option_b": "75",
+    "option_c": "100",
+    "option_d": "120",
+    "correct_option": "D"
+  },
+  {
+    "question": "The modified UDAN scheme aims to carry how many crore passengers in the next 10 years?",
+    "option_a": "1 crore",
+    "option_b": "2 crore",
+    "option_c": "4 crore",
+    "option_d": "5 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "The ₹15,000 crore allocation for SWAMIH Fund-2 in Budget 2025-26 is intended for completing how many dwelling units?",
+    "option_a": "50,000",
+    "option_b": "75,000",
+    "option_c": "One lakh",
+    "option_d": "Two lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "How many National Centres of Excellence for skilling are proposed to be set up with global expertise as per Budget 2025-26?",
+    "option_a": "3",
+    "option_b": "5",
+    "option_c": "7",
+    "option_d": "10",
+    "correct_option": "B"
+  },
+  {
+    "question": "Budget 2025-26 announced the setting up of Day Care Cancer Centres in all district hospitals. How many centres are planned for 2025-26?",
+    "option_a": "50",
+    "option_b": "100",
+    "option_c": "200",
+    "option_d": "500",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 announced Mining Sector Reforms including a policy for the recovery of critical minerals from what source?",
+    "option_a": "Deep sea mining nodules",
+    "option_b": "Newly discovered ore bodies",
+    "option_c": "Tailings (mine waste)",
+    "option_d": "Imported scrap material",
+    "correct_option": "C"
+  },
+  {
+    "question": "How many PM Research Fellowships are proposed in Budget 2025-26 for technological research in IITs and IISc?",
+    "option_a": "1,000",
+    "option_b": "5,000",
+    "option_c": "10,000",
+    "option_d": "20,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "The 2nd Gene Bank for Crops Germplasm announced in Budget 2025-26 aims to house how many germplasm lines?",
+    "option_a": "1 lakh",
+    "option_b": "5 lakh",
+    "option_c": "10 lakh",
+    "option_d": "1 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "The National Framework for GCC (Global Capability Centres) aims to provide guidance to states for promoting their establishment in which type of cities?",
+    "option_a": "Metro cities only",
+    "option_b": "Tier 1 cities",
+    "option_c": "Emerging tier 2 cities",
+    "option_d": "Smart cities",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 proposes facilitating the upgradation of warehousing facilities for air cargo, particularly for what type of goods?",
+    "option_a": "Electronic components",
+    "option_b": "Heavy machinery",
+    "option_c": "High value perishable horticulture produce",
+    "option_d": "Textiles and garments",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which institution is mandated by Budget 2025-26 to set up a 'Partial Credit Enhancement Facility' for corporate bonds for infrastructure?",
+    "option_a": "RBI",
+    "option_b": "SEBI",
+    "option_c": "NaBFID",
+    "option_d": "SIDBI",
+    "correct_option": "C"
+  },
+  {
+    "question": "The 'Grameen Credit Score' framework proposed in Budget 2025-26 is specifically intended to serve the credit needs of whom?",
+    "option_a": "Urban poor",
+    "option_b": "MSMEs",
+    "option_c": "Large farmers",
+    "option_d": "SHG members and people in rural areas",
+    "correct_option": "D"
+  },
+  {
+    "question": "According to Budget 2025-26 highlights, the Investment Friendliness Index of States is planned to be launched in which year?",
+    "option_a": "2024",
+    "option_b": "2025",
+    "option_c": "2026",
+    "option_d": "2027",
+    "correct_option": "B"
+  },
+  {
+    "question": "When is the revamped Central KYC (CKYC) registry planned to be rolled out according to the Budget 2025-26 highlights?",
+    "option_a": "Immediately in 2024",
+    "option_b": "In 2025",
+    "option_c": "In 2026",
+    "option_d": "Phased manner over 3 years",
+    "correct_option": "B"
+  },
+  {
+    "question": "The exemption of Basic Customs Duty (BCD) on specified inputs for the manufacture of ships has been extended for how many more years in Budget 2025-26?",
+    "option_a": "3 years",
+    "option_b": "5 years",
+    "option_c": "7 years",
+    "option_d": "10 years",
+    "correct_option": "D"
+  },
+  {
+    "question": "In the telecommunication sector, Budget 2025-26 reduced the Basic Customs Duty (BCD) on Carrier Grade ethernet switches from 20% to what rate?",
+    "option_a": "Nil",
+    "option_b": "5%",
+    "option_c": "10%",
+    "option_d": "15%",
+    "correct_option": "C"
+  },
+  {
+    "question": "To promote exports of marine products, Budget 2025-26 reduced the Basic Customs Duty (BCD) on Frozen Fish Paste (Surimi) from 30% to what rate?",
+    "option_a": "Nil",
+    "option_b": "5%",
+    "option_c": "10%",
+    "option_d": "15%",
+    "correct_option": "B"
+  },
+  {
+    "question": "Budget 2025-26 reduced the Basic Customs Duty (BCD) on fish hydrolysate used for fish/shrimp feeds from 15% to what rate?",
+    "option_a": "Nil",
+    "option_b": "3%",
+    "option_c": "5%",
+    "option_d": "10%",
+    "correct_option": "C"
+  },
+  {
+    "question": "For the leather sector, Budget 2025-26 proposed fully exempting which item from Basic Customs Duty (BCD)?",
+    "option_a": "Finished Leather Goods",
+    "option_b": "Crust Leather",
+    "option_c": "Wet Blue leather",
+    "option_d": "Leather Footwear",
+    "correct_option": "C"
+  },
+  {
+    "question": "As part of Trade Facilitation measures in Budget 2025-26, the IGCR (Import of Goods at Concessional Rate of Duty) Rules were amended to allow filing of statements how frequently, instead of monthly?",
+    "option_a": "Weekly",
+    "option_b": "Fortnightly",
+    "option_c": "Quarterly",
+    "option_d": "Annually",
+    "correct_option": "C"
+  },
+  {
+    "question": "In the Union Budget 2025-26, how many additional capital goods for EV battery manufacturing were exempted from duty?",
+    "option_a": "28",
+    "option_b": "10",
+    "option_c": "35",
+    "option_d": "50",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under the 'Make in India' sector-specific proposals, duty exemption is provided for capital goods for lithium-ion batteries of mobile phones and which other product?",
+    "option_a": "Laptops",
+    "option_b": "EVs (Electric Vehicles)",
+    "option_c": "Solar Panels",
+    "option_d": "Power Banks",
+    "correct_option": "B"
+  },
+  {
+    "question": "What amount was allocated in the July Budget (mentioned in 2025-26 highlights) to implement a private sector driven Research, Development and Innovation initiative?",
+    "option_a": "₹5,000 crore",
+    "option_b": "₹10,000 crore",
+    "option_c": "₹15,000 crore",
+    "option_d": "₹20,000 crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "The Focus Product Scheme for Footwear & Leather Sectors aims to facilitate employment for how many people?",
+    "option_a": "10 lakh persons",
+    "option_b": "15 lakh persons",
+    "option_c": "22 lakh persons",
+    "option_d": "30 lakh persons",
+    "correct_option": "C"
+  },
+  {
+    "question": "Customized Credit Cards with a ₹5 lakh limit are proposed for micro-enterprises registered on which portal?",
+    "option_a": "GeM Portal",
+    "option_b": "Udyam Portal",
+    "option_c": "MSME Samadhaan Portal",
+    "option_d": "Champions Portal",
+    "correct_option": "B"
+  },
+  {
+    "question": "A new scheme for 5 lakh first-time entrepreneurs (women, SC/ST included) proposes term loans up to what amount in the next 5 years?",
+    "option_a": "₹50 lakh",
+    "option_b": "₹1 crore",
+    "option_c": "₹1.5 crore",
+    "option_d": "₹2 crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "Under the revised MSME classification criteria proposed in Budget 2025-26, what is the new investment limit for a 'Small' enterprise?",
+    "option_a": "₹10 crore",
+    "option_b": "₹25 crore",
+    "option_c": "₹50 crore",
+    "option_d": "₹100 crore",
+    "correct_option": "B"
+  },
+  {
+    "question": "Under the revised MSME classification criteria proposed in Budget 2025-26, what is the new turnover limit for a 'Medium' enterprise?",
+    "option_a": "₹100 crore",
+    "option_b": "₹125 crore",
+    "option_c": "₹250 crore",
+    "option_d": "₹500 crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "A new Fund of Funds for Startups is proposed with an expanded scope and a fresh contribution of what amount?",
+    "option_a": "₹5,000 crore",
+    "option_b": "₹7,500 crore",
+    "option_c": "₹10,000 crore",
+    "option_d": "₹15,000 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "A framework for sustainable harnessing of fisheries from the Indian EEZ and High Seas will give special focus to Andaman & Nicobar and which other islands?",
+    "option_a": "Maldives",
+    "option_b": "Lakshadweep",
+    "option_c": "Sri Lanka",
+    "option_d": "Mauritius",
+    "correct_option": "B"
+  },
+  {
+    "question": "A urea plant with an annual capacity of 12.7 lakh metric tons is proposed to be set up at which location in Assam?",
+    "option_a": "Guwahati",
+    "option_b": "Dibrugarh",
+    "option_c": "Namrup",
+    "option_d": "Silchar",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Prime Minister Dhan-Dhanya Krishi Yojana - Developing Agri Districts Programme aims to initially cover how many districts with low productivity?",
+    "option_a": "50 districts",
+    "option_b": "75 districts",
+    "option_c": "100 districts",
+    "option_d": "150 districts",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the enhanced loan limit under the Modified Interest Subvention Scheme for loans taken through Kisan Credit Card (KCC)?",
+    "option_a": "₹3 lakh",
+    "option_b": "₹4 lakh",
+    "option_c": "₹5 lakh",
+    "option_d": "₹7 lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the duration of the mission launched for 'Aatmanirbharta in Pulses' with focus on Tur, Urad, and Masoor?",
+    "option_a": "3-year",
+    "option_b": "5-year",
+    "option_c": "6-year",
+    "option_d": "10-year",
+    "correct_option": "C"
+  },
+  {
+    "question": "The National Mission on High Yielding Seeds aims at commercial availability of more than how many seed varieties?",
+    "option_a": "50",
+    "option_b": "75",
+    "option_c": "100",
+    "option_d": "150",
+    "correct_option": "C"
+  },
+
+
+
+
+  {
+    "question": "Under the proposed Personal Income Tax reforms in Budget 2025-26 (new regime), what is the tax rate for the income slab of ₹8 lakh to ₹12 lakh?",
+    "option_a": "5%",
+    "option_b": "10%",
+    "option_c": "15%",
+    "option_d": "20%",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to the Personal Income Tax reforms chart, what is the tax rate for the income slab ₹12 lakh to ₹16 lakh?",
+    "option_a": "10%",
+    "option_b": "15%",
+    "option_c": "20%",
+    "option_d": "5%",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to the Budget 2025-26 estimates ('Rupee Comes From'), what is the largest source of government receipts?",
+    "option_a": "Income Tax (22%)",
+    "option_b": "GST & other taxes (18%)",
+    "option_c": "Borrowing and Other Liabilities (24%)",
+    "option_d": "Corporation Tax (17%)",
+    "correct_option": "C"
+  },
+  {
+    "question": "In the Budget 2025-26 estimates for 'Rupee Goes To', which item accounts for the largest share of expenditure?",
+    "option_a": "Interest Payments (20%)",
+    "option_b": "Central Sector Schemes (16%)",
+    "option_c": "Defence (8%)",
+    "option_d": "States' share of Taxes & Duties (22%)",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the targeted Fiscal Deficit as a percentage of GDP for the financial year 2025-26 (Budget Estimate)?",
+    "option_a": "4.4%",
+    "option_b": "4.5%",
+    "option_c": "4.9%",
+    "option_d": "5.6%",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to the Revised Estimates (RE) for 2024-25 mentioned in Budget 2025-26, what was the Fiscal Deficit as a percentage of GDP?",
+    "option_a": "4.5%",
+    "option_b": "4.8%",
+    "option_c": "4.9%",
+    "option_d": "5.6%",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Budget 2025-26 estimates the Revenue Deficit to be what percentage of GDP for 2025-26 (BE)?",
+    "option_a": "0.3%",
+    "option_b": "0.8%",
+    "option_c": "1.5%",
+    "option_d": "1.9%",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the estimated Primary Deficit as a percentage of GDP for 2025-26 (Budget Estimate)?",
+    "option_a": "0.3%",
+    "option_b": "0.8%",
+    "option_c": "1.3%",
+    "option_d": "1.5%",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the estimated Net Centre's Tax Revenue for 2025-26 (BE) as shown in the budget highlights?",
+    "option_a": "22.76 lakh crore",
+    "option_b": "25.60 lakh crore",
+    "option_c": "28.4 lakh crore",
+    "option_d": "30.1 lakh crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "Among the major expenditure items listed (excluding interest, transfers), which sector received the highest allocation in Budget 2025-26? (Figures in Cr. Defence 4,91,732; Rural Dev 2,66,817; Home Affairs 2,33,211)",
+    "option_a": "Rural Development",
+    "option_b": "Home Affairs",
+    "option_c": "Defence",
+    "option_d": "Education",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the approximate budget allocation for the Education sector in 2025-26?",
+    "option_a": "₹98,311 Cr",
+    "option_b": "₹1,28,650 Cr",
+    "option_c": "₹1,71,437 Cr",
+    "option_d": "₹2,33,211 Cr",
+    "correct_option": "B"
+  },
+  {
+    "question": "As per the detailed Central Government Expenditure estimates for 2025-26, which item has the highest allocation?",
+    "option_a": "Defence",
+    "option_b": "Transport",
+    "option_c": "Interest Payments",
+    "option_d": "Major Subsidies",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the total estimated Central Government Expenditure for the financial year 2025-26 as per the Budget Estimates?",
+    "option_a": "₹45,65,345 crore",
+    "option_b": "₹48,15,910 crore",
+    "option_c": "₹50,65,345 crore",
+    "option_d": "₹52,85,120 crore",
+    "correct_option": "C"
+  }
+]

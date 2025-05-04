@@ -1,0 +1,2138 @@
+﻿[
+  {
+    "question": "Which company became the first insurer in India to implement the\nBima-Application Supported by Blocked Amount (Bima-ASBA) facility?",
+    "option_a": "HDFC Life",
+    "option_b": "ICICI Prudential Life",
+    "option_c": "Bajaj Allianz Life Insurance Company (BALIC)",
+    "option_d": "LIC of India",
+    "correct_option": "C"
+  },
+  {
+    "question": "What does Bima-ASBA stand for in the context of the new insurance premium\npayment facility introduced by IRDAI?",
+    "option_a": "Bima - Assisted Secure Banking Amount",
+    "option_b": "Bima - Application Supported by Blocked Amount",
+    "option_c": "Bima - Authorised Systematic Banking Application",
+    "option_d": "Bima - Assured Scheme for Bank Accounts",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the maximum premium amount that can be blocked per policy using\nUPI's One-Time Mandate (OTM) under the Bima-ASBA facility?",
+    "option_a": "₹1 lakh",
+    "option_b": "₹5 lakh",
+    "option_c": "₹50,000",
+    "option_d": "₹2 lakh",
+    "correct_option": "D"
+  },
+  {
+    "question": "Under the Bima-ASBA mechanism, how long does the blocked premium amount\nremain in the policyholder's account earning interest?",
+    "option_a": "Until the policy matures",
+    "option_b": "Until the next premium due date",
+    "option_c": "Until the insurer underwrites and accepts the policy",
+    "option_d": "For a fixed period of 30 days",
+    "correct_option": "C"
+  },
+  {
+    "question": "If an insurance policy applied for using Bima-ASBA is rejected or not processed\nwithin how many days is the blocked amount automatically released back to the policyholder?",
+    "option_a": "7 days",
+    "option_b": "14 days",
+    "option_c": "21 days",
+    "option_d": "30 days",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to IRDAI guidelines mentioned, what is the deadline by which all\ninsurers must offer the Bima-ASBA facility?",
+    "option_a": "December 31, 2024",
+    "option_b": "January 1, 2025",
+    "option_c": "March 1, 2025",
+    "option_d": "June 30, 2025",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is the current Chairperson of the Insurance Regulatory and Development\nAuthority of India (IRDAI)?",
+    "option_a": "Shaktikanta Das",
+    "option_b": "Ajay Tyagi",
+    "option_c": "Debasish Panda",
+    "option_d": "Subhash Chandra Khuntia",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is the headquarters of the Insurance Regulatory and Development\nAuthority of India (IRDAI) located?",
+    "option_a": "Mumbai",
+    "option_b": "New Delhi",
+    "option_c": "Chennai",
+    "option_d": "Hyderabad",
+    "correct_option": "D"
+  },
+  {
+    "question": "The Bima-ASBA facility utilizes which feature of the Unified Payments Interface\n(UPI) for blocking premium amounts?",
+    "option_a": "UPI Lite",
+    "option_b": "UPI Autopay",
+    "option_c": "UPI One-Time Mandate (OTM)",
+    "option_d": "UPI 123Pay",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the initial authorised capital of the New Development Bank (NDB)?",
+    "option_a": "USD 50 billion",
+    "option_b": "USD 100 billion",
+    "option_c": "USD 200 billion",
+    "option_d": "USD 1 trillion",
+    "correct_option": "B"
+  },
+  {
+    "question": "What was the total initial subscription made by the NDB's founding members?",
+    "option_a": "USD 10 billion",
+    "option_b": "USD 100 billion",
+    "option_c": "USD 50 billion",
+    "option_d": "USD 40 billion",
+    "correct_option": "C"
+  },
+  {
+    "question": "How was the initial subscribed capital of USD 50 billion distributed amongst the\nNDB's founding members (BRICS)?",
+    "option_a": "Based on GDP size",
+    "option_b": "Based on population",
+    "option_c": "Equally distributed",
+    "option_d": "Proportionally to World Bank contributions",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which country became a member of the New Development Bank (NDB) in\nFebruary 2023?",
+    "option_a": "Bangladesh",
+    "option_b": "United Arab Emirates",
+    "option_c": "Uruguay",
+    "option_d": "Egypt",
+    "correct_option": "D"
+  },
+  {
+    "question": "Where is the headquarters of the New Development Bank (NDB) located?",
+    "option_a": "Beijing, China",
+    "option_b": "Moscow, Russia",
+    "option_c": "Shanghai, China",
+    "option_d": "New Delhi, India",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is India's approximate share percentage in the subscribed capital among\nthe founding members of the NDB?",
+    "option_a": "10.00%",
+    "option_b": "18.98%",
+    "option_c": "20.00%",
+    "option_d": "15.50%",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the current President of the New Development Bank (NDB)?",
+    "option_a": "K. V. Kamath",
+    "option_b": "Marcos Troyjo",
+    "option_c": "Dilma Rousseff",
+    "option_d": "Anil Kishora",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which fintech company, founded in 2014 and based in Bengaluru, offers payment\nsolutions for businesses?",
+    "option_a": "Paytm",
+    "option_b": "PhonePe",
+    "option_c": "Razorpay",
+    "option_d": "BharatPe",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who are the founders of the fintech company Razorpay?",
+    "option_a": "Vijay Shekhar Sharma",
+    "option_b": "Nithin and Nikhil Kamath",
+    "option_c": "Harshil Mathur and Shashank Kumar",
+    "option_d": "Kunal Shah",
+    "correct_option": "C"
+  },
+  {
+    "question": "Recently, Razorpay announced its entry into which Southeast Asian country,\nmarking its second international market after Malaysia?",
+    "option_a": "Thailand",
+    "option_b": "Vietnam",
+    "option_c": "Indonesia",
+    "option_d": "Singapore",
+    "correct_option": "D"
+  },
+  {
+    "question": "Razorpay claims its payment solutions can reduce cross-border transaction fees\nfor businesses in Singapore by what percentage range?",
+    "option_a": "10-20%",
+    "option_b": "20-30%",
+    "option_c": "30-40%",
+    "option_d": "40-50%",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the data presented, approximately how many tonnes of gold did the\nReserve Bank of India (RBI) add to its reserves between 2020 and 2024?",
+    "option_a": "100 tonnes",
+    "option_b": "150 tonnes",
+    "option_c": "244 tonnes",
+    "option_d": "336 tonnes",
+    "correct_option": "C"
+  },
+  {
+    "question": "As of January 31, 2025, what was the approximate total gold reserve held by the\nRBI?",
+    "option_a": "638 tonnes",
+    "option_b": "750 tonnes",
+    "option_c": "879 tonnes",
+    "option_d": "912 tonnes",
+    "correct_option": "C"
+  },
+  {
+    "question": "Globally, which country's central bank added the highest amount of gold to its\nreserves between 2020 and 2024?",
+    "option_a": "India",
+    "option_b": "Poland",
+    "option_c": "Singapore",
+    "option_d": "China",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which component constitutes the largest part of India's foreign exchange\nreserves?",
+    "option_a": "Gold Reserves",
+    "option_b": "Special Drawing Rights (SDRs)",
+    "option_c": "Reserve Position with the IMF",
+    "option_d": "Foreign Currency Assets (FCA)",
+    "correct_option": "D"
+  },
+  {
+    "question": "What are SDRs, a component of India's forex reserves?",
+    "option_a": "Secured Debt Receipts",
+    "option_b": "Special Drawing Rights",
+    "option_c": "Standard Deposit Ratios",
+    "option_d": "Sovereign Debt Reserves",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which international organization creates Special Drawing Rights (SDRs)?",
+    "option_a": "World Bank",
+    "option_b": "World Trade Organization (WTO)",
+    "option_c": "International Monetary Fund (IMF)",
+    "option_d": "Bank for International Settlements (BIS)",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which company became the first electric two-wheeler (e2W) manufacturer in\nIndia to receive benefits under the Production Linked Incentive (PLI) scheme for the automotive\nsector?",
+    "option_a": "Ather Energy",
+    "option_b": "TVS Motor",
+    "option_c": "Ola Electric",
+    "option_d": "Hero Electric",
+    "correct_option": "C"
+  },
+  {
+    "question": "How much incentive was granted to Ola Electric under the PLI scheme for its\nsales performance during the fiscal year 2023-24?",
+    "option_a": "₹50.50 crore",
+    "option_b": "₹65.25 crore",
+    "option_c": "₹73.74 crore",
+    "option_d": "₹81.10 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the primary objective of the Government of India's PLI Scheme for the\nAutomotive and Auto Component Industry?",
+    "option_a": "To increase vehicle exports",
+    "option_b": "To boost domestic manufacturing and promote adoption of advanced, clean\nmobility solutions",
+    "option_c": "To provide subsidies for purchasing electric vehicles",
+    "option_d": "To set up more charging stations",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the founder and CEO of Ola Electric Mobility?",
+    "option_a": "Anand Shah",
+    "option_b": "Bhavish Aggarwal",
+    "option_c": "Sachin Bansal",
+    "option_d": "Deepinder Goyal",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which African nation, the continent's largest economy and sixth most populous\ncountry, was recently admitted as a 'partner country' of the BRICS bloc?",
+    "option_a": "South Africa",
+    "option_b": "Egypt",
+    "option_c": "Nigeria",
+    "option_d": "Ethiopia",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which major Southeast Asian nation, the world's fourth most populous country,\nwas recently admitted as a full member of the BRICS group?",
+    "option_a": "Malaysia",
+    "option_b": "Thailand",
+    "option_c": "Vietnam",
+    "option_d": "Indonesia",
+    "correct_option": "D"
+  },
+  {
+    "question": "As per the provided list, how many 'partner countries' does the BRICS group\ncurrently have (including Nigeria)?",
+    "option_a": "5",
+    "option_b": "7",
+    "option_c": "9",
+    "option_d": "13",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which of these countries is NOT among the new full members that joined BRICS\nin early 2024?",
+    "option_a": "Egypt",
+    "option_b": "Iran",
+    "option_c": "Saudi Arabia",
+    "option_d": "Ethiopia",
+    "correct_option": "C"
+  },
+  {
+    "question": "Indian banks are currently in discussions with SWIFT to transition to which new\nmessaging standard for instant and real-time gross settlement?",
+    "option_a": "ISO 15022",
+    "option_b": "ISO 20022",
+    "option_c": "FIN Standard",
+    "option_d": "MT Standard (New Version)",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the global deadline set for the migration to the SWIFT ISO 20022\nmessaging standard for cross-border payments?",
+    "option_a": "December 31, 2024",
+    "option_b": "June 30, 2025",
+    "option_c": "November 25, 2025",
+    "option_d": "March 31, 2026",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the traditional message type used on the SWIFT network,\nwhich will face limitations after the ISO 20022 migration?",
+    "option_a": "MX messages",
+    "option_b": "ISO messages",
+    "option_c": "MT messages",
+    "option_d": "RTGS messages",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the Reserve Bank of India's existing messaging platform,\nwhich is being considered for scaling up?",
+    "option_a": "NEFT System",
+    "option_b": "RTGS System",
+    "option_c": "Structured Financial Messaging System (SFMS)",
+    "option_d": "Indian Financial Network (INFINET)",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is the headquarters of SWIFT (Society for Worldwide Interbank Financial\nTelecommunication) located?",
+    "option_a": "Geneva, Switzerland",
+    "option_b": "Brussels, Belgium",
+    "option_c": "La Hulpe, Belgium",
+    "option_d": "Frankfurt, Germany",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which of the following is NOT a primary tool mentioned that RBI uses for\nmanaging banking system liquidity (as per the Money Tap graphic)?",
+    "option_a": "Open Market Operations (OMO)",
+    "option_b": "Variable Rate Repo (VRR)",
+    "option_c": "FX Swaps",
+    "option_d": "Statutory Liquidity Ratio (SLR) adjustments",
+    "correct_option": "D"
+  },
+  {
+    "question": "In March 2025, RBI announced a USD/INR buy-sell swap auction to infuse dollar\nliquidity. What was the amount and tenor?",
+    "option_a": "$5 billion for 6 months",
+    "option_b": "$5 billion for 1 year",
+    "option_c": "$10 billion for 1 year",
+    "option_d": "$10 billion for 3 years",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who was recently appointed as an Executive Director (ED) at the Reserve Bank\nof India, effective from March 3rd?",
+    "option_a": "Michael Patra",
+    "option_b": "T. Rabi Sankar",
+    "option_c": "Ajit Ratnakar Joshi",
+    "option_d": "M. Rajeshwar Rao",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which South Asian country was placed on the Financial Action Task Force\n(FATF) grey list in the February 2025 update due to deficiencies in its AML/CFT regime?",
+    "option_a": "Bangladesh",
+    "option_b": "Sri Lanka",
+    "option_c": "Pakistan",
+    "option_d": "Nepal",
+    "correct_option": "D"
+  },
+  {
+    "question": "Besides Nepal, which other country was added to the FATF Grey List in February\n2025?",
+    "option_a": "Vietnam",
+    "option_b": "Lao PDR",
+    "option_c": "Cambodia",
+    "option_d": "Myanmar",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which country was removed from the FATF Grey List in the February 2025\nupdate?",
+    "option_a": "Turkey",
+    "option_b": "UAE",
+    "option_c": "Philippines",
+    "option_d": "South Africa",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is the secretariat (headquarters) of the Financial Action Task Force (FATF)\nlocated?",
+    "option_a": "London",
+    "option_b": "Washington D.C.",
+    "option_c": "Paris",
+    "option_d": "Geneva",
+    "correct_option": "C"
+  },
+  {
+    "question": "Approximately how many member jurisdictions and organizations constitute the\nFATF?",
+    "option_a": "25",
+    "option_b": "30",
+    "option_c": "40",
+    "option_d": "50",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which of the following countries is currently on the FATF 'Black List' (Jurisdictions\nunder Increased Monitoring)?",
+    "option_a": "Nepal",
+    "option_b": "Iran",
+    "option_c": "Philippines",
+    "option_d": "Lao PDR",
+    "correct_option": "B"
+  },
+  {
+    "question": "The revised Priority Sector Lending (PSL) norms issued by the RBI will come into\neffect from which date?",
+    "option_a": "January 1, 2025",
+    "option_b": "March 31, 2025",
+    "option_c": "April 1, 2025",
+    "option_d": "July 1, 2025",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under the revised RBI PSL norms, what is the maximum housing loan limit for\nindividuals in centres with a population between 10 lakh and 50 lakh?",
+    "option_a": "₹35 lakh",
+    "option_b": "₹45 lakh",
+    "option_c": "₹50 lakh",
+    "option_d": "₹57 lakh",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the maximum cost of a dwelling unit permissible for a housing loan to\nqualify under PSL in centres with a population below 10 lakh, according to revised norms?",
+    "option_a": "₹44 lakh",
+    "option_b": "₹57 lakh",
+    "option_c": "₹63 lakh",
+    "option_d": "₹35 lakh",
+    "correct_option": "A"
+  },
+  {
+    "question": "What is the revised overall Priority Sector Lending (PSL) target for Urban\nCo-operative Banks (UCBs) as a percentage of ANBC or CEOBSE, whichever is higher?",
+    "option_a": "40%",
+    "option_b": "75%",
+    "option_c": "60%",
+    "option_d": "50%",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the revised PSL target for advances to Micro Enterprises for UCBs?",
+    "option_a": "5.0%",
+    "option_b": "7.5%",
+    "option_c": "10.0%",
+    "option_d": "12.0%",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the revised PSL target for advances to Weaker Sections for UCBs?",
+    "option_a": "7.5%",
+    "option_b": "10.0%",
+    "option_c": "12.0%",
+    "option_d": "15.0%",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under revised PSL norms for Social Infrastructure, what is the new loan limit per\nborrower for building health care facilities in Tier II to Tier VI centres?",
+    "option_a": "₹5 crore",
+    "option_b": "₹8 crore",
+    "option_c": "₹10 crore",
+    "option_d": "₹12 crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the revised PSL loan limit per borrower for renewable energy-based\npower generators and public utilities?",
+    "option_a": "₹20 crore",
+    "option_b": "₹30 crore",
+    "option_c": "₹35 crore",
+    "option_d": "₹50 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under revised PSL norms for Renewable Energy, what is the loan limit for\nindividual households?",
+    "option_a": "₹5 lakh per borrower",
+    "option_b": "₹10 lakh per borrower",
+    "option_c": "₹15 lakh per borrower",
+    "option_d": "₹20 lakh per borrower",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which two Central Public Sector Enterprises (CPSEs) were recently upgraded by\nthe government from Miniratna-I to Navratna status?",
+    "option_a": "BHEL and NTPC",
+    "option_b": "CONCOR and Engineers India Ltd",
+    "option_c": "IRCTC and IRFC",
+    "option_d": "GAIL and ONGC",
+    "correct_option": "C"
+  },
+  {
+    "question": "To be eligible for Maharatna status, a CPSE must already hold which status?",
+    "option_a": "Miniratna-I",
+    "option_b": "Miniratna-II",
+    "option_c": "Navratna",
+    "option_d": "Schedule A",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is one of the financial criteria for Maharatna eligibility regarding average\nannual net profit after tax over the last three years?",
+    "option_a": "Exceeding Rs. 1,000 crore",
+    "option_b": "Exceeding Rs. 2,500 crore",
+    "option_c": "Exceeding Rs. 5,000 crore",
+    "option_d": "Exceeding Rs. 10,000 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the maximum investment a Maharatna CPSE can make in a single\nproject without government approval?",
+    "option_a": "Up to ₹1,000 crore or 10% of net worth",
+    "option_b": "Up to ₹2,500 crore or 12% of net worth",
+    "option_c": "Up to ₹5,000 crore or 15% of net worth",
+    "option_d": "Up to ₹10,000 crore or 20% of net worth",
+    "correct_option": "C"
+  },
+  {
+    "question": "To be eligible for Navratna status, a CPSE must be a Miniratna-I and also belong\nto which Schedule category?",
+    "option_a": "Schedule A",
+    "option_b": "Schedule B",
+    "option_c": "Schedule C",
+    "option_d": "Schedule D",
+    "correct_option": "A"
+  },
+  {
+    "question": "What is the minimum composite score (calculated based on six parameters)\nrequired for a CPSE to be considered for Navratna status?",
+    "option_a": "50 or more",
+    "option_b": "60 or more",
+    "option_c": "70 or more",
+    "option_d": "75 or more",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the maximum investment limit for a Navratna CPSE in a single project\nwithout needing Central Government permission?",
+    "option_a": "Up to ₹500 crore or 10% of net worth",
+    "option_b": "Up to ₹1,000 crore or 15% of net worth",
+    "option_c": "Up to ₹2,000 crore or 20% of net worth",
+    "option_d": "Up to ₹5,000 crore or 25% of net worth",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to the provided list, how many CPSEs currently hold the Maharatna\nstatus in India?",
+    "option_a": "10",
+    "option_b": "12",
+    "option_c": "14",
+    "option_d": "16",
+    "correct_option": "C"
+  },
+  {
+    "question": "Including the recent additions of IRCTC and IRFC, how many CPSEs currently\nhold the Navratna status in India?",
+    "option_a": "16",
+    "option_b": "20",
+    "option_c": "24",
+    "option_d": "26",
+    "correct_option": "D"
+  },
+  {
+    "question": "Where is the headquarters of the Indian Railway Finance Corporation (IRFC)?",
+    "option_a": "Mumbai",
+    "option_b": "Kolkata",
+    "option_c": "Chennai",
+    "option_d": "New Delhi",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who is the Chairman & Managing Director of Indian Railway Catering and\nTourism Corporation Limited (IRCTC)?",
+    "option_a": "Manoj Kumar Dubey",
+    "option_b": "Sanjay Kumar Jain",
+    "option_c": "V K Tripathi",
+    "option_d": "Mahendra Pratap Mall",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the name of the dedicated portal launched by SEBI for reporting\nRelated Party Transactions (RPTs)?",
+    "option_a": "SEBI Connect",
+    "option_b": "RPT Gateway",
+    "option_c": "SEBI RPT Portal",
+    "option_d": "CorpGov Monitor",
+    "correct_option": "C"
+  },
+  {
+    "question": "One of the key benefits of the SEBI RPT portal for listed companies is that it\nhelps ensure _______ in disclosures.",
+    "option_a": "complexity",
+    "option_b": "variability",
+    "option_c": "consistency",
+    "option_d": "ambiguity",
+    "correct_option": "C"
+  },
+  {
+    "question": "By which year has Indian Railways set the target to achieve Net-Zero Carbon\nEmissions?",
+    "option_a": "2025",
+    "option_b": "2030",
+    "option_c": "2047",
+    "option_d": "2070",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the total planned power generation capacity (from mixed sources)\noutlined in Indian Railways' Net Zero 2030 plan?",
+    "option_a": "5 GW",
+    "option_b": "10 GW",
+    "option_c": "15 GW",
+    "option_d": "20 GW",
+    "correct_option": "B"
+  },
+  {
+    "question": "How much power capacity does Indian Railways aim to\nsource specifically from renewable sources (including hydropower) under its Net Zero 2030 plan?",
+    "option_a": "1 GW",
+    "option_b": "3 GW",
+    "option_c": "4 GW",
+    "option_d": "6 GW",
+    "correct_option": "B"
+  },
+  {
+    "question": "Under the Net Zero 2023, SEBI mandated stricter timelines for disclosing\nmaterial events. What is this timeline?",
+    "option_a": "Within 7 working days",
+    "option_b": "Within 48-72 hours",
+    "option_c": "Within 12-24 hours",
+    "option_d": "Within 30 days",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is India's national target year for achieving Net-Zero Carbon Emissions?",
+    "option_a": "2030",
+    "option_b": "2047",
+    "option_c": "2050",
+    "option_d": "2070",
+    "correct_option": "D"
+  },
+  {
+    "question": "According to the target mentioned in the diagram, what is India's goal for\nrenewable energy capacity by 2030?",
+    "option_a": "175 GW",
+    "option_b": "300 GW",
+    "option_c": "500 GW",
+    "option_d": "1000 GW",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is the headquarters of SEBI located?",
+    "option_a": "New Delhi",
+    "option_b": "Mumbai",
+    "option_c": "Kolkata",
+    "option_d": "Chennai",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is appointed to succeed Madhabi Puri Buch as the next Chairman\nof SEBI effective February 28, 2025?",
+    "option_a": "Shaktikanta Das",
+    "option_b": "Nirmala Sitharaman",
+    "option_c": "Tuhin Kanta Pandey",
+    "option_d": "Ajay Banga",
+    "correct_option": "C"
+  },
+  {
+    "question": "Tuhin Kanta Pandey, the next SEBI Chairman appointee, previously served as the Secretary of which department?",
+    "option_a": "Department of Economic Affairs (DEA)",
+    "option_b": "Department of Financial Services (DFS)",
+    "option_c": "Department of Investment and Public Asset Management (DIPAM)",
+    "option_d": "Department of Revenue",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which RBI committee is generally associated with the licensing\nframework for Small Finance Banks (SFBs)?",
+    "option_a": "Nachiket Mor Committee",
+    "option_b": "Usha Thorat Committee",
+    "option_c": "P J Nayak Committee",
+    "option_d": "Bimal Jalan Committee",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the minimum capital requirement typically needed for a bank to\ntransition to a Universal Bank in India?",
+    "option_a": "₹100 Crore",
+    "option_b": "₹200 Crore",
+    "option_c": "₹500 Crore",
+    "option_d": "₹1000 Crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which subsidiary of Temasek Holdings has received RBI permission to\nincrease its stake in AU Small Finance Bank?",
+    "option_a": "Fullerton India",
+    "option_b": "Zulia Investments",
+    "option_c": "Mapletree Investments",
+    "option_d": "Vertex Ventures",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the maximum percentage stake that Zulia Investments is\npermitted to hold in AU Small Finance Bank following RBI's approval?",
+    "option_a": "5%",
+    "option_b": "7%",
+    "option_c": "10%",
+    "option_d": "15%",
+    "correct_option": "B"
+  },
+  {
+    "question": "What was the approximate stake held by Zulia\nInvestments in AU Small Finance Bank before the RBI approved the increase?",
+    "option_a": "0.50%",
+    "option_b": "1.7%",
+    "option_c": "2.50%",
+    "option_d": "3.00%",
+    "correct_option": "B"
+  },
+  {
+    "question": "AU Small Finance Bank has applied to the RBI to transition into which\ntype of bank?",
+    "option_a": "Payments Bank",
+    "option_b": "Local Area Bank",
+    "option_c": "Universal Bank",
+    "option_d": "Cooperative Bank",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which of the following was NOT mentioned as a channel for accessing the MITRA\nplatform?",
+    "option_a": "MF Central website",
+    "option_b": "Individual stockbroker portals",
+    "option_c": "AMC websites",
+    "option_d": "SEBI website",
+    "correct_option": "B"
+  },
+  {
+    "question": "What does CAMS, one of the managing entities of MITRA, stand for?",
+    "option_a": "Capital Asset Management Services",
+    "option_b": "Centralized Account Management System",
+    "option_c": "Computer Age Management Services",
+    "option_d": "Customer Asset Maintenance System",
+    "correct_option": "C"
+  },
+  {
+    "question": "RBI relaxed risk weights on loans to which types of financial institutions\naccording to the 'Key Moves' slide?",
+    "option_a": "Only Public Sector Banks",
+    "option_b": "Only Private Sector Banks",
+    "option_c": "NBFCs and MFIs",
+    "option_d": "Cooperative Banks and RRBs",
+    "correct_option": "C"
+  },
+  {
+    "question": "As per the concepts diagram, unclaimed dividends and equity shares are transferred to\nwhich fund?",
+    "option_a": "Depositor Education and Awareness Fund (DEAF)",
+    "option_b": "Investor Education and Protection Fund (IEPF)",
+    "option_c": "Consolidated Fund of India",
+    "option_d": "Prime Minister's National Relief Fund",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to the diagram, a bank account is typically classified as inoperative or dormant\nafter how long without customer-induced transactions?",
+    "option_a": "6 months",
+    "option_b": "1 year",
+    "option_c": "2 years",
+    "option_d": "5 years",
+    "correct_option": "C"
+  },
+  {
+    "question": "What type of AI model is 'Aurora', another product\ndeveloped by xAI mentioned in the slides?",
+    "option_a": "Large Language Model (LLM)",
+    "option_b": "Speech recognition model",
+    "option_c": "Text-to-image model",
+    "option_d": "Reinforcement learning agent",
+    "correct_option": "C"
+  },
+  {
+    "question": "What specific issue is the SEBI MITRA platform designed to address for mutual fund\ninvestors?",
+    "option_a": "High expense ratios in mutual funds",
+    "option_b": "Tracking and reclaiming inactive, unclaimed, or non-KYC compliant folios",
+    "option_c": "Delays in NAV calculation",
+    "option_d": "Lack of diversification in fund portfolios",
+    "correct_option": "B"
+  },
+  {
+    "question": "A mutual fund folio is considered inactive and listed on the MITRA platform if\nthere have been no investor-initiated transactions for how long?",
+    "option_a": "3 years",
+    "option_b": "5 years",
+    "option_c": "7 years",
+    "option_d": "10 years",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which of the following was mentioned as a key move by RBI\ninvolving liquidity injection tools?",
+    "option_a": "Increasing CRR drastically",
+    "option_b": "Conducting OMO auctions, USD/INR buy-sell swaps, and VRR auctions",
+    "option_c": "Selling government bonds in open market",
+    "option_d": "Mandating lower SLR for banks",
+    "correct_option": "B"
+  },
+  {
+    "question": "The MITRA platform is expected to be operational within how many working days from the\nissuance of the SEBI circular?",
+    "option_a": "5 working days",
+    "option_b": "10 working days",
+    "option_c": "15 working days",
+    "option_d": "30 working days",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the smart search engine, powered by Grok-X,\nalso introduced by xAI?",
+    "option_a": "GrokSearch",
+    "option_b": "DeepSearch",
+    "option_c": "X-Search",
+    "option_d": "TruthSeeker",
+    "correct_option": "B"
+  },
+  {
+    "question": "What type of AI model is 'Aurora', also developed by xAI?",
+    "option_a": "Large Language Model (LLM)",
+    "option_b": "Text-to-image model",
+    "option_c": "Speech recognition model",
+    "option_d": "Reinforcement learning agent",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which public sector bank recently received RBI approval to open a branch in\nGIFT City, Gujarat?",
+    "option_a": "State Bank of India",
+    "option_b": "Punjab National Bank",
+    "option_c": "Bank of Baroda",
+    "option_d": "Bank of Maharashtra",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the name of the AI-powered virtual home loan advisor launched by\nL&T Finance?",
+    "option_a": "LISA",
+    "option_b": "KAI",
+    "option_c": "ARIA",
+    "option_d": "MAYA",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the primary stated purpose for Bank of Maharashtra (BoM) opening a\nbranch in GIFT City?",
+    "option_a": "To focus solely on retail banking",
+    "option_b": "To strengthen offshore banking operations and expand in Gujarat",
+    "option_c": "To manage agricultural loans",
+    "option_d": "To serve only government employees",
+    "correct_option": "B"
+  },
+  {
+    "question": "What does GIFT City, where Bank of Maharashtra is opening a branch, stand\nfor?",
+    "option_a": "Global Indian Financial and Trading City",
+    "option_b": "Gujarat Industrial Finance and Technology City",
+    "option_c": "Gujarat International Finance Tec-City",
+    "option_d": "Government Integrated Financial Town",
+    "correct_option": "C"
+  },
+  {
+    "question": "What does 'KAI', the AI advisor from L&T Finance, stand for?",
+    "option_a": "Keen Advisor Interface",
+    "option_b": "Knowledgeable AI",
+    "option_c": "Key Account Informer",
+    "option_d": "Kinetic Automated Intelligence",
+    "correct_option": "B"
+  },
+  {
+    "question": "L&T Finance, the company that launched KAI, operates in which sector?",
+    "option_a": "Commercial Banking",
+    "option_b": "Insurance",
+    "option_c": "Non-Banking Financial Company (NBFC)",
+    "option_d": "Asset Management Company (AMC)",
+    "correct_option": "C"
+  },
+  {
+    "question": "GIFT City holds the distinction of being India's first what?",
+    "option_a": "Special Economic Zone (SEZ)",
+    "option_b": "International Financial Services Centre (IFSC)",
+    "option_c": "Software Technology Park",
+    "option_d": "Smart City",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the MD & CEO of L&T Finance (LTF) mentioned in the slides?",
+    "option_a": "S. N. Subrahmanyan",
+    "option_b": "R. Shankar Raman",
+    "option_c": "Sudipta Roy",
+    "option_d": "Dinanath Dubhashi",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under which scheme did the RBI recently permit resident Indians to open foreign\ncurrency accounts in GIFT City?",
+    "option_a": "Foreign Contribution Regulation Act (FCRA)",
+    "option_b": "Liberalised Remittance Scheme (LRS)",
+    "option_c": "Foreign Exchange Management Act (FEMA)",
+    "option_d": "Special Drawing Rights (SDR)",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which bank launched 'SIB Quick FD', a fully digital and\npaperless fixed deposit service using UPI?",
+    "option_a": "Federal Bank",
+    "option_b": "South Indian Bank",
+    "option_c": "CSB Bank",
+    "option_d": "Dhanlaxmi Bank",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is a key requirement NOT needed to open an 'SIB Quick FD'?",
+    "option_a": "PAN Card",
+    "option_b": "Aadhaar Card",
+    "option_c": "An existing savings account with South Indian Bank",
+    "option_d": "Access to UPI",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is the headquarters of the Bank of Maharashtra (BoM) located?",
+    "option_a": "Mumbai, Maharashtra",
+    "option_b": "Pune, Maharashtra",
+    "option_c": "Nagpur, Maharashtra",
+    "option_d": "Aurangabad, Maharashtra",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the target set by Bank of Maharashtra for its business volume in Gujarat\nby the second quarter of FY25?",
+    "option_a": "₹10,000 crore",
+    "option_b": "₹12,000 crore",
+    "option_c": "₹15,000 crore",
+    "option_d": "₹20,000 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the minimum investment amount required to open an 'SIB Quick FD'?",
+    "option_a": "₹100",
+    "option_b": "₹500",
+    "option_c": "₹1,000",
+    "option_d": "₹5,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "Deposits in Indian banks, including the 'SIB Quick FD', are insured by DICGC\nup to what amount per depositor?",
+    "option_a": "₹1 lakh",
+    "option_b": "₹2 lakhs",
+    "option_c": "₹5 lakhs",
+    "option_d": "₹10 lakhs",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which fintech company based in Mohali collaborated with Yes Bank to launch the\nAI-powered super app 'Jumpp'?",
+    "option_a": "Paytm",
+    "option_b": "PhonePe",
+    "option_c": "Finvasia",
+    "option_d": "Razorpay",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is the headquarters of South Indian Bank located?",
+    "option_a": "Kochi, Kerala",
+    "option_b": "Thrissur, Kerala",
+    "option_c": "Thiruvananthapuram, Kerala",
+    "option_d": "Chennai, Tamil Nadu",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the primary objective of the 'Jumpp' super app launched by Finvasia and\nYes Bank?",
+    "option_a": "To provide stock market analysis",
+    "option_b": "To simplify and enhance personal finance management",
+    "option_c": "To facilitate international money transfers",
+    "option_d": "To offer cryptocurrency trading",
+    "correct_option": "B"
+  },
+  {
+    "question": "The 'Jumpp' app aims for financial inclusion, specifically targeting users in which\ngeographical segments by January 2026?",
+    "option_a": "Only Metro cities",
+    "option_b": "Tier 1 cities exclusively",
+    "option_c": "Tier 2 and Tier 3 cities",
+    "option_d": "Rural areas only",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the primary purpose stated for Bank of Maharashtra opening a branch\nin GIFT City?",
+    "option_a": "To focus solely on retail banking in Gujarat",
+    "option_b": "To merge with another bank in GIFT City",
+    "option_c": "To strengthen its offshore banking operations and expand presence",
+    "option_d": "To relocate its headquarters",
+    "correct_option": "C"
+  },
+  {
+    "question": "What recent change did RBI make regarding the Liberalised Remittance\nScheme (LRS) in GIFT City?",
+    "option_a": "Banned all LRS transactions in GIFT City",
+    "option_b": "Allowed resident Indians to open foreign currency accounts in GIFT City under LRS",
+    "option_c": "Increased the LRS limit specifically for GIFT City transactions",
+    "option_d": "Restricted LRS only for corporate entities in GIFT City",
+    "correct_option": "B"
+  },
+  {
+    "question": "The 'Jumpp' app provides a unified financial view by leveraging which system?",
+    "option_a": "Core Banking System (CBS)",
+    "option_b": "National Payments Corporation of India (NPCI)",
+    "option_c": "Account Aggregator (AA) system",
+    "option_d": "Goods and Services Tax Network (GSTN)",
+    "correct_option": "C"
+  },
+  {
+    "question": "What user onboarding target has Finvasia set for the Jumpp app by January\n2026?",
+    "option_a": "500,000 users",
+    "option_b": "1 million users",
+    "option_c": "2 million users",
+    "option_d": "5 million users",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which bank has introduced an AI-powered holographic avatar of its brand\nambassador, Amitabh Bachchan, for customer interaction?",
+    "option_a": "HDFC Bank",
+    "option_b": "ICICI Bank",
+    "option_c": "Axis Bank",
+    "option_d": "IDFC FIRST Bank",
+    "correct_option": "D"
+  },
+  {
+    "question": "The 'Jumpp' app aims to onboard how many users by January 2026 as part of\nits financial inclusion goal?",
+    "option_a": "500,000 users",
+    "option_b": "1 million users",
+    "option_c": "2 million users",
+    "option_d": "5 million users",
+    "correct_option": "B"
+  },
+  {
+    "question": "The financial inclusion focus of the 'Jumpp' app particularly targets users in\nwhich areas?",
+    "option_a": "Only Metro cities",
+    "option_b": "Only Tier 1 cities",
+    "option_c": "Tier 2 and Tier 3 cities",
+    "option_d": "Only Rural areas",
+    "correct_option": "C"
+  },
+  {
+    "question": "What technology is used to create the 3D holographic avatar by IDFC FIRST\nBank?",
+    "option_a": "Augmented Reality (AR)",
+    "option_b": "Virtual Reality (VR)",
+    "option_c": "Holographic Extended Reality (HXR)",
+    "option_d": "Mixed Reality (MR)",
+    "correct_option": "C"
+  },
+  {
+    "question": "In which city and branch was the IDFC FIRST Bank holographic avatar first\nlaunched?",
+    "option_a": "Delhi, Connaught Place branch",
+    "option_b": "Mumbai, Juhu branch",
+    "option_c": "Bengaluru, Koramangala branch",
+    "option_d": "Chennai, T. Nagar branch",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the brand ambassador for IDFC FIRST Bank featured in the holographic\navatar?",
+    "option_a": "Sachin Tendulkar",
+    "option_b": "Amitabh Bachchan",
+    "option_c": "Virat Kohli",
+    "option_d": "Deepika Padukone",
+    "correct_option": "B"
+  },
+  {
+    "question": "IDFC FIRST Bank collaborated with which studio to develop the AI-powered\nholographic avatar?",
+    "option_a": "Pixel Studios",
+    "option_b": "Ikonz Studios",
+    "option_c": "Maya Digital Studios",
+    "option_d": "Prime Focus Technologies",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the mobile application launched by the Reserve Bank of\nIndia (RBI) for enhanced access to macroeconomic and financial data?",
+    "option_a": "RBI Connect",
+    "option_b": "RBIDATA",
+    "option_c": "EcoTrack RBI",
+    "option_d": "RBI Insights",
+    "correct_option": "B"
+  },
+  {
+    "question": "The RBIDATA app provides access to data series primarily sourced from which\nRBI database?",
+    "option_a": "Central Repository of Information on Large Credits (CRILC)",
+    "option_b": "Database on the Indian Economy (DBIE)",
+    "option_c": "Platform for Regulated Entities for Supervision (PRES)",
+    "option_d": "Integrated Supervision and Monitoring (PRISM)",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which studio collaborated with IDFC FIRST Bank to create the AI-powered\nAmitabh Bachchan holographic avatar?",
+    "option_a": "Prime Focus",
+    "option_b": "Reliance Animation",
+    "option_c": "Ikonz Studios",
+    "option_d": "Red Chillies VFX",
+    "correct_option": "C"
+  },
+  {
+    "question": "What new technology did Apple introduce to allow parents to share a child's\nage with app developers without revealing sensitive data like birthdays?",
+    "option_a": "Privacy Pod",
+    "option_b": "Secure Enclave Share",
+    "option_c": "Age Assurance",
+    "option_d": "Family Link Verify",
+    "correct_option": "C"
+  },
+  {
+    "question": "Approximately how many economic data series related to the Indian economy\nare accessible through the RBIDATA app?",
+    "option_a": "Over 1,000",
+    "option_b": "Over 5,000",
+    "option_c": "Over 11,000",
+    "option_d": "Over 20,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "Besides Indian economic data, the RBIDATA app includes a feature to access\nfinancial statistics from which group of countries for regional comparison?",
+    "option_a": "BRICS countries",
+    "option_b": "G20 countries",
+    "option_c": "ASEAN countries",
+    "option_d": "SAARC countries",
+    "correct_option": "D"
+  },
+  {
+    "question": "China plans to send an astronaut from which country as the first foreign guest\nto its Tiangong space station?",
+    "option_a": "Russia",
+    "option_b": "Pakistan",
+    "option_c": "Iran",
+    "option_d": "North Korea",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the name of China's permanently crewed space station?",
+    "option_a": "Shenzhou",
+    "option_b": "Long March",
+    "option_c": "Tiangong",
+    "option_d": "Chang'e",
+    "correct_option": "C"
+  },
+  {
+    "question": "What feature within the RBIDATA app allows users to\nlocate bank branches and ATMs within a specified radius?",
+    "option_a": "Branch Finder",
+    "option_b": "ATM Locator",
+    "option_c": "Banking Facility Locator",
+    "option_d": "Service Point Search",
+    "correct_option": "C"
+  },
+  {
+    "question": "What does DBIE, the source database for the RBIDATA app, stand for?",
+    "option_a": "Digital Banking Information Exchange",
+    "option_b": "Database on Banking and Investment in Economy",
+    "option_c": "Data Bureau for Indian Enterprises",
+    "option_d": "Database on the Indian Economy",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the name of the digital initiative launched by the Life Insurance\nCorporation of India (LIC) to empower its agents with 24x7 digital services?",
+    "option_a": "Agent Connect Plus",
+    "option_b": "Digital Agent Portal",
+    "option_c": "One Man Office (OMO)",
+    "option_d": "LIC Mitra",
+    "correct_option": "C"
+  },
+  {
+    "question": "The RBIDATA app provides access to over 11,000 economic data series from\nwhich RBI database?",
+    "option_a": "RBI Annual Report Database",
+    "option_b": "Database on the Indian Economy (DBIE)",
+    "option_c": "Monetary Policy Report Database",
+    "option_d": "Financial Stability Report Database",
+    "correct_option": "B"
+  },
+  {
+    "question": "The RBIDATA app includes a 'Banking Facility Locator' feature to find bank\nbranches and ATMs within what radius?",
+    "option_a": "5 km",
+    "option_b": "10 km",
+    "option_c": "15 km",
+    "option_d": "20 km",
+    "correct_option": "D"
+  },
+  {
+    "question": "The RBIDATA app allows access to financial statistics from which regional\ngroup of countries for comparison?",
+    "option_a": "BRICS",
+    "option_b": "ASEAN",
+    "option_c": "SAARC",
+    "option_d": "ARC",
+    "correct_option": "C"
+  },
+  {
+    "question": "What does ANANDA, the LIC platform integrated with OMO, stand for?",
+    "option_a": "Agent Network and Digital Access",
+    "option_b": "Automated New Application and Documentation Assistant",
+    "option_c": "Atma Nirbhar Agents New Business Digital Application",
+    "option_d": "All-India Network for Digital Agents",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the target year set by LIC for its vision of 'Insurance for All'?",
+    "option_a": "2025",
+    "option_b": "2030",
+    "option_c": "2047",
+    "option_d": "2050",
+    "correct_option": "C"
+  },
+  {
+    "question": "When was the Life Insurance Corporation of India (LIC) established?",
+    "option_a": "15 August 1947",
+    "option_b": "26 January 1950",
+    "option_c": "1 September 1956",
+    "option_d": "1 April 1961",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the digital initiative launched by LIC to empower its agents\nwith 24x7 digital tools and services?",
+    "option_a": "LIC Mitra",
+    "option_b": "Agent Anand",
+    "option_c": "One Man Office (OMO)",
+    "option_d": "Digital Agent Portal (DAP)",
+    "correct_option": "C"
+  },
+  {
+    "question": "LIC's 'One Man Office' (OMO) is integrated with which platform, launched in\n2020 to digitize new policy issuance?",
+    "option_a": "e-PGS",
+    "option_b": "Jeevan Saakshya",
+    "option_c": "ANANDA",
+    "option_d": "LIC Portal",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which specific digital function related to payment automation can LIC agents\nperform using the OMO platform?",
+    "option_a": "Issue demand drafts",
+    "option_b": "Register e-NACH for auto payments",
+    "option_c": "Process international wire transfers",
+    "option_d": "Generate QR codes for payment",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to the slide, the ANANDA platform facilitated approximately how many\npolicy sales for LIC in FY 2023-24?",
+    "option_a": "Over 500,000",
+    "option_b": "Over 1 million",
+    "option_c": "Over 1.15 million",
+    "option_d": "Over 2 million",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of Axis Bank's flagship knowledge-sharing seminar series\naimed at empowering Micro, Small, and Medium Enterprises (MSMEs)?",
+    "option_a": "Axis Accelerate",
+    "option_b": "Evolve",
+    "option_c": "MSME Connect",
+    "option_d": "Business Catalyst",
+    "correct_option": "B"
+  },
+  {
+    "question": "LIC's digital transformation initiatives like OMO align with its vision of\n'Insurance for All' by which year?",
+    "option_a": "2030",
+    "option_b": "2035",
+    "option_c": "2040",
+    "option_d": "2047",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who is the current Chairperson of Life Insurance Corporation of India (LIC)?",
+    "option_a": "M R Kumar",
+    "option_b": "Siddharth Mohanty",
+    "option_c": "V K Sharma",
+    "option_d": "T S Vijayan",
+    "correct_option": "B"
+  },
+  {
+    "question": "What was the theme of the 9th edition of Axis Bank's Evolve seminar?",
+    "option_a": "Scaling Up MSMEs Globally",
+    "option_b": "Sustainable Practices for Small Businesses",
+    "option_c": "Future-Proofing MSMEs for the New-Age Business",
+    "option_d": "Leveraging Fintech for MSME Growth",
+    "correct_option": "C"
+  },
+  {
+    "question": "As mentioned in the slides, what is Axis Bank's approximate market share in the\nMSME credit segment?",
+    "option_a": "5.2%",
+    "option_b": "8.7%",
+    "option_c": "10.5%",
+    "option_d": "12.1%",
+    "correct_option": "B"
+  },
+  {
+    "question": "Since 2014, approximately how many entrepreneurs has Axis Bank's Evolve\ninitiative reached across 50+ cities?",
+    "option_a": "Over 5,000",
+    "option_b": "Over 7,000",
+    "option_c": "Over 9,000",
+    "option_d": "Over 12,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which digital platform was specifically mentioned as being leveraged for MSMEs\nin the context of Axis Bank's Evolve seminar financial solutions?",
+    "option_a": "Tally Prime",
+    "option_b": "Zoho Books",
+    "option_c": "Neo for Business",
+    "option_d": "Microsoft Dynamics",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which company unveiled 'Alexa+', its latest digital assistant powered by\ngenerative AI?",
+    "option_a": "Google",
+    "option_b": "Apple",
+    "option_c": "Amazon",
+    "option_d": "Microsoft",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the first quantum computing chip developed and unveiled by\nAmazon Web Services (AWS)?",
+    "option_a": "Borealis",
+    "option_b": "Sycamore",
+    "option_c": "Ocelot",
+    "option_d": "Condor",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the upgraded, generative AI-powered digital assistant\nunveiled by Amazon?",
+    "option_a": "Amazon Echo AI",
+    "option_b": "Alexa+",
+    "option_c": "Amazon Assistant GenAI",
+    "option_d": "Prime Voice",
+    "correct_option": "B"
+  },
+  {
+    "question": "The AWS 'Ocelot' quantum chip design consists of two tiny squares of which\nmaterial stacked on top of each other?",
+    "option_a": "Graphene",
+    "option_b": "Silicon",
+    "option_c": "Diamond",
+    "option_d": "Superconducting gap",
+    "correct_option": "D"
+  },
+  {
+    "question": "How many 'data qubits' does each AWS Ocelot quantum chip contain, used for\nstoring data?",
+    "option_a": "Two",
+    "option_b": "Five",
+    "option_c": "Eight",
+    "option_d": "Ten",
+    "correct_option": "B"
+  },
+  {
+    "question": "The 'cat qubit' approach utilized in the AWS Ocelot chip is conceptually named\nafter a famous thought experiment proposed by whom?",
+    "option_a": "Albert Einstein",
+    "option_b": "Niels Bohr",
+    "option_c": "Erwin Schrödinger",
+    "option_d": "Richard Feynman",
+    "correct_option": "C"
+  },
+  {
+    "question": "AWS claims that the architecture of its Ocelot chip has the potential to reduce the\ncost of building a quantum computer by up to what percentage compared to other methods?",
+    "option_a": "50%",
+    "option_b": "75%",
+    "option_c": "90%",
+    "option_d": "95%",
+    "correct_option": "C"
+  },
+  {
+    "question": "How many data qubits does each 'Ocelot' chip contain, besides additional\nqubits for stabilization and error detection?",
+    "option_a": "Two",
+    "option_b": "Five",
+    "option_c": "Eight",
+    "option_d": "Twelve",
+    "correct_option": "B"
+  },
+  {
+    "question": "The 'Ocelot' chip utilizes a 'cat qubit' approach, named after which famous\nthought experiment?",
+    "option_a": "Maxwell's Demon",
+    "option_b": "Laplace's Demon",
+    "option_c": "Schrödinger's Cat",
+    "option_d": "Boltzmann Brain",
+    "correct_option": "C"
+  },
+  {
+    "question": "India and the European Union (EU) are pushing to finalize their Free Trade\nAgreement (FTA) by the end of which year?",
+    "option_a": "2024",
+    "option_b": "2025",
+    "option_c": "2026",
+    "option_d": "2027",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the current President of the European Commission?",
+    "option_a": "Charles Michel",
+    "option_b": "Christine Lagarde",
+    "option_c": "Ursula von der Leyen",
+    "option_d": "Josep Borrell",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is the current President of the European Commission, involved in the\nIndia-EU FTA discussions?",
+    "option_a": "Charles Michel",
+    "option_b": "Christine Lagarde",
+    "option_c": "Ursula von der Leyen",
+    "option_d": "Josep Borrell",
+    "correct_option": "C"
+  },
+  {
+    "question": "How many member states currently comprise the European Union (EU)?",
+    "option_a": "25",
+    "option_b": "27",
+    "option_c": "28",
+    "option_d": "30",
+    "correct_option": "B"
+  },
+  {
+    "question": "Where is the headquarters of the European Commission located?",
+    "option_a": "Strasbourg, France",
+    "option_b": "Frankfurt, Germany",
+    "option_c": "Brussels, Belgium",
+    "option_d": "Luxembourg City, Luxembourg",
+    "correct_option": "C"
+  },
+  {
+    "question": "What interest rate did the Employees' Provident Fund Organisation (EPFO)\nretain on retirement savings for the financial year FY25?",
+    "option_a": "8.00%",
+    "option_b": "8.15%",
+    "option_c": "8.25%",
+    "option_d": "8.50%",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the apex decision-making body of the EPFO that approves the interest\nrate?",
+    "option_a": "Pension Fund Regulatory and Development Authority (PFRDA)",
+    "option_b": "Ministry of Finance",
+    "option_c": "Central Board of Trustees (CBT)",
+    "option_d": "Reserve Bank of India (RBI)",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the comparison slide, what is the current interest rate for the\nPublic Provident Fund (PPF)?",
+    "option_a": "7.1%",
+    "option_b": "7.5%",
+    "option_c": "8.0%",
+    "option_d": "8.25%",
+    "correct_option": "A"
+  },
+  {
+    "question": "What is the primary impact of an RBI USD/INR sell-buy swap on domestic\nliquidity?",
+    "option_a": "It absorbs rupee liquidity",
+    "option_b": "It injects rupee liquidity",
+    "option_c": "It has no impact on liquidity",
+    "option_d": "It injects dollar liquidity",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to the chart shown for Feb 21, 2025, India's Foreign Exchange\nReserves were approximately at what level?",
+    "option_a": "$540 billion",
+    "option_b": "$600 billion",
+    "option_c": "$640 billion",
+    "option_d": "$700 billion",
+    "correct_option": "C"
+  },
+  {
+    "question": "What interest rate has the Central Board of Trustees (CBT) of the Employees\nProvident Fund Organisation (EPFO) retained for the financial year FY25?",
+    "option_a": "8.10%",
+    "option_b": "8.15%",
+    "option_c": "8.25%",
+    "option_d": "8.50%",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the minimum annual investment required to keep a Public Provident\nFund (PPF) account active?",
+    "option_a": "₹100",
+    "option_b": "₹500",
+    "option_c": "₹1,000",
+    "option_d": "₹1,500",
+    "correct_option": "B"
+  },
+  {
+    "question": "Under which Union Ministry does the EPFO function?",
+    "option_a": "Ministry of Finance",
+    "option_b": "Ministry of Labour and Employment",
+    "option_c": "Ministry of Home Affairs",
+    "option_d": "Ministry of Corporate Affairs",
+    "correct_option": "B"
+  },
+  {
+    "question": "RBI imposed a monetary penalty of ₹66.60 lakh on which bank for\nnon-compliance with regulatory norms?",
+    "option_a": "Standard Chartered Bank",
+    "option_b": "Citibank",
+    "option_c": "HSBC (The Hongkong and Shanghai Banking Corporation Limited)",
+    "option_d": "Deutsche Bank",
+    "correct_option": "C"
+  },
+  {
+    "question": "RBI imposed a penalty of ₹33.10 lakh on which NBFC for violating regulatory\nnorms?",
+    "option_a": "Bajaj Finance",
+    "option_b": "Mahindra Finance",
+    "option_c": "IIFL Samasta Finance",
+    "option_d": "Muthoot Finance",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which of the following was cited as a violation by HSBC leading to the RBI\npenalty?",
+    "option_a": "Charging excessive interest rates",
+    "option_b": "Failure to meet Priority Sector Lending targets",
+    "option_c": "Outsourcing the disposal/closure of anti-money laundering alerts to a group\ncompany",
+    "option_d": "Not maintaining required CRR levels",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the initial mandatory lock-in period (tenure) for a Public Provident Fund\n(PPF) account?",
+    "option_a": "5 years",
+    "option_b": "10 years",
+    "option_c": "15 years",
+    "option_d": "20 years",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Employees Provident Fund (EPF) scheme is governed by which Act?",
+    "option_a": "The Payment of Gratuity Act, 1972",
+    "option_b": "The Employees' State Insurance Act, 1948",
+    "option_c": "The Employees Provident Fund and Miscellaneous Provisions Act, 1952",
+    "option_d": "The Government Savings Banks Act, 1873",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who are the primary contributors to a Public Provident Fund (PPF) account?",
+    "option_a": "Only the Employer",
+    "option_b": "Both Employer and Employee",
+    "option_c": "Self or Parent in case of a minor",
+    "option_d": "Only the Government",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is the headquarters of the Employees Provident Fund Organisation\n(EPFO) located?",
+    "option_a": "Mumbai",
+    "option_b": "New Delhi",
+    "option_c": "Chennai",
+    "option_d": "Kolkata",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who holds the position of First Deputy Managing Director at the IMF?",
+    "option_a": "Ngozi Okonjo-Iweala",
+    "option_b": "Gita Gopinath",
+    "option_c": "Anshula Kant",
+    "option_d": "Carmen Reinhart",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the current Chief Economist of the IMF?",
+    "option_a": "Gita Gopinath",
+    "option_b": "Pierre-Olivier Gourinchas",
+    "option_c": "Indermit Gill",
+    "option_d": "Olivier Blanchard",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to the IMF projections shown, what is India's estimated Real GDP\ngrowth for FY25?",
+    "option_a": "5.4%",
+    "option_b": "6.5%",
+    "option_c": "7.0%",
+    "option_d": "8.2%",
+    "correct_option": "B"
+  },
+  {
+    "question": "The Indian government aims to reduce the fiscal deficit to what target\npercentage of GDP by FY26 (2025-26)?",
+    "option_a": "4.5%",
+    "option_b": "4.0%",
+    "option_c": "3.5%",
+    "option_d": "3.0%",
+    "correct_option": "A"
+  },
+  {
+    "question": "Which European microstate, using the Swiss Franc as currency, was\nmentioned as joining the IMF in October 2024?",
+    "option_a": "Monaco",
+    "option_b": "San Marino",
+    "option_c": "Andorra",
+    "option_d": "Liechtenstein",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who is the current President of the World Bank?",
+    "option_a": "Kristalina Georgieva",
+    "option_b": "Ajay Banga",
+    "option_c": "Indermit Gill",
+    "option_d": "Anshula Kant",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who serves as the Chief Economist at the World Bank?",
+    "option_a": "Carmen Reinhart",
+    "option_b": "Indermit Gill",
+    "option_c": "Kaushik Basu",
+    "option_d": "Pinelopi Koujianou Goldberg",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which of the following violations was cited by RBI for imposing the penalty on\nHSBC?",
+    "option_a": "Failure to meet Priority Sector Lending targets",
+    "option_b": "Opening savings deposit accounts in the name of ineligible entities",
+    "option_c": "Charging excessive interest rates on loans",
+    "option_d": "Not maintaining adequate Capital Adequacy Ratio",
+    "correct_option": "C"
+  },
+  {
+    "question": "What does CIC stand for in the context of reporting financial exposures, as\nmentioned in the HSBC violations?",
+    "option_a": "Customer Information Centre",
+    "option_b": "Credit Information Companies",
+    "option_c": "Centralized Investment Committee",
+    "option_d": "Corporate Identification Code",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who has been appointed as the next Chairman of the Securities and Exchange\nBoard of India (SEBI), effective from March 1, 2025?",
+    "option_a": "Madhabi Puri Buch",
+    "option_b": "Ajay Tyagi",
+    "option_c": "Tuhin Kanta Pandey",
+    "option_d": "U K Sinha",
+    "correct_option": "C"
+  },
+  {
+    "question": "Tuhin Kanta Pandey, the incoming SEBI Chairman, belongs to which cadre of the\nIndian Administrative Service (IAS)?",
+    "option_a": "Gujarat",
+    "option_b": "Maharashtra",
+    "option_c": "Odisha",
+    "option_d": "Uttar Pradesh",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the consortium of public sector companies launched by\nIndia to bid for international port development opportunities?",
+    "option_a": "India Global Ports",
+    "option_b": "Sagarmala International",
+    "option_c": "Bharat Ports Global",
+    "option_d": "Maritime India Consortium",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which entity within the Bharat Ports Global consortium is responsible for\nhandling port operations?",
+    "option_a": "SagarMala Development Corporation (SDCL)",
+    "option_b": "Indian Port Rail and Ropeway Corp (IPRCL)",
+    "option_c": "India Ports Global Limited (IPGL)",
+    "option_d": "Shipping Corporation of India (SCI)",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which entity within the Bharat Ports Global consortium is responsible for\nfacilitating financing needs?",
+    "option_a": "India Ports Global Limited (IPGL)",
+    "option_b": "SagarMala Development Corporation (SDCL)",
+    "option_c": "Indian Port Rail and Ropeway Corp (IPRCL)",
+    "option_d": "Dedicated Freight Corridor Corporation (DFCCIL)",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the standard initial tenure approved for the appointment of Tuhin Kanta\nPandey as SEBI Chairman?",
+    "option_a": "Two years",
+    "option_b": "Three years",
+    "option_c": "Four years",
+    "option_d": "Five years",
+    "correct_option": "B"
+  },
+  {
+    "question": "During his tenure as DIPAM Secretary, Tuhin Kanta Pandey played a significant\nrole in the disinvestment of Air India and the IPO of which major entity?",
+    "option_a": "ONGC",
+    "option_b": "Coal India",
+    "option_c": "LIC",
+    "option_d": "NTPC",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who was the first Chairman of SEBI when it was established?",
+    "option_a": "G. V. Ramakrishna",
+    "option_b": "D. R. Mehta",
+    "option_c": "S. S. Nadkarni",
+    "option_d": "Dr. S. A. Dave",
+    "correct_option": "D"
+  },
+  {
+    "question": "When is the term of the current SEBI Chairperson, Madhabi Puri Buch,\nscheduled to end?",
+    "option_a": "December 31, 2024",
+    "option_b": "February 28, 2025",
+    "option_c": "March 31, 2025",
+    "option_d": "August 15, 2025",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to the IMF projections shown in the slide, what was India's estimated\nReal GDP growth rate for FY24?",
+    "option_a": "6.5%",
+    "option_b": "7.2%",
+    "option_c": "8.2%",
+    "option_d": "5.4%",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the IMF's projected inflation rate for India for the financial year FY25?",
+    "option_a": "4.3%",
+    "option_b": "4.8%",
+    "option_c": "5.4%",
+    "option_d": "6.5%",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the Indian government's stated target for reducing the fiscal deficit as a\npercentage of GDP by the financial year FY26 (2025-26)?",
+    "option_a": "Below 3.0%",
+    "option_b": "Below 4.5%",
+    "option_c": "Below 5.0%",
+    "option_d": "Below 5.9%",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the current Managing Director (MD) of the International Monetary Fund\n(IMF)?",
+    "option_a": "Gita Gopinath",
+    "option_b": "Kristalina Georgieva",
+    "option_c": "Christine Lagarde",
+    "option_d": "Pierre-Olivier Gourinchas",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who holds the position of First Deputy Managing Director (FDMD) at the\nInternational Monetary Fund (IMF)?",
+    "option_a": "Kristalina Georgieva",
+    "option_b": "Pierre-Olivier Gourinchas",
+    "option_c": "Gita Gopinath",
+    "option_d": "David Malpass",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is the headquarters of the International Monetary Fund (IMF) located?",
+    "option_a": "Geneva, Switzerland",
+    "option_b": "New York City, USA",
+    "option_c": "Washington, D.C., USA",
+    "option_d": "London, UK",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which major international transport corridors are mentioned as focus areas for\nthe Bharat Ports Global consortium?",
+    "option_a": "Only INSTC",
+    "option_b": "Only IMEC",
+    "option_c": "INSTC, IMEC, and Eastern Maritime Corridor",
+    "option_d": "Trans-Asian Railway and Northern Sea Route",
+    "correct_option": "C"
+  },
+  {
+    "question": "What interface was launched by the government to facilitate the\noperationalization of the India-Middle East-Europe Economic Corridor (IMEC)?",
+    "option_a": "SAGAR",
+    "option_b": "Maitri",
+    "option_c": "SETU",
+    "option_d": "VAHAN",
+    "correct_option": "B"
+  },
+  {
+    "question": "What does Maitri stand for in the context of the interface launched for IMEC?",
+    "option_a": "Maritime Alliance for International Trade and Regulation Interface",
+    "option_b": "Master Application for International Trade and Regulatory Interface",
+    "option_c": "Middle East India Trade Regulation Initiative",
+    "option_d": "Multimodal Access for Integrated Trade and Regulatory Interface",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which AI search startup did Paytm partner with to integrate AI features into its\napp?",
+    "option_a": "You.com",
+    "option_b": "Neeva",
+    "option_c": "Perplexity AI",
+    "option_d": "Andi",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is the founder of Paytm?",
+    "option_a": "Sachin Bansal",
+    "option_b": "Kunal Shah",
+    "option_c": "Vijay Shekhar Sharma",
+    "option_d": "Deepinder Goyal",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is the CEO and a key founder of Perplexity AI?",
+    "option_a": "Sam Altman",
+    "option_b": "Demis Hassabis",
+    "option_c": "Aravind Srinivas",
+    "option_d": "Dario Amodei",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which European principality became the 191st member of the IMF in October\n2024?",
+    "option_a": "Monaco",
+    "option_b": "Andorra",
+    "option_c": "Liechtenstein",
+    "option_d": "San Marino",
+    "correct_option": "C"
+  },
+  {
+    "question": "How many member countries does the International Bank for Reconstruction and\nDevelopment (IBRD), a part of the World Bank Group, currently have?",
+    "option_a": "174",
+    "option_b": "189",
+    "option_c": "190",
+    "option_d": "193",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the name of the consortium of public sector companies launched by India\nto bid for international port development opportunities?",
+    "option_a": "India Global Ports Initiative",
+    "option_b": "Maritime India Connect",
+    "option_c": "Sagar Mala International",
+    "option_d": "Bharat Ports Global",
+    "correct_option": "D"
+  },
+  {
+    "question": "Within the Bharat Ports Global consortium, which entity is designated to handle\nport operations?",
+    "option_a": "Sagarmatha Development Corporation (SDCL)",
+    "option_b": "Indian Port Rail and Ropeway Corp (IPRCL)",
+    "option_c": "India Ports Global (IPGL)",
+    "option_d": "Ministry of Ports, Shipping and Waterways",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which member of the Bharat Ports Global consortium will focus specifically on\ninfrastructure development?",
+    "option_a": "India Ports Global (IPGL)",
+    "option_b": "Sagarmatha Development Corporation (SDCL)",
+    "option_c": "Indian Port Rail and Ropeway Corp (IPRCL)",
+    "option_d": "Container Corporation of India (CONCOR)",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Bharat Ports Global consortium will focus on potential development\nopportunities along the Eastern Maritime Corridor and which two major international transport\ncorridors?",
+    "option_a": "Trans-Siberian Railway and Silk Road",
+    "option_b": "INSTC and IMEC",
+    "option_c": "Trilateral Highway and Kaladan Project",
+    "option_d": "BBIN Motor Vehicle Agreement route",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the primary function of the 'Maitri' interface launched by the Indian\ngovernment?",
+    "option_a": "To provide weather forecasts for shipping routes",
+    "option_b": "To digitize and standardize trade documentation for corridors like IMEC",
+    "option_c": "To manage crew changes at Indian ports",
+    "option_d": "To track piracy incidents in international waters",
+    "correct_option": "B"
+  },
+  {
+    "question": "When was the Bima-ASBA facility, implemented first by Bajaj Allianz Life,\nofficially launched according to the provided details?",
+    "option_a": "January 1, 2025",
+    "option_b": "February 22, 2025",
+    "option_c": "March 1, 2025",
+    "option_d": "December 31, 2024",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is IRDAI's stated vision supported by initiatives like Bima-ASBA?",
+    "option_a": "Digital Insurance Hub by 2030",
+    "option_b": "Secure Payments for All",
+    "option_c": "Insurance for All by 2047",
+    "option_d": "Financial Inclusion via Insurance by 2040",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is the headquarters of Bajaj Finserv Limited located?",
+    "option_a": "Mumbai, Maharashtra",
+    "option_b": "Pune, Maharashtra",
+    "option_c": "New Delhi",
+    "option_d": "Bengaluru, Karnataka",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the current Chairman & Managing Director of Bajaj Finserv Limited?",
+    "option_a": "Jamnalal Bajaj",
+    "option_b": "Rahul Bajaj",
+    "option_c": "Sanjiv Bajaj",
+    "option_d": "Rajiv Bajaj",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which country hosted the 16th BRICS Summit in Kazan in October 2024?",
+    "option_a": "China",
+    "option_b": "India",
+    "option_c": "South Africa",
+    "option_d": "Russia",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which country is scheduled to host the 17th BRICS Summit in 2025?",
+    "option_a": "India",
+    "option_b": "China",
+    "option_c": "Brazil",
+    "option_d": "South Africa",
+    "correct_option": "C"
+  },
+  {
+    "question": "Collectively, the expanded BRICS group represents approximately what\npercentage of the world's population?",
+    "option_a": "30%",
+    "option_b": "35%",
+    "option_c": "45%",
+    "option_d": "50%",
+    "correct_option": "C"
+  },
+  {
+    "question": "The economies of the expanded BRICS members collectively exceed what GDP\nvalue?",
+    "option_a": "USD 15.5 trillion",
+    "option_b": "USD 22.0 trillion",
+    "option_c": "USD 28.5 trillion",
+    "option_d": "USD 35.0 trillion",
+    "correct_option": "C"
+  },
+  {
+    "question": "Iran, Saudi Arabia, and UAE, as part of the expanded BRICS grouping,\ncollectively contribute approximately what percentage of global crude oil production?",
+    "option_a": "25%",
+    "option_b": "33%",
+    "option_c": "44%",
+    "option_d": "50%",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is the current President of Indonesia, which recently joined BRICS as a full\nmember?",
+    "option_a": "Joko Widodo",
+    "option_b": "Prabowo Subianto",
+    "option_c": "Susilo Bambang Yudhoyono",
+    "option_d": "Megawati Sukarnoputri",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the current President of Nigeria, which recently joined BRICS as a partner\ncountry?",
+    "option_a": "Muhammadu Buhari",
+    "option_b": "Goodluck Jonathan",
+    "option_c": "Bola Ahmed Tinubu",
+    "option_d": "Olusegun Obasanjo",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which of the following countries is NOT listed as one of the nine partner\ncountries of the BRICS group as of late 2024/early 2025?",
+    "option_a": "Malaysia",
+    "option_b": "Belarus",
+    "option_c": "Vietnam",
+    "option_d": "Uzbekistan",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which entity has agreed to acquire the State Bank of India's (SBI) entire stake in\nJio Payments Bank Limited (JPBL)?",
+    "option_a": "Reliance Industries Ltd",
+    "option_b": "Jio Platforms Ltd",
+    "option_c": "Jio Financial Services Ltd",
+    "option_d": "Reliance Retail Ltd",
+    "correct_option": "C"
+  },
+  {
+    "question": "What percentage stake did SBI hold in Jio Payments Bank before the acquisition\nby Jio Financial Services?",
+    "option_a": "10.55%",
+    "option_b": "17.83%",
+    "option_c": "23.00%",
+    "option_d": "30.15%",
+    "correct_option": "C"
+  },
+  {
+    "question": "What was the acquisition price paid by Jio Financial Services for SBI's stake in\nJio Payments Bank?",
+    "option_a": "Rs 75.50 crore",
+    "option_b": "Rs 104.54 crore",
+    "option_c": "Rs 121.17 crore",
+    "option_d": "Rs 150.00 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is the current Chairman of the State Bank of India (SBI)?",
+    "option_a": "Dinesh Kumar Khara",
+    "option_b": "Challa Sreenivasulu Setty",
+    "option_c": "Rajnish Kumar",
+    "option_d": "Arundhati Bhattacharya",
+    "correct_option": "A"
+  },
+  {
+    "question": "Who serves as the MD & CEO of Jio Payments Bank Limited?",
+    "option_a": "Vivek Bhandari",
+    "option_b": "K. V. Kamath",
+    "option_c": "Vinod Easwaran",
+    "option_d": "Mukesh Ambani",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which AI model is developed by the company DeepSeek AI, headed by Dr.\nYongqi Zhang?",
+    "option_a": "Claude",
+    "option_b": "Gemini",
+    "option_c": "DeepSeek",
+    "option_d": "Llama",
+    "correct_option": "C"
+  },
+  {
+    "question": "In March 2025, RBI announced measures expected to infuse approximately how\nmuch liquidity into the banking system?",
+    "option_a": "₹1.0 trillion",
+    "option_b": "₹1.5 trillion",
+    "option_c": "₹1.9 trillion",
+    "option_d": "₹2.5 trillion",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is the current (11th) Chairman of the Indian Space Research Organisation\n(ISRO)?",
+    "option_a": "K. Sivan",
+    "option_b": "S. Somanath",
+    "option_c": "V Narayanan",
+    "option_d": "A. S. Kiran Kumar",
+    "correct_option": "B"
+  },
+  {
+    "question": "Where is the global headquarters of Ernst & Young (EY) located?",
+    "option_a": "New York, USA",
+    "option_b": "London, England",
+    "option_c": "Paris, France",
+    "option_d": "Frankfurt, Germany",
+    "correct_option": "B"
+  },
+  {
+    "question": "RBI recently approved the voluntary amalgamation of which two Urban\nCo-operative Banks (UCBs) in Hyderabad, effective August 23, 2023?",
+    "option_a": "Navanirman UCB and Rajadhani UCB",
+    "option_b": "Twin Cities UCB and Kranti UCB",
+    "option_c": "Kranti UCB and Rajadhani UCB",
+    "option_d": "Twin Cities UCB and Navanirman UCB",
+    "correct_option": "A"
+  },
+  {
+    "question": "RBI imposed restrictions on Mumbai-based New India Co-operative Bank\neffective from which date in 2025?",
+    "option_a": "January 15, 2025",
+    "option_b": "February 1, 2025",
+    "option_c": "February 13, 2025",
+    "option_d": "March 1, 2025",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is the headquarters of the Deposit Insurance and Credit Guarantee\nCorporation (DICGC), a specialized division of RBI?",
+    "option_a": "New Delhi",
+    "option_b": "Chennai",
+    "option_c": "Kolkata",
+    "option_d": "Mumbai",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who is the current MD & CEO of Kotak Mahindra Bank?",
+    "option_a": "Uday Kotak",
+    "option_b": "Dipak Gupta",
+    "option_c": "Ashok Vaswani",
+    "option_d": "Jay Kotak",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the estimated Operating Ratio for Indian Railways in 2025-26 (Budget\nEstimate)?",
+    "option_a": "98.22%",
+    "option_b": "98.43%",
+    "option_c": "98.90%",
+    "option_d": "99.10%",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which entity did RBI fine ₹6.70 lakh for failing to issue loan agreements to some\nborrowers at the time of loan sanction or disbursement?",
+    "option_a": "Shriram Finance",
+    "option_b": "Nainital Bank",
+    "option_c": "Ujjivan Small Finance Bank",
+    "option_d": "Equitas Small Finance Bank",
+    "correct_option": "C"
+  },
+  {
+    "question": "For what reason was Nainital Bank penalized ₹61.40 lakh by the RBI?",
+    "option_a": "Failure to conduct periodic risk review",
+    "option_b": "Not benchmarking certain floating rate loans to MSMEs",
+    "option_c": "Charging excessive processing fees",
+    "option_d": "Delay in reporting large exposures",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the name of the fuel retailing and mobility solutions joint venture between\nReliance Industries and BP?",
+    "option_a": "Reliance Fuels",
+    "option_b": "BP Energy India",
+    "option_c": "Indo-BP Mobility",
+    "option_d": "Jio-bp",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who will head the 31-member Lok Sabha select committee formed to examine\nthe Income Tax Bill, 2025?",
+    "option_a": "Anil Baluni",
+    "option_b": "Baijayant Panda",
+    "option_c": "Bhartruhari Mahtab",
+    "option_d": "Anurag Sharma",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the primary mandate or purpose of the Financial Action Task Force\n(FATF)?",
+    "option_a": "To promote international trade",
+    "option_b": "To combat money laundering and terrorism financing",
+    "option_c": "To regulate global stock markets",
+    "option_d": "To provide development aid to member countries",
+    "correct_option": "B"
+  },
+  {
+    "question": "Where is the headquarters of the Financial Action Task Force (FATF) located?",
+    "option_a": "Geneva",
+    "option_b": "New York",
+    "option_c": "London",
+    "option_d": "Paris",
+    "correct_option": "D"
+  },
+  {
+    "question": "According to the provided list, how many members does the FATF currently\nhave?",
+    "option_a": "28",
+    "option_b": "35",
+    "option_c": "40",
+    "option_d": "50",
+    "correct_option": "C"
+  },
+  {
+    "question": "The membership of which country in the FATF was suspended on February 24,\n2023?",
+    "option_a": "Iran",
+    "option_b": "North Korea",
+    "option_c": "Russian Federation",
+    "option_d": "Syria",
+    "correct_option": "C"
+  },
+  {
+    "question": "Effective from April 1, 2025, RBI revised the Priority Sector Lending (PSL)\nguidelines. What is the enhanced housing loan limit for individuals in metropolitan centres\n(population >= 10 lakh)?",
+    "option_a": "₹35 lakh",
+    "option_b": "₹45 lakh",
+    "option_c": "₹50 lakh",
+    "option_d": "₹60 lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under the revised RBI PSL norms (effective April 1, 2025), what is the housing\nloan limit for individuals in centres with a population below 10 lakh?",
+    "option_a": "₹25 lakh",
+    "option_b": "₹35 lakh",
+    "option_c": "₹40 lakh",
+    "option_d": "₹45 lakh",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to the revised PSL guidelines for UCBs, what is the overall PSL target\nas a percentage of ANBC or Credit Equivalent of Off-Balance Sheet Exposure, whichever is\nhigher?",
+    "option_a": "40%",
+    "option_b": "50%",
+    "option_c": "60%",
+    "option_d": "75%",
+    "correct_option": "D"
+  },
+  {
+    "question": "Under the revised PSL guidelines, loans up to what amount per borrower for\nsetting up renewable energy-based power generators are eligible for PSL classification?",
+    "option_a": "₹10 crore",
+    "option_b": "₹25 crore",
+    "option_c": "₹35 crore",
+    "option_d": "₹50 crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which committee's recommendations are generally associated with the licensing\nframework for Payments Banks in India?",
+    "option_a": "Usha Thorat Committee",
+    "option_b": "Nachiket Mor Committee",
+    "option_c": "P J Nayak Committee",
+    "option_d": "Bimal Jalan Committee",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which two railway PSUs were recently upgraded from Miniratna-I to Navratna\nstatus by the Department of Public Enterprises?",
+    "option_a": "IRCTC and RITES",
+    "option_b": "IRFC and CONCOR",
+    "option_c": "IRCTC and IRFC",
+    "option_d": "RITES and IRCON",
+    "correct_option": "C"
+  },
+  {
+    "question": "To be eligible for the Maharatna status, a Central Public Sector Enterprise\n(CPSE) must first hold Navratna status and meet which average annual net profit criterion over\nthe last three years?",
+    "option_a": "Exceeding Rs. 1,000 crore",
+    "option_b": "Exceeding Rs. 2,500 crore",
+    "option_c": "Exceeding Rs. 5,000 crore",
+    "option_d": "Exceeding Rs. 10,000 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is one of the key financial autonomy benefits granted to Maharatna\ncompanies?",
+    "option_a": "Complete exemption from corporate tax",
+    "option_b": "Ability to borrow unlimited funds from RBI",
+    "option_c": "Can invest up to ₹5,000 crore or 15% of net worth in a single project without\ngovernment approval",
+    "option_d": "Mandatory listing on international stock exchanges",
+    "correct_option": "C"
+  },
+  {
+    "question": "For Navratna status eligibility, a CPSE must be a Miniratna-I, Schedule A\ncompany, and have obtained an 'excellent' or 'very good' rating in how many of the last five\nMoUs?",
+    "option_a": "One",
+    "option_b": "Two",
+    "option_c": "Three",
+    "option_d": "Four",
+    "correct_option": "C"
+  },
+  {
+    "question": "What minimum composite score, calculated based on six specified parameters,\nmust a CPSE achieve for Navratna eligibility?",
+    "option_a": "40 or more",
+    "option_b": "50 or more",
+    "option_c": "60 or more",
+    "option_d": "75 or more",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the lander module of India's successful Chandrayaan-3 lunar\nmission?",
+    "option_a": "Pragyan",
+    "option_b": "Vikram",
+    "option_c": "Dhruv",
+    "option_d": "Aditya",
+    "correct_option": "B"
+  },
+  {
+    "question": "What was the name of the rover deployed by the Chandrayaan-3 lander?",
+    "option_a": "Vikram",
+    "option_b": "Mangalyaan",
+    "option_c": "Pragyan",
+    "option_d": "Gaganyaan",
+    "correct_option": "C"
+  }
+]

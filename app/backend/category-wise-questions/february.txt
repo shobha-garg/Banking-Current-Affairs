@@ -1,0 +1,2138 @@
+﻿[
+  {
+    "question": "IRDAI has allowed insurance premium payments via which specific UPI\nfeature that involves blocking funds in the policyholder's account until the policy is issued?",
+    "option_a": "UPI Lite",
+    "option_b": "UPI AutoPay",
+    "option_c": "UPI Block Mandate / Blocked Amount",
+    "option_d": "UPI 123Pay",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the RBI, since which year has the Financial Literacy Week been\nobserved annually?",
+    "option_a": "2014",
+    "option_b": "2015",
+    "option_c": "2016",
+    "option_d": "2017",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the theme for the Financial Literacy Week campaign that banks were\nurged to participate in, starting February 24th, 2025?",
+    "option_a": "Digital Literacy for Seniors",
+    "option_b": "Secure Banking, Safe Future",
+    "option_c": "Financial Literacy: Women's Prosperity",
+    "option_d": "Credit Discipline and Credit Score",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Reserve Bank of India (RBI) recently imposed a monetary penalty of\n₹66.60 lakh on which bank for compliance lapses including outsourcing AML alert closures?",
+    "option_a": "Citibank",
+    "option_b": "IIFL Samasta Finance",
+    "option_c": "Standard Chartered Bank",
+    "option_d": "HSBC (The Hongkong and Shanghai Banking Corporation Limited)",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the specifically stated primary purpose of the Bima Vahak portal\nmentioned in the answer slide?",
+    "option_a": "To facilitate online insurance policy comparison.",
+    "option_b": "To process insurance claims digitally.",
+    "option_c": "To onboard and empower women as insurance agents, called 'Vahaks'.",
+    "option_d": "To regulate the activities of insurance brokers.",
+    "correct_option": "C"
+  },
+  {
+    "question": "Effective February 27, 2025, what is the maximum withdrawal limit per\ndepositor allowed by the RBI for the New India Cooperative Bank?",
+    "option_a": "₹10,000",
+    "option_b": "₹15,000",
+    "option_c": "₹25,000 or available balance, whichever is lower",
+    "option_d": "50,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which Indian telecom provider partnered with Apple to offer complimentary\naccess to Apple TV+ and Apple Music for its Home WiFi and postpaid customers on specific\nplans (e.g., starting ₹999)?",
+    "option_a": "Reliance Jio",
+    "option_b": "Vodafone Idea",
+    "option_c": "BSNL",
+    "option_d": "Bharti Airtel",
+    "correct_option": "D"
+  },
+  {
+    "question": "According to the provided company information slides, where is the\nheadquarters of JM Financial Ltd. located?",
+    "option_a": "New York, U.S.",
+    "option_b": "New Delhi, India",
+    "option_c": "London, UK",
+    "option_d": "Mumbai, India",
+    "correct_option": "D"
+  },
+  {
+    "question": "According to the list provided, who took over as the Chairperson of SEBI\neffective March 1, 2025?",
+    "option_a": "Madhabi Puri Buch",
+    "option_b": "Ajay Tyagi",
+    "option_c": "U K Sinha",
+    "option_d": "Tuhin Kanta Pandey",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who holds the distinction of being the first woman Chairperson of the\nSecurities and Exchange Board of India (SEBI)?",
+    "option_a": "Arundhati Bhattacharya",
+    "option_b": "Chanda Kochhar",
+    "option_c": "Madhabi Puri Buch",
+    "option_d": "Usha Thorat",
+    "correct_option": "C"
+  },
+  {
+    "question": "SEBI imposed a penalty of ₹5.05 crore on the Indian Clearing Corporation Ltd.\n(ICCL), a subsidiary of BSE Ltd., for regulatory violations primarily related to which areas?",
+    "option_a": "Insider trading and market manipulation",
+    "option_b": "Failure to meet settlement obligations",
+    "option_c": "Cybersecurity, IT asset management, and disaster recovery",
+    "option_d": "Non-compliance with listing disclosure requirements",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who took over as the Managing Director and CEO of the Indian Clearing\nCorporation Limited (ICCL) on January 1, 2024?",
+    "option_a": "Ashishkumar Chauhan",
+    "option_b": "Vikram Limaye",
+    "option_c": "Girish Chandra Chaturvedi",
+    "option_d": "Vaisshali Babu",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the primary stated objective of the 'Bharat Ports Global Consortium'\nunveiled by the Indian government?",
+    "option_a": "To privatize major Indian ports.",
+    "option_b": "To develop fishing harbors across the coastline.",
+    "option_c": "To develop robust port infrastructure globally and streamline logistics.",
+    "option_d": "To focus solely on inland waterway transport.",
+    "correct_option": "C"
+  },
+  {
+    "question": "What interface was launched alongside the Bharat Ports Global Consortium to\ndigitize trade documentation and facilitate the operationalization of IMEC?",
+    "option_a": "Sagar Setu",
+    "option_b": "e-SANCHIT",
+    "option_c": "ICEGATE",
+    "option_d": "Maitri (Master Application for International Trade and Regulatory Interface)",
+    "correct_option": "D"
+  },
+  {
+    "question": "According to the provided slide, what is the projected CPI inflation for the fiscal\nyear 2024-25?",
+    "option_a": "4.4%",
+    "option_b": "4.5%",
+    "option_c": "4.8%",
+    "option_d": "5.0%",
+    "correct_option": "C"
+  },
+  {
+    "question": "To enhance retail investor access to government securities, the RBI\nannounced the expansion of access to the NDS-OM platform to which entities?",
+    "option_a": "Foreign Portfolio Investors (FPIs)",
+    "option_b": "Primary Dealers (PDs) only",
+    "option_c": "SEBI-registered non-bank brokers",
+    "option_d": "Regional Rural Banks (RRBs)",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is NDS-OM, whose access RBI is expanding?",
+    "option_a": "A platform for primary auction of government bonds",
+    "option_b": "An electronic trading platform for secondary market transactions in\ngovernment securities",
+    "option_c": "A reporting system for OTC derivative trades",
+    "option_d": "A settlement system for equity markets",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the name of the mobile application launched by the RBI to provide the\npublic with easier access to macroeconomic and financial data?",
+    "option_a": "RBI Watch",
+    "option_b": "EcoData RBI",
+    "option_c": "FinStats Mobile",
+    "option_d": "RBIDATA",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the full form of the MITRA platform introduced by SEBI to help\ninvestors with mutual fund folios?",
+    "option_a": "Market Information and Transparency Regulatory Assistant",
+    "option_b": "Mutual Fund Investor Trust and Redressal Agency",
+    "option_c": "Mutual Fund Investment Tracing and Retrieval Assistant",
+    "option_d": "Managed Investment Trust Reporting Application",
+    "correct_option": "C"
+  },
+  {
+    "question": "What primary issue does the SEBI's MITRA platform aim to solve for mutual\nfund investors?",
+    "option_a": "High commission charges by distributors",
+    "option_b": "Delays in NAV calculation",
+    "option_c": "Difficulty in tracking and reclaiming inactive, unclaimed, or non-KYC compliant\nfolios",
+    "option_d": "Lack of investment advice",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which bank has expanded its Al-powered holographic avatar of brand\nambassador Amitabh Bachchan to five additional cities, utilizing Holographic Extended Reality\n(HXR) technology?",
+    "option_a": "HDFC Bank",
+    "option_b": "ICICI Bank",
+    "option_c": "Axis Bank",
+    "option_d": "IDFC FIRST Bank",
+    "correct_option": "D"
+  },
+  {
+    "question": "Elon Musk's artificial intelligence company, xAl, debuted which Al chatbot to\ncompete with established players like OpenAI?",
+    "option_a": "Bard",
+    "option_b": "Claude",
+    "option_c": "Grok-3",
+    "option_d": "ChatGPT-40",
+    "correct_option": "C"
+  },
+  {
+    "question": "Alongside the Grok-3 chatbot, what 'smart search engine' powered by Grok-3\ndid xAl introduce?",
+    "option_a": "X Search",
+    "option_b": "Al Discover",
+    "option_c": "Insight Engine",
+    "option_d": "DeepSearch",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who has been appointed as the 11th President of the Asian Development\nBank (ADB), assuming office on February 24, 2025?",
+    "option_a": "Masatsugu Asakawa",
+    "option_b": "Takehiko Nakao",
+    "option_c": "Masato Kanda",
+    "option_d": "Haruhiko Kuroda",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is the headquarters of the Asian Development Bank (ADB) located?",
+    "option_a": "Tokyo, Japan",
+    "option_b": "Beijing, China",
+    "option_c": "Manila, Philippines",
+    "option_d": "Jakarta, Indonesia",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which Flipkart-backed fintech firm acquired the checkout financing platform\nBharatX in an all-cash deal?",
+    "option_a": "PhonePe",
+    "option_b": "Paytm",
+    "option_c": "Super.money",
+    "option_d": "CRED",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the primary strategic objective of Super.money acquiring BharatX?",
+    "option_a": "To offer peer-to-peer lending services.",
+    "option_b": "To launch a stock broking platform.",
+    "option_c": "To introduce checkout financing options (credit lines, EMIs, BNPL) for D2C and\ne-commerce brands.",
+    "option_d": "To build a digital bank for millennials.",
+    "correct_option": "C"
+  },
+  {
+    "question": "The government has initiated stake sales in five PSBs (like Bank of\nMaharashtra, IOB, UCO Bank etc.) to comply with which SEBI norm?",
+    "option_a": "Capital Adequacy Ratio (CAR)",
+    "option_b": "Net Stable Funding Ratio (NSFR)",
+    "option_c": "Minimum Public Shareholding (MPS) norms (requiring promoter stake below\n75%)",
+    "option_d": "Listing Obligations and Disclosure Requirements (LODR)",
+    "correct_option": "C"
+  },
+  {
+    "question": "What significant regulatory decision did RBI take regarding the risk weights on\nbank loans to NBFCs, effective April 1, 2025?",
+    "option_a": "Increased the risk weights further by 25%.",
+    "option_b": "Kept the increased risk weights unchanged.",
+    "option_c": "Reversed its earlier decision to increase risk weights, aligning them back with\nexternal ratings.",
+    "option_d": "Applied uniform 100% risk weight to all NBFC loans.",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the estimated amount of bank capital expected to be freed up due to\nthe RBI's rollback of increased risk weights on NBFC loans?",
+    "option_a": "₹10,000 crore",
+    "option_b": "₹20,000 crore",
+    "option_c": "₹40,000 crore",
+    "option_d": "₹75,000 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "As per the revised RBI norms, what is the maximum housing loan per dwelling\nunit that a Tier-IV Urban Cooperative Bank (UCB) can sanction?",
+    "option_a": "60 lakh",
+    "option_b": "1.40 crore",
+    "option_c": "2 crore",
+    "option_d": "3 crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "By which date are Urban Cooperative Banks (UCBs) required to have at least\n50% of their loan portfolio comprised of 'small value loans' (as per revised definition)?",
+    "option_a": "March 31, 2024",
+    "option_b": "December 31, 2025",
+    "option_c": "March 31, 2026",
+    "option_d": "June 30, 2026",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the Al-powered virtual home loan advisor launched by\nL&T Finance, which uses Large Language Model (LLM) based Al?",
+    "option_a": "Mitra",
+    "option_b": "Disha",
+    "option_c": "KAI (Knowledgeable Al)",
+    "option_d": "Saathi",
+    "correct_option": "C"
+  },
+  {
+    "question": "What change is being proposed or asked for by the government regarding the\n'free-look' period for insurance policies issued by private insurers?",
+    "option_a": "Reduce it to 15 days",
+    "option_b": "Keep it at 1 month",
+    "option_c": "Increase it from 1 month to 1 year",
+    "option_d": "Remove it entirely",
+    "correct_option": "C"
+  },
+  {
+    "question": "State Bank of India (SBI) has announced its target to achieve net-zero carbon\nemissions by which year?",
+    "option_a": "2030",
+    "option_b": "2047",
+    "option_c": "2050",
+    "option_d": "2055",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the name of the leadership school launched by PM Modi in New Delhi\n(campus near GIFT City) to nurture leaders for Viksit Bharat 2047?",
+    "option_a": "LEAD India",
+    "option_b": "Bharat Gurukul",
+    "option_c": "SOUL (School of Ultimate Leadership)",
+    "option_d": "Viksit Bharat Academy",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who serves as the Vice-Chairperson of the newly launched School of Ultimate\nLeadership (SOUL)?",
+    "option_a": "Amitabh Kant",
+    "option_b": "Nandan Nilekani",
+    "option_c": "Hasmukh Adhia (former Finance Secretary)",
+    "option_d": "Raghuram Rajan",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who has been confirmed by the US Senate as the 9th Director of the Federal\nBureau of Investigation (FBI), becoming the first Indian-American to hold the post?",
+    "option_a": "Vivek Murthy",
+    "option_b": "Preet Bharara",
+    "option_c": "Kash Patel",
+    "option_d": "Kamala Harris",
+    "correct_option": "C"
+  },
+  {
+    "question": "What type of authorization did the fintech company Easebuzz receive from the\nReserve Bank of India (RBI) recently?",
+    "option_a": "NBFC license",
+    "option_b": "Small Finance Bank license",
+    "option_c": "Online Payment Aggregator (PA) authorization",
+    "option_d": "Prepaid Payment Instrument (PPI) license",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the total budget allocated by the central government for the NAKSHA\npilot project?",
+    "option_a": "50 crore",
+    "option_b": "100 crore",
+    "option_c": "194 crore",
+    "option_d": "₹250 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "Prior to becoming SEBI Chairman, Tuhin Kanta Pandey held which key\nposition where he played roles in Air India disinvestment and LIC IPO?",
+    "option_a": "Chief Economic Advisor",
+    "option_b": "Revenue Secretary",
+    "option_c": "Secretary, Department of Investment and Public Asset Management (DIPAM)",
+    "option_d": "Commerce Secretary",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which international organization emphasized the need for continued structural\nreforms for India to achieve its goal of becoming an advanced economy by 2047?",
+    "option_a": "World Bank",
+    "option_b": "Asian Development Bank (ADB)",
+    "option_c": "International Monetary Fund (IMF)",
+    "option_d": "World Trade Organization (WTO)",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the first quantum computing chip unveiled by Amazon\nWeb Services (AWS)?",
+    "option_a": "Eagle",
+    "option_b": "Sycamore",
+    "option_c": "Ocelot",
+    "option_d": "Condor",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the GDP projections slide, what is the forecast for India's real\nGDP growth for the fiscal year 2024-25?",
+    "option_a": "7.2%",
+    "option_b": "7.4%",
+    "option_c": "6.8%",
+    "option_d": "6.6%",
+    "correct_option": "D"
+  },
+  {
+    "question": "To expand the suite of interest rate derivative products, RBI announced the\ninclusion of which instrument for managing interest rate risk in Government Securities?",
+    "option_a": "Credit Default Swaps (CDS)",
+    "option_b": "Interest Rate Options (IRO)",
+    "option_c": "Forward Rate Agreements (FRAs)",
+    "option_d": "Forward Contracts in Government Securities",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which technology company launched an 'age assurance' tech to allow parents\nto share a child's age with app developers without revealing sensitive personal information?",
+    "option_a": "Google",
+    "option_b": "Meta",
+    "option_c": "Microsoft",
+    "option_d": "Apple",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the name of the mobile digital office launched by Life Insurance\nCorporation of India (LIC) to empower its agents?",
+    "option_a": "LIC Agent Connect",
+    "option_b": "e-Agent",
+    "option_c": "OMO (One Man Office)",
+    "option_d": "ANANDA Mobile",
+    "correct_option": "C"
+  },
+  {
+    "question": "LIC's 'One Man Office' (OMO) is integrated with which digital platform\nlaunched in 2020 for new business applications?",
+    "option_a": "LIC e-Services",
+    "option_b": "Jeevan Saakshya",
+    "option_c": "ANANDA (Atma Nirbhar Agents New Business Digital Application)",
+    "option_d": "LIC Customer Portal",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which fintech company has partnered with Yes Bank to launch the Al-powered\nSuper App named 'Jumpp'?",
+    "option_a": "Paytm",
+    "option_b": "PhonePe",
+    "option_c": "Finvasia",
+    "option_d": "CRED",
+    "correct_option": "C"
+  },
+  {
+    "question": "The New India Cooperative Bank, founded in 1968, was originally established\nunder which name by George Fernandes?",
+    "option_a": "People's Cooperative Bank",
+    "option_b": "Bombay Labour Co-operative Bank",
+    "option_c": "Maharashtra Workers Bank",
+    "option_d": "Fernandes Cooperative Society",
+    "correct_option": "B"
+  },
+  {
+    "question": "The RBI has issued draft guidelines mandating penalty-free foreclosure or\nprepayment for which type of loans?",
+    "option_a": "All fixed rate retail loans",
+    "option_b": "Certain floating rate loans",
+    "option_c": "All corporate loans",
+    "option_d": "Gold loans",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which categories of lenders are EXEMPTED from the RBI's draft guidelines on\npenalty-free foreclosure/prepayment for certain floating rate loans?",
+    "option_a": "All Public Sector Banks",
+    "option_b": "All Private Sector Banks",
+    "option_c": "Tier I and Tier II UCBs and Base layer NBFCs",
+    "option_d": "All Small Finance Banks",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the slides (which may include satirical news), which US\ndepartment, purportedly under Elon Musk, cancelled a grant to CEPPS for voter turnout in\nIndia?",
+    "option_a": "Department of State",
+    "option_b": "Department of Commerce",
+    "option_c": "Department of Government Efficiency (DOGE)",
+    "option_d": "USAID",
+    "correct_option": "C"
+  },
+  {
+    "question": "What was the Credit Deposit Ratio (CD ratio) for the Scheduled Commercial\nBanks (SCBs) system at the end of January 2025?",
+    "option_a": "75.2%",
+    "option_b": "78.9%",
+    "option_c": "80.8%",
+    "option_d": "81.5%",
+    "correct_option": "C"
+  },
+  {
+    "question": "What was the primary decision made by the Monetary Policy Committee\n(MPC) regarding the policy repo rate in its meeting conclusion mentioned around February 7,\n2024?",
+    "option_a": "Increase the repo rate by 25 basis points.",
+    "option_b": "Maintain the repo rate at its current level.",
+    "option_c": "Reduce the repo rate by 25 basis points.",
+    "option_d": "Reduce the repo rate by 50 basis points.",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which Al search company did Paytm partner with to integrate Al features into\nits app?",
+    "option_a": "OpenAl",
+    "option_b": "Google DeepMind",
+    "option_c": "Perplexity Al",
+    "option_d": "Anthropic",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under which Section of the Securities Contracts (Regulation) Act, 1956\n(SCRA) did SEBI impose the ₹5 crore penalty on ICCL?",
+    "option_a": "Section 15HB of SEBI Act",
+    "option_b": "Section 12A of SCRA",
+    "option_c": "Section 23A of SCRA",
+    "option_d": "Section 23GA of SCRA",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which life insurance company introduced the 'Bima-ASBA' facility, allowing\npremium blocking via UPI One-Time Mandate (OTM) up to 2 lakh?",
+    "option_a": "LIC",
+    "option_b": "HDFC Life",
+    "option_c": "ICICI Prudential",
+    "option_d": "Bajaj Allianz Life",
+    "correct_option": "D"
+  },
+  {
+    "question": "What was the value of the US dollar/rupee swap transaction conducted by the\nRBI that was set to settle on March 4?",
+    "option_a": "$2 Billion",
+    "option_b": "$5 Billion",
+    "option_c": "$7.5 Billion",
+    "option_d": "$10 Billion",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the name of Axis Bank's flagship initiative (9th edition launched) aimed\nat equipping MSMEs for future challenges?",
+    "option_a": "Catalyst",
+    "option_b": "Ascend",
+    "option_c": "Evolve",
+    "option_d": "Empower",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the focus/theme of the 9th edition of Axis Bank's 'Evolve' program for\nMSMEs?",
+    "option_a": "Expanding Global Reach",
+    "option_b": "Sustainable Business Practices",
+    "option_c": "Future-Proofing MSMEs for the New-Age Business",
+    "option_d": "Leveraging Government Schemes",
+    "correct_option": "C"
+  },
+  {
+    "question": "RBI imposed a monetary penalty of ₹39 lakh on which bank for reasons\nincluding delayed reporting of large exposure breaches?",
+    "option_a": "HSBC",
+    "option_b": "Asirvad Micro Finance",
+    "option_c": "JM Financial Home Loans",
+    "option_d": "Citibank",
+    "correct_option": "D"
+  },
+  {
+    "question": "Punjab National Bank (PNB) signed an MoU with which force under its 'PNB\nRakshak Plus' scheme to provide specialized financial services?",
+    "option_a": "Border Security Force (BSF)",
+    "option_b": "Central Reserve Police Force (CRPF)",
+    "option_c": "Indo-Tibetan Border Police (ITBP)",
+    "option_d": "Indian Army",
+    "correct_option": "C"
+  },
+  {
+    "question": "What exclusive Internet domain suffix is RBI reportedly planning to implement\nfor Indian banks to enhance security?",
+    "option_a": ".com.in",
+    "option_b": ".nic.in",
+    "option_c": ".bank.in",
+    "option_d": ".rbi.in",
+    "correct_option": "C"
+  },
+  {
+    "question": "What platform under NPCI is seeing a significant focus and growth in\nprocessing education fee payments?",
+    "option_a": "UPI",
+    "option_b": "RuPay",
+    "option_c": "Bharat BillPay",
+    "option_d": "IMPS",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the likely primary purpose of the 'call back' program implemented by\ninsurers for policies sold by agents?",
+    "option_a": "To cross-sell other financial products.",
+    "option_b": "To gather feedback for product improvement.",
+    "option_c": "To verify customer understanding and prevent potential mis-selling.",
+    "option_d": "To remind customers about premium due dates.",
+    "correct_option": "C"
+  },
+  {
+    "question": "What new feature, aimed at enhancing security for card payments, was\nreportedly launched by PhonePe?",
+    "option_a": "Recurring payments via card",
+    "option_b": "International card acceptance",
+    "option_c": "Device tokenization for credit and debit cards",
+    "option_d": "Cardless ATM withdrawal via PhonePe",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under the PNB Rakshak Plus scheme for ITBP personnel, what is the\nPersonal Accidental Insurance (PAI) coverage amount provided?",
+    "option_a": "50 lakh",
+    "option_b": "₹75 lakh",
+    "option_c": "₹1 crore",
+    "option_d": "1.5 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the Air Accidental Insurance (AAI) coverage provided for pensioners\nunder the PNB's MoU with ITBP?",
+    "option_a": "25 lakh",
+    "option_b": "₹50 lakh",
+    "option_c": "₹75 lakh",
+    "option_d": "1 crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the stated purpose of the working group set up by the RBI regarding\nfinancial markets, as mentioned in Question No-2 slide?",
+    "option_a": "To review the monetary policy framework.",
+    "option_b": "To study the impact of global economic conditions on India.",
+    "option_c": "To review the trading and settlement timing of markets regulated by the RBI.",
+    "option_d": "To promote financial inclusion among rural populations.",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to IMF projections shown in the 'Robust Expansion' graphic, what is\nthe estimated Real GDP growth rate for India in FY25?",
+    "option_a": "8.2%",
+    "option_b": "5.4%",
+    "option_c": "6.5%",
+    "option_d": "4.8%",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who currently serves as the Chief Economist of The World Bank?",
+    "option_a": "Ajay Banga",
+    "option_b": "Anshula Kant",
+    "option_c": "Gita Gopinath",
+    "option_d": "Indermit Gill",
+    "correct_option": "D"
+  },
+  {
+    "question": "By which date must all insurance companies offer the Bima ASBA (Application\nSupported by Blocked Amount) facility as mandated by IRDAI?",
+    "option_a": "December 31, 2024",
+    "option_b": "January 1, 2025",
+    "option_c": "March 1, 2025",
+    "option_d": "April 1, 2025",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which entity partnered with the Karnataka Bulldozers as a co-sponsor for the\nCelebrity Cricket League (CCL) 2025 to promote digital banking awareness?",
+    "option_a": "State Bank of India",
+    "option_b": "HDFC Bank",
+    "option_c": "Airtel Payments Bank",
+    "option_d": "Paytm Payments Bank",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which entity within the Bharat Ports Global consortium is responsible for\nfacilitating financing needs?",
+    "option_a": "India Ports Global (IPGL)",
+    "option_b": "Sagarmatha Development Corporation (SDCL)",
+    "option_c": "Indian Port Rail and Ropeway Corp (IPRCL)",
+    "option_d": "Shipping Corporation of India (SCI)",
+    "correct_option": "B"
+  },
+  {
+    "question": "Microsoft urged the US government to overhaul Al chip export curbs,\nsuggesting the restrictions should not extend to which group of countries mentioned?",
+    "option_a": "UK, France, Germany",
+    "option_b": "India, Israel, Switzerland",
+    "option_c": "Canada, Mexico, Brazil",
+    "option_d": "Japan, South Korea, Taiwan",
+    "correct_option": "B"
+  },
+  {
+    "question": "How many data qubits does each AWS 'Ocelot' quantum computing chip\ncontain?",
+    "option_a": "Two",
+    "option_b": "Four",
+    "option_c": "Five",
+    "option_d": "Nine",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is heading the RBI working group formed to review the trading and\nsettlement timing of financial markets?",
+    "option_a": "Michael Patra (MD Patra)",
+    "option_b": "Shaktikanta Das",
+    "option_c": "T. Rabi Sankar",
+    "option_d": "Radha Shyam Ratho (RBI Executive Director)",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the deadline set for the RBI working group, headed by Radha Shyam\nRatho, to submit its report on market timings?",
+    "option_a": "March 31, 2025",
+    "option_b": "April 30, 2025",
+    "option_c": "June 30, 2025",
+    "option_d": "December 31, 2025",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which feature related to locating banking infrastructure is available in the RBI's\nRBIDATA mobile application?",
+    "option_a": "Live queue times at branches",
+    "option_b": "Banking Facility Locator for branches and ATMs within a 20 km radius",
+    "option_c": "List of upcoming bank holidays",
+    "option_d": "IFSC code validator",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to Axis Bank, what Compound Annual Growth Rate (CAGR) has it\nrecorded in MSME lending since 2020?",
+    "option_a": "15%",
+    "option_b": "20%",
+    "option_c": "25%",
+    "option_d": "30%",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the maximum deposit insurance coverage available per depositor for\nbanks like the New India Cooperative Bank, as per DICGC norms?",
+    "option_a": "₹1 lakh",
+    "option_b": "2 lakh",
+    "option_c": "3 lakh",
+    "option_d": "5 lakh",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who was appointed by the RBI as the administrator to oversee the operations\nof the New India Cooperative Bank after its board was superseded?",
+    "option_a": "Ravindra Sapra",
+    "option_b": "Abhijeet Deshmukh",
+    "option_c": "Shreekant (former Chief General Manager of SBI)",
+    "option_d": "The Deputy Governor in charge of Supervision",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who was appointed as the second Principal Secretary (PS-2) to the Prime\nMinister, effective from the date of assumption of office?",
+    "option_a": "Ajit Doval",
+    "option_b": "P. K. Mishra",
+    "option_c": "Shaktikanta Das (former RBI Governor)",
+    "option_d": "T V Somanathan",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the main objective of the central government's NAKSHA pilot\nprogram?",
+    "option_a": "To provide financial aid to urban local bodies.",
+    "option_b": "To promote the use of renewable energy in urban areas.",
+    "option_c": "To modernize and improve the accuracy of land records in urban areas.",
+    "option_d": "To develop smart cities across India.",
+    "correct_option": "C"
+  },
+  {
+    "question": "What new measure is the RBI proposing to enhance digital security specifically\nfor online international payments made to offshore merchants?",
+    "option_a": "Banning international online transactions.",
+    "option_b": "Introducing a new digital currency.",
+    "option_c": "Mandating the use of biometric authentication for all transactions.",
+    "option_d": "Extending Additional Factor of Authentication (AFA).",
+    "correct_option": "D"
+  },
+  {
+    "question": "Following its meeting ending Feb 7, 2025, what did the Monetary Policy\nCommittee (MPC) decide regarding the policy repo rate?",
+    "option_a": "Increased it by 25 basis points to 6.75%",
+    "option_b": "Reduced it by 25 basis points to 6.25%",
+    "option_c": "Maintained it at 6.50%",
+    "option_d": "Reduced it by 50 basis points to 6.00%",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the Standing Deposit Facility (SDF) rate set by the RBI's MPC after the\nFeb 7, 2025 meeting?",
+    "option_a": "6.25%",
+    "option_b": "6.50%",
+    "option_c": "6.00%",
+    "option_d": "5.75%",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the Marginal Standing Facility (MSF) rate set by the RBI's MPC after\nthe Feb 7, 2025 meeting?",
+    "option_a": "6.25%",
+    "option_b": "6.00%",
+    "option_c": "6.75%",
+    "option_d": "6.50%",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the current monetary policy stance maintained by the RBI's Monetary\nPolicy Committee as of Feb 7, 2025?",
+    "option_a": "Accommodative",
+    "option_b": "Neutral",
+    "option_c": "Withdrawal of Accommodation",
+    "option_d": "Calibrated Tightening",
+    "correct_option": "B"
+  },
+  {
+    "question": "When are the minutes of the MPC meeting held from Feb 5-7, 2025,\nscheduled to be published?",
+    "option_a": "February 14, 2025",
+    "option_b": "February 21, 2025",
+    "option_c": "February 28, 2025",
+    "option_d": "March 7, 2025",
+    "correct_option": "B"
+  },
+  {
+    "question": "When is the next meeting of the RBI's Monetary Policy Committee (MPC)\nscheduled?",
+    "option_a": "March 1-3, 2025",
+    "option_b": "March 15-17, 2025",
+    "option_c": "April 7-9, 2025",
+    "option_d": "May 5-7, 2025",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the monetary penalty imposed by RBI on IIFL Samasta Finance for\nviolating regulatory norms?",
+    "option_a": "66.60 lakh",
+    "option_b": "39 lakh",
+    "option_c": "₹33.10 lakh",
+    "option_d": "1.50 lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "The SEBI MITRA platform for tracking lost mutual funds is managed by which\ntwo entities?",
+    "option_a": "NSDL and CDSL",
+    "option_b": "NSE and BSE",
+    "option_c": "CAMS and KFIN Technologies Limited",
+    "option_d": "AMFI and SEBI",
+    "correct_option": "C"
+  },
+  {
+    "question": "A mutual fund folio is considered inactive and traceable via the MITRA\nplatform if there have been no investor-initiated transactions for how long, despite a unit\nbalance?",
+    "option_a": "3 years",
+    "option_b": "5 years",
+    "option_c": "7 years",
+    "option_d": "10 years",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who are the members of the Committee of Advisors appointed to assist the\nadministrator of the New India Cooperative Bank?",
+    "option_a": "Dinesh Khara and Uday Kotak",
+    "option_b": "Ravindra Sapra (former SBI GM) and Abhijeet Deshmukh (Chartered\nAccountant)",
+    "option_c": "Shreekant and Arundhati Bhattacharya",
+    "option_d": "N S Vishwanathan and R Gandhi",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the clarified risk weight for microloans classified under 'regulatory retail\nportfolio' according to the RBI?",
+    "option_a": "50%",
+    "option_b": "75%",
+    "option_c": "100%",
+    "option_d": "125%",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the aggregate exposure limit for Urban Cooperative Banks (UCBs)\ntowards residential mortgages (excluding priority sector lending)?",
+    "option_a": "10% of total loans and advances",
+    "option_b": "15% of total loans and advances",
+    "option_c": "20% of total loans and advances",
+    "option_d": "25% of total loans and advances",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is NTPC's revised target for building nuclear power capacity over the\nnext two decades?",
+    "option_a": "10 GW",
+    "option_b": "20 GW",
+    "option_c": "30 GW",
+    "option_d": "40 GW",
+    "correct_option": "C"
+  },
+  {
+    "question": "The term of Chief Economic Adviser (CEA) V Anantha Nageswaran has been\nextended by how many years?",
+    "option_a": "6 months",
+    "option_b": "1 year",
+    "option_c": "1.5 years",
+    "option_d": "2 years",
+    "correct_option": "D"
+  },
+  {
+    "question": "The term of NITI Aayog CEO B V R Subrahmanyam has been extended by\nhow many years?",
+    "option_a": "6 months",
+    "option_b": "1 year",
+    "option_c": "1.5 years",
+    "option_d": "2 years",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which institution preceded the NITI Aayog?",
+    "option_a": "Finance Commission",
+    "option_b": "National Development Council",
+    "option_c": "Planning Commission",
+    "option_d": "Ministry of Statistics and Programme Implementation",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is the current First Deputy Managing Director (FDMD) of the International\nMonetary Fund (IMF)?",
+    "option_a": "Kristalina Georgieva",
+    "option_b": "Indermit Gill",
+    "option_c": "Pierre-Olivier Gourinchas",
+    "option_d": "Gita Gopinath",
+    "correct_option": "D"
+  },
+  {
+    "question": "When did Bajaj Allianz Life Insurance Company launch the Bima-ASBA\nfacility?",
+    "option_a": "January 1, 2025",
+    "option_b": "February 1, 2025",
+    "option_c": "February 22, 2025",
+    "option_d": "March 1, 2025",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the RBI MPC statement (Feb 7, 2025), what is the projected real\nGDP growth for Q2 (July-Sept) of 2025-26?",
+    "option_a": "6.5%",
+    "option_b": "6.7%",
+    "option_c": "6.8%",
+    "option_d": "7.0%",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which company holds a majority stake in Asirvad Microfinance Limited as of\n2015?",
+    "option_a": "Muthoot Finance",
+    "option_b": "Manappuram Finance Ltd",
+    "option_c": "Bajaj Finserv",
+    "option_d": "Mahindra Finance",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the current Chairman of Asirvad Microfinance Limited?",
+    "option_a": "S.V. Raja Vaidyanathan",
+    "option_b": "M G George Muthoot",
+    "option_c": "V. P. Nandakumar",
+    "option_d": "Sanjiv Bajaj",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the threshold for floating rate loans to Micro and Small Enterprises\n(MSEs) for business purposes, above which the RBI's proposed zero foreclosure/prepayment\ncharges may not apply?",
+    "option_a": "1 crore",
+    "option_b": "2.5 crore",
+    "option_c": "5 crore",
+    "option_d": "7.5 crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "As per SEBI's Minimum Public Shareholding (MPS) norms, what is the\nminimum public float required for all listed firms?",
+    "option_a": "10%",
+    "option_b": "15%",
+    "option_c": "20%",
+    "option_d": "25%",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the deadline for state-owned banks in India to comply with SEBI's\nMinimum Public Shareholding (MPS) norms?",
+    "option_a": "March 2025",
+    "option_b": "August 2025",
+    "option_c": "March 2026",
+    "option_d": "August 2026",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the revised maximum limit per borrower for 'small value loans'\nprovided by Urban Cooperative Banks (UCBs)?",
+    "option_a": "50 lakh",
+    "option_b": "1 crore",
+    "option_c": "₹1.4 crore",
+    "option_d": "2 crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "Besides '.bank.in', which other exclusive internet domain does the RBI plan to\nintroduce later for the broader financial sector?",
+    "option_a": ".finance.in",
+    "option_b": ".fin.in",
+    "option_c": ".fincare.in",
+    "option_d": ".securefin.in",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to a news report slide, what amount was allegedly siphoned from\nNew India Cooperative Bank by its former General Manager Hitesh Mehta?",
+    "option_a": "50 crore",
+    "option_b": "₹75 crore",
+    "option_c": "₹100 crore",
+    "option_d": "122 crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "According to PM Narendra Modi's statement at the Al Action Summit in Paris,\nwhat accompanies the disruption caused by technology like Al?",
+    "option_a": "Permanent job losses",
+    "option_b": "Stagnation of innovation",
+    "option_c": "Creation of new types of jobs",
+    "option_d": "Decrease in productivity",
+    "correct_option": "C"
+  },
+  {
+    "question": "Bhavish Aggarwal's Al venture, Krutrim, has made which Chinese large language\nmodel available to Indian developers?",
+    "option_a": "Ernie Bot",
+    "option_b": "PanGu-Σ",
+    "option_c": "DeepSeek",
+    "option_d": "Wu Dao",
+    "correct_option": "C"
+  },
+  {
+    "question": "Krutrim announced it would be deploying which type of Nvidia GPUs?",
+    "option_a": "H100",
+    "option_b": "A100",
+    "option_c": "G200",
+    "option_d": "V100",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which four institutes has the Indian government selected as Centers of\nExcellence (CoE) in Artificial Intelligence?",
+    "option_a": "IIT Bombay, IISc Bangalore, IIT Madras, IIT Kharagpur",
+    "option_b": "AIIMS Delhi, IIT Delhi, IIT Kanpur, IIT Ropar",
+    "option_c": "IIIT Hyderabad, IIT Roorkee, AIIMS Bhopal, IIT Guwahati",
+    "option_d": "ISI Kolkata, CMI Chennai, TIFR Mumbai, IIT BHU",
+    "correct_option": "B"
+  },
+  {
+    "question": "RBI is set to issue new ₹50 banknotes featuring the signature of which\nGovernor?",
+    "option_a": "Shaktikanta Das",
+    "option_b": "Urjit Patel",
+    "option_c": "Y.V. Reddy",
+    "option_d": "Sanjay Malhotra",
+    "correct_option": "D"
+  },
+  {
+    "question": "Sanjay Malhotra became the _________ Governor of the RBI, succeeding\nShaktikanta Das.",
+    "option_a": "24th",
+    "option_b": "25th",
+    "option_c": "26th",
+    "option_d": "27th",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the color of the new ₹50 banknote belonging to the Mahatma Gandhi\n(New) Series?",
+    "option_a": "Magenta",
+    "option_b": "Stone Grey",
+    "option_c": "Fluorescent Blue",
+    "option_d": "Lavender",
+    "correct_option": "C"
+  },
+  {
+    "question": "What motif is featured on the reverse side of the ₹50 Mahatma Gandhi (New)\nSeries banknote?",
+    "option_a": "Sanchi Stupa",
+    "option_b": "Hampi with Chariot",
+    "option_c": "Rani ki vav",
+    "option_d": "Red Fort",
+    "correct_option": "B"
+  },
+  {
+    "question": "RBI approved the voluntary amalgamation of Twin Cities Co-operative Urban\nBank Ltd. with which other UCB in Hyderabad?",
+    "option_a": "Rajadhani Co-operative Urban Bank Ltd.",
+    "option_b": "Navanirman Co-operative Urban Bank Ltd.",
+    "option_c": "Kranti Co-operative Urban Bank Ltd.",
+    "option_d": "Hyderabad Peoples Co-operative Bank Ltd.",
+    "correct_option": "C"
+  },
+  {
+    "question": "The voluntary amalgamation of Navanirman Co-operative Urban Bank Ltd. and\nRajadhani Co-operative Urban Bank Ltd. in Hyderabad came into effect on which date?",
+    "option_a": "August 3, 2023",
+    "option_b": "August 23, 2023",
+    "option_c": "March 23, 2021",
+    "option_d": "February 13, 2025",
+    "correct_option": "A"
+  },
+  {
+    "question": "RBI recently imposed restrictions on which Mumbai-based co-operative bank,\nprohibiting it from issuing new loans or allowing deposit withdrawals due to supervisory\nconcerns?",
+    "option_a": "Saraswat Co-operative Bank",
+    "option_b": "Abhyudaya Co-operative Bank",
+    "option_c": "New India Co-operative Bank",
+    "option_d": "Cosmos Co-operative Bank",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the maximum amount eligible depositors of New India Co-operative Bank\nare entitled to claim under the DICGC insurance scheme?",
+    "option_a": "1 lakh",
+    "option_b": "2 lakh",
+    "option_c": "₹5 lakh",
+    "option_d": "₹10 lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "What does DICGC stand for?",
+    "option_a": "Deposit Insurance and Credit Guarantee Corporation",
+    "option_b": "Direct Investment and Capital Gains Corporation",
+    "option_c": "Depositor Information and Grievance Redressal Cell",
+    "option_d": "Debt Issuance and Corporate Governance Committee",
+    "correct_option": "A"
+  },
+  {
+    "question": "Where is the headquarters of the Deposit Insurance and Credit Guarantee\nCorporation (DICGC)?",
+    "option_a": "New Delhi",
+    "option_b": "Mumbai",
+    "option_c": "Chennai",
+    "option_d": "Kolkata",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which company did Apple partner with in China to integrate Al features into its\nsmartphones, according to Alibaba Chairman Joe Tsai?",
+    "option_a": "Baidu",
+    "option_b": "Tencent",
+    "option_c": "Alibaba",
+    "option_d": "Huawei",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is the main corporate campus ('Taobao City') of Alibaba Group Holding\nLimited located?",
+    "option_a": "Shanghai",
+    "option_b": "Beijing",
+    "option_c": "Shenzhen",
+    "option_d": "Hangzhou",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who is the current Chairman of Alibaba Group?",
+    "option_a": "Jack Ma",
+    "option_b": "Daniel Zhang",
+    "option_c": "Joseph Tsai",
+    "option_d": "Eddie Wu",
+    "correct_option": "C"
+  },
+  {
+    "question": "Microsoft recently inaugurated a new 1.1 million sq ft campus in which Indian city,\ncelebrating 25 years of its presence there?",
+    "option_a": "Bengaluru",
+    "option_b": "Pune",
+    "option_c": "Hyderabad",
+    "option_d": "Noida",
+    "correct_option": "C"
+  },
+  {
+    "question": "RBI recently lifted business restrictions imposed on which private sector bank,\nallowing it to restart digital customer acquisition and credit card issuance?",
+    "option_a": "HDFC Bank",
+    "option_b": "ICICI Bank",
+    "option_c": "Axis Bank",
+    "option_d": "Kotak Mahindra Bank",
+    "correct_option": "D"
+  },
+  {
+    "question": "Who is the current MD & CEO of Kotak Mahindra Bank?",
+    "option_a": "Uday Kotak",
+    "option_b": "Ashok Vaswani",
+    "option_c": "Dipak Gupta",
+    "option_d": "Shanti Ekambaram",
+    "correct_option": "B"
+  },
+  {
+    "question": "A joint venture between ONGC and NTPC acquired 100% equity stake in which\nBengaluru-based renewable energy company for ₹19,500 crore ($2.3 billion)?",
+    "option_a": "ReNew Power",
+    "option_b": "Ayana Renewable Power Private Ltd",
+    "option_c": "Adani Green Energy",
+    "option_d": "JSW Energy",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the current Chairman & MD of NTPC Limited?",
+    "option_a": "Arun Kumar Singh",
+    "option_b": "Gurdeep Singh",
+    "option_c": "R. K. Singh",
+    "option_d": "Alok Kumar",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who announced that Primary Agricultural Credit Societies (PACS) would soon be\nable to sell airline tickets as part of expanding their activities?",
+    "option_a": "Narendra Modi",
+    "option_b": "Amit Shah",
+    "option_c": "Nirmala Sitharaman",
+    "option_d": "Piyush Goyal",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the current Chief Election Commissioner (CEC) of India?",
+    "option_a": "Sushil Chandra",
+    "option_b": "Anoop Chandra Pandey",
+    "option_c": "Rajiv Kumar",
+    "option_d": "Gyanesh Kumar",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the '2024 Lok Sabha Polls Atlas', what was the approximate total\nnumber of electors in the 2024 General Election?",
+    "option_a": "850 million",
+    "option_b": "903 million",
+    "option_c": "979 million",
+    "option_d": "1.1 billion",
+    "correct_option": "C"
+  },
+  {
+    "question": "What was the approximate overall voter turnout percentage in the 2024 Lok\nSabha elections, as per the Atlas?",
+    "option_a": "62.5%",
+    "option_b": "66.1%",
+    "option_c": "67.4%",
+    "option_d": "70.2%",
+    "correct_option": "B"
+  },
+  {
+    "question": "How many polling stations were set up across India for the 2024 Lok Sabha\nelections?",
+    "option_a": "9.5 lakh",
+    "option_b": "10.52 lakh",
+    "option_c": "11.25 lakh",
+    "option_d": "12.01 lakh",
+    "correct_option": "B"
+  },
+  {
+    "question": "OpenAl chief executive Sam Altman announced the company is rolling out Al\nagents capable of performing tasks traditionally done by which profession?",
+    "option_a": "Doctors",
+    "option_b": "Lawyers",
+    "option_c": "Accountants",
+    "option_d": "Junior Engineers",
+    "correct_option": "D"
+  },
+  {
+    "question": "Oil and Natural Gas Corporation Ltd (ONGC) signed an MoU with which Tata\nPower subsidiary to explore opportunities in the Battery Energy Storage System (BESS) value\nchain?",
+    "option_a": "Tata Power Solar",
+    "option_b": "Tata Power Renewable Energy Ltd (TPREL)",
+    "option_c": "Tata Power Delhi Distribution",
+    "option_d": "Tata Power Trading",
+    "correct_option": "B"
+  },
+  {
+    "question": "Reliance Industries Limited (RIL) has incorporated a wholly owned subsidiary in\nSingapore named REC Sustainable Energy Solutions to set up what kind of center?",
+    "option_a": "Manufacturing Hub",
+    "option_b": "Logistics Centre",
+    "option_c": "Global Capability Centre (GCC)",
+    "option_d": "Trading Desk",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is the CEO of the Indian Cybercrime Coordination Centre (I4C)?",
+    "option_a": "Amit Shah",
+    "option_b": "Ajay Kumar Bhalla",
+    "option_c": "Rajesh Kumar",
+    "option_d": "Tapan Deka",
+    "correct_option": "C"
+  },
+  {
+    "question": "RBI has recently permitted which type of entities to raise equity capital by listing\ntheir shares in the market?",
+    "option_a": "Non-Banking Financial Companies (NBFCs)",
+    "option_b": "Small Finance Banks (SFBs)",
+    "option_c": "Asset Reconstruction Companies (ARCs)",
+    "option_d": "Payment Banks",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the threshold for an entity increasing its stake in an ARC, above which\nprior RBI approval is required?",
+    "option_a": "5%",
+    "option_b": "10%",
+    "option_c": "15%",
+    "option_d": "20%",
+    "correct_option": "B"
+  },
+  {
+    "question": "Oyo announced plans to invest $10 million to grow the digital assets (website and\napp) of which US-based hospitality company it recently acquired?",
+    "option_a": "Hilton Worldwide",
+    "option_b": "Marriott International",
+    "option_c": "G6 Hospitality (Motel 6, Studio 6 brands)",
+    "option_d": "Choice Hotels",
+    "correct_option": "C"
+  },
+  {
+    "question": "Tata Consultancy Services (TCS) signed an agreement to modernize the\ndepository system of which country's central securities depository?",
+    "option_a": "UAE (Abu Dhabi Securities Exchange)",
+    "option_b": "Saudi Arabia (Tadawul)",
+    "option_c": "Qatar (Qatar Central Securities Depository)",
+    "option_d": "Oman (Muscat Clearing and Depository - MCD)",
+    "correct_option": "D"
+  },
+  {
+    "question": "The Adani Group has partnered with which US-based healthcare organization to\nset up integrated health campuses (Adani Health City - AHC) in Mumbai and Ahmedabad?",
+    "option_a": "Cleveland Clinic",
+    "option_b": "Johns Hopkins Medicine",
+    "option_c": "Mayo Clinic",
+    "option_d": "Massachusetts General Hospital",
+    "correct_option": "C"
+  },
+  {
+    "question": "In the Union Budget 2025-26, how many existing customs tariff rates for industrial\ngoods were proposed to be removed?",
+    "option_a": "Five",
+    "option_b": "Six",
+    "option_c": "Seven",
+    "option_d": "Eight",
+    "correct_option": "C"
+  },
+  {
+    "question": "After the proposed removal of seven tariff rates in Budget 2025-26, how many\ntariff rates (including 'zero' rate) will remain?",
+    "option_a": "Six",
+    "option_b": "Seven",
+    "option_c": "Eight",
+    "option_d": "Nine",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 proposes to exempt the Social Welfare Surcharge on how many\ntariff lines that are subject to a cess?",
+    "option_a": "55",
+    "option_b": "72",
+    "option_c": "82",
+    "option_d": "95",
+    "correct_option": "C"
+  },
+  {
+    "question": "How many lifesaving drugs and medicines are proposed to be fully exempted\nfrom Basic Customs Duty (BCD) in Budget 2025-26?",
+    "option_a": "25",
+    "option_b": "36",
+    "option_c": "42",
+    "option_d": "50",
+    "correct_option": "B"
+  },
+  {
+    "question": "Budget 2025-26 proposes to increase the BCD on Interactive Flat Panel Display\n(IFPD) from 10% to what rate?",
+    "option_a": "12%",
+    "option_b": "15%",
+    "option_c": "18%",
+    "option_d": "20%",
+    "correct_option": "D"
+  },
+  {
+    "question": "The exemption of BCD on raw materials for ship manufacturing has been\nextended for how many more years in Budget 2025-26?",
+    "option_a": "Three years",
+    "option_b": "Five years",
+    "option_c": "Seven years",
+    "option_d": "Ten years",
+    "correct_option": "D"
+  },
+  {
+    "question": "Budget 2025-26 proposes to reduce the BCD on Carrier Grade ethernet switches\nfrom 20% to what rate?",
+    "option_a": "5%",
+    "option_b": "10%",
+    "option_c": "12%",
+    "option_d": "15%",
+    "correct_option": "B"
+  },
+  {
+    "question": "In Budget 2025-26, the BCD on Frozen Fish Paste (Surimi) for manufacturing is\nproposed to be reduced from 30% to what rate?",
+    "option_a": "15%",
+    "option_b": "10%",
+    "option_c": "5%",
+    "option_d": "0%",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under the new income tax regime proposed in Budget 2025-26, up to what\nannual income will there be no personal income tax payable (excluding special rate income)?",
+    "option_a": "7 lakh",
+    "option_b": "₹10 lakh",
+    "option_c": "12 lakh",
+    "option_d": "15 lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "For salaried taxpayers, considering the standard deduction of ₹75,000, up to\nwhat income level is no tax payable under the new regime proposed in Budget 2025-26?",
+    "option_a": "₹10.75 lakh",
+    "option_b": "₹12.75 lakh",
+    "option_c": "₹13.50 lakh",
+    "option_d": "15.75 lakh",
+    "correct_option": "B"
+  },
+  {
+    "question": "Budget 2025-26 doubles the limit for tax deduction on interest for senior citizens\nfrom ₹50,000 to what amount?",
+    "option_a": "₹75,000",
+    "option_b": "1 lakh",
+    "option_c": "₹1.25 lakh",
+    "option_d": "1.5 lakh",
+    "correct_option": "B"
+  },
+  {
+    "question": "The annual limit for TDS on rent has been increased in Budget 2025-26 from\n2.40 lakh to what amount?",
+    "option_a": "3 lakh",
+    "option_b": "4 lakh",
+    "option_c": "5 lakh",
+    "option_d": "₹6 lakh",
+    "correct_option": "D"
+  },
+  {
+    "question": "The threshold to collect Tax at Source (TCS) on remittances under RBI's\nLiberalized Remittance Scheme (LRS) is proposed to be increased from 7 lakh to what\namount?",
+    "option_a": "8 lakh",
+    "option_b": "9 lakh",
+    "option_c": "₹10 lakh",
+    "option_d": "12 lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 proposes to increase the registration period for small charitable\ntrusts/institutions from 5 years to how many years?",
+    "option_a": "7 years",
+    "option_b": "8 years",
+    "option_c": "10 years",
+    "option_d": "12 years",
+    "correct_option": "C"
+  },
+  {
+    "question": "Withdrawals made from which scheme on or after August 29, 2024, are proposed\nto be exempted from tax?",
+    "option_a": "Public Provident Fund (PPF)",
+    "option_b": "Sukanya Samriddhi Yojana (SSY)",
+    "option_c": "National Pension System (NPS)",
+    "option_d": "National Savings Scheme (NSS)",
+    "correct_option": "D"
+  },
+  {
+    "question": "As per Budget 2025-26, a Centre of Excellence in Artificial Intelligence for\neducation will be set up with a total outlay of how much?",
+    "option_a": "100 crore",
+    "option_b": "₹250 crore",
+    "option_c": "₹500 crore",
+    "option_d": "₹1000 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "How many additional medical seats are planned to be added in medical colleges\nand hospitals in the next year, as per Budget 2025-26?",
+    "option_a": "5,000",
+    "option_b": "7,500",
+    "option_c": "10,000",
+    "option_d": "12,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 announces the setting up of Day Care Cancer Centres in all\ndistrict hospitals over the next how many years?",
+    "option_a": "2 years",
+    "option_b": "3 years",
+    "option_c": "4 years",
+    "option_d": "5 years",
+    "correct_option": "B"
+  },
+  {
+    "question": "The revamped PM SVANidhi scheme mentioned in Budget 2025-26 will feature\nUPI-linked credit cards with what limit?",
+    "option_a": "₹10,000",
+    "option_b": "20,000",
+    "option_c": "₹30,000",
+    "option_d": "₹50,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 proposes an outlay of how much for 50-year interest-free loans\nto states for capital expenditure?",
+    "option_a": "1 lakh crore",
+    "option_b": "1.5 lakh crore",
+    "option_c": "2 lakh crore",
+    "option_d": "2.5 lakh crore",
+    "correct_option": "B"
+  },
+  {
+    "question": "The second Asset Monetization Plan announced in Budget 2025-26 covers which\nperiod and targets ploughing back how much capital?",
+    "option_a": "2024-28, ₹8 lakh crore",
+    "option_b": "2025-30, ₹10 lakh crore",
+    "option_c": "2026-31, 12 lakh crore",
+    "option_d": "2025-29, ₹15 lakh crore",
+    "correct_option": "B"
+  },
+  {
+    "question": "The Jal Jeevan Mission is proposed to be extended until which year in Budget\n2025-26?",
+    "option_a": "2026",
+    "option_b": "2027",
+    "option_c": "2028",
+    "option_d": "2030",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 proposes a Nuclear Energy Mission for research and\ndevelopment of Small Modular Reactors (SMRs) with an outlay of:",
+    "option_a": "₹10,000 crore",
+    "option_b": "₹15,000 crore",
+    "option_c": "20,000 crore",
+    "option_d": "₹25,000 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "How many indigenously developed SMRs are targeted to be operational by 2033\nunder the Nuclear Energy Mission?",
+    "option_a": "3",
+    "option_b": "5",
+    "option_c": "7",
+    "option_d": "10",
+    "correct_option": "B"
+  },
+  {
+    "question": "A Maritime Development Fund with a corpus of ₹25,000 crore is proposed in\nBudget 2025-26, with up to what percentage contribution from the Government?",
+    "option_a": "25%",
+    "option_b": "33%",
+    "option_c": "49%",
+    "option_d": "51%",
+    "correct_option": "C"
+  },
+  {
+    "question": "The modified UDAN scheme announced in Budget 2025-26 aims to enhance\nconnectivity to how many new destinations?",
+    "option_a": "100",
+    "option_b": "120",
+    "option_c": "150",
+    "option_d": "200",
+    "correct_option": "B"
+  },
+  {
+    "question": "Budget 2025-26 allocates how much to implement the private sector-driven\nResearch, Development, and Innovation initiative?",
+    "option_a": "₹10,000 crore",
+    "option_b": "₹15,000 crore",
+    "option_c": "20,000 crore",
+    "option_d": "₹25,000 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "How many PM Research Fellowships for technological research in IITs and IISc\nare proposed in Budget 2025-26?",
+    "option_a": "5,000",
+    "option_b": "7,500",
+    "option_c": "10,000",
+    "option_d": "15,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Gyan Bharatam Mission announced in Budget 2025-26 aims to survey,\ndocument, and conserve over how many manuscripts?",
+    "option_a": "10 lakh",
+    "option_b": "50 lakh",
+    "option_c": "1 crore",
+    "option_d": "2 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the unified platform for international trade documentation\nand financing solutions proposed in Budget 2025-26?",
+    "option_a": "TradeSuvidha",
+    "option_b": "ExportSetu",
+    "option_c": "BharatTradeNet (BTN)",
+    "option_d": "India TradeLink",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 proposes raising the FDI limit for the insurance sector from 74%\nto what percentage, for companies investing entire premium in India?",
+    "option_a": "80%",
+    "option_b": "90%",
+    "option_c": "95%",
+    "option_d": "100%",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which institution is proposed to set up a 'Partial Credit Enhancement Facility' for\ncorporate bonds for infrastructure?",
+    "option_a": "RBI",
+    "option_b": "SIDBI",
+    "option_c": "NaBFID",
+    "option_d": "NABARD",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the credit score framework proposed for Public Sector\nBanks to develop for serving SHG members and rural people?",
+    "option_a": "Kisan Credit Score",
+    "option_b": "Grameen Credit Score",
+    "option_c": "Rural FinScore",
+    "option_d": "SHG Samarth Score",
+    "correct_option": "B"
+  },
+  {
+    "question": "The Jan Vishwas Bill 2.0, mentioned in Budget 2025-26 highlights, aims to\ndecriminalize more than how many provisions in various laws?",
+    "option_a": "50",
+    "option_b": "75",
+    "option_c": "100",
+    "option_d": "150",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the Budget 2025-26 'Rupee Goes To' chart, what is the largest\ncomponent of government expenditure?",
+    "option_a": "Interest Payments",
+    "option_b": "Central Sector Schemes",
+    "option_c": "States' share of Taxes and Duties",
+    "option_d": "Defence",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the estimated Fiscal Deficit as a percentage of GDP for 2025-26 (Budget\nEstimate) according to the Budget highlights?",
+    "option_a": "5.6%",
+    "option_b": "4.8%",
+    "option_c": "4.4%",
+    "option_d": "3.3%",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the estimated Revenue Deficit as a percentage of GDP for 2025-26\n(Budget Estimate)?",
+    "option_a": "2.6%",
+    "option_b": "2.0%",
+    "option_c": "1.5%",
+    "option_d": "1.3%",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which entity did RBI impose the highest monetary penalty on recently, amounting\nto 61.40 lakh?",
+    "option_a": "Shriram Finance",
+    "option_b": "Nainital Bank",
+    "option_c": "Ujjivan Small Finance Bank",
+    "option_d": "Kotak Mahindra Bank",
+    "correct_option": "B"
+  },
+  {
+    "question": "RBI recently allowed which type of banks to offer pre-sanctioned credit lines\nthrough UPI?",
+    "option_a": "Payment Banks",
+    "option_b": "Regional Rural Banks (RRBs)",
+    "option_c": "Co-operative Banks",
+    "option_d": "Small Finance Banks (SFBs)",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which types of banks are explicitly mentioned as excluded from offering\npre-sanctioned credit lines via UPI in the recent RBI allowance?",
+    "option_a": "SFBs and Co-operative Banks",
+    "option_b": "Private Sector Banks and Foreign Banks",
+    "option_c": "Payments Banks and Regional Rural Banks (RRBs)",
+    "option_d": "Public Sector Banks and NBFCs",
+    "correct_option": "C"
+  },
+  {
+    "question": "RBI has deferred the implementation of Liquidity Coverage Ratio (LCR) and\nproject financing norms to which new date?",
+    "option_a": "April 1, 2025",
+    "option_b": "December 31, 2025",
+    "option_c": "March 31, 2026",
+    "option_d": "April 1, 2026",
+    "correct_option": "C"
+  },
+  {
+    "question": "What does LCR stand for in banking regulations?",
+    "option_a": "Loan Coverage Ratio",
+    "option_b": "Liquidity Coverage Ratio",
+    "option_c": "Leverage Calculation Rate",
+    "option_d": "Lending Capacity Requirement",
+    "correct_option": "B"
+  },
+  {
+    "question": "'Jio-bp' is a joint venture brand name for Reliance BP Mobility Limited (RBML),\nformed between Reliance Industries Ltd and which company?",
+    "option_a": "Shell",
+    "option_b": "TotalEnergies",
+    "option_c": "BP (British Petroleum)",
+    "option_d": "ExxonMobil",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who has been appointed to head the 31-member select committee of the Lok\nSabha examining the Income Tax Bill, 2025?",
+    "option_a": "Anurag Thakur",
+    "option_b": "Jagadish Shettar",
+    "option_c": "Baijayant Panda",
+    "option_d": "PP Chaudhary",
+    "correct_option": "C"
+  },
+  {
+    "question": "How much allocation was announced in Budget 2025 for the National Cotton\nTechnology Mission?",
+    "option_a": "200 crore",
+    "option_b": "₹350 crore",
+    "option_c": "₹500 crore",
+    "option_d": "750 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "India and the US aim to more than double their bilateral trade to what target\namount by 2030?",
+    "option_a": "$300 billion",
+    "option_b": "$400 billion",
+    "option_c": "$500 billion",
+    "option_d": "$750 billion",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which programme, covering 100 districts, aims to enhance agricultural\nproductivity and farmer income as mentioned in Budget 2025-26?",
+    "option_a": "PM-KISAN",
+    "option_b": "PM Fasal Bima Yojana",
+    "option_c": "Prime Minister Dhan-Dhaanya Krishi Yojana",
+    "option_d": "Rashtriya Krishi Vikas Yojana",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 announced a 6-year 'Mission for Aatmanirbharta in Pulses'\nfocusing on which specific pulses?",
+    "option_a": "Chana, Moong, Masoor",
+    "option_b": "Tur, Urad, Moong",
+    "option_c": "Tur, Urad, Masoor",
+    "option_d": "Chana, Matar, Rajma",
+    "correct_option": "C"
+  },
+  {
+    "question": "Where is a Makhana Board proposed to be established as per Budget 2025-26\nhighlights?",
+    "option_a": "Uttar Pradesh",
+    "option_b": "Bihar",
+    "option_c": "West Bengal",
+    "option_d": "Odisha",
+    "correct_option": "B"
+  },
+  {
+    "question": "Budget 2025-26 proposes enhancing the investment and turnover limits for\nMSME classification by how many times, respectively?",
+    "option_a": "2 and 1.5 times",
+    "option_b": "2.5 and 2 times",
+    "option_c": "3 and 2.5 times",
+    "option_d": "2 and 2 times",
+    "correct_option": "B"
+  },
+  {
+    "question": "Customized Credit Cards with a limit of ₹5 lakh for micro-enterprises registered\non the Udyam portal are proposed in Budget 2025-26. How many such cards will be issued in\nthe first year?",
+    "option_a": "1 lakh",
+    "option_b": "5 lakh",
+    "option_c": "10 lakh",
+    "option_d": "20 lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "A new Fund of Funds for Startups is proposed in Budget 2025-26 with a fresh\ncontribution of how much?",
+    "option_a": "5,000 crore",
+    "option_b": "₹10,000 crore",
+    "option_c": "₹15,000 crore",
+    "option_d": "20,000 crore",
+    "correct_option": "B"
+  },
+  {
+    "question": "A new scheme for first-time entrepreneurs (women, SCs, STs) is proposed in\nBudget 2025-26 to provide term loans up to what amount?",
+    "option_a": "50 lakh",
+    "option_b": "₹1 crore",
+    "option_c": "2 crore",
+    "option_d": "5 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "The focus product scheme for the Footwear & Leather sectors announced in\nBudget 2025-26 aims to facilitate employment for how many persons?",
+    "option_a": "10 lakh",
+    "option_b": "15 lakh",
+    "option_c": "22 lakh",
+    "option_d": "30 lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "How many Atal Tinkering Labs are planned to be set up in Government schools\nin the next 5 years, as per Budget 2025-26?",
+    "option_a": "10 Thousand",
+    "option_b": "25 Thousand",
+    "option_c": "50 Thousand",
+    "option_d": "1 Lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the scheme announced in Budget 2025-26 to provide\ndigital-form Indian language books for school and higher education?",
+    "option_a": "e-Vidya Scheme",
+    "option_b": "Digital India Pustak Kosh",
+    "option_c": "Bharatiya Bhasha Pustak Scheme",
+    "option_d": "Gyan Ganga Scheme",
+    "correct_option": "C"
+  },
+  {
+    "question": "How many National Centres of Excellence for skilling are proposed to be set up\nwith global expertise, according to Budget 2025-26?",
+    "option_a": "3",
+    "option_b": "5",
+    "option_c": "7",
+    "option_d": "10",
+    "correct_option": "B"
+  },
+  {
+    "question": "What was India's headline Wholesale Price Index (WPI) inflation rate recorded for\nJanuary 2025?",
+    "option_a": "2.4%",
+    "option_b": "7.5%",
+    "option_c": "4.8%",
+    "option_d": "2.3%",
+    "correct_option": "D"
+  },
+  {
+    "question": "What were the primary factors contributing to the moderation of WPI inflation in\nJanuary 2025?",
+    "option_a": "Rise in fuel prices and increase in manufactured goods prices",
+    "option_b": "Fall in food prices (esp. vegetables) and continued decline in fuel/power prices",
+    "option_c": "Sharp increase in global commodity prices",
+    "option_d": "Increase in prices of services and high import costs",
+    "correct_option": "B"
+  },
+  {
+    "question": "What was the WPI food inflation rate in January 2025, which was described as\nbeing at a five-month low?",
+    "option_a": "2.3%",
+    "option_b": "4.8%",
+    "option_c": "7.5%",
+    "option_d": "10.1%",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which government body publishes the Wholesale Price Index (WPI) data in\nIndia?",
+    "option_a": "National Statistical Office (NSO)",
+    "option_b": "Reserve Bank of India (RBI)",
+    "option_c": "Department of Economic Affairs, Ministry of Finance",
+    "option_d": "Office of the Economic Adviser, Ministry of Commerce and Industry",
+    "correct_option": "D"
+  },
+  {
+    "question": "The Indian government has asked which segment of insurers to increase the\n'free-look' period for policyholders to one year?",
+    "option_a": "All insurers (Public and Private)",
+    "option_b": "Only Public sector insurers",
+    "option_c": "Only Private insurers",
+    "option_d": "Only Health insurers",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the current standard 'free-look' period for life insurance policies before\nthe proposed extension?",
+    "option_a": "7 days",
+    "option_b": "15 days",
+    "option_c": "One month",
+    "option_d": "Three months",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the primary significance of extending the 'free-look' period for insurance\npolicies?",
+    "option_a": "To increase the premium amount",
+    "option_b": "To allow insurers more time for underwriting",
+    "option_c": "To give customers more time to review policies and reduce mis-selling",
+    "option_d": "To shorten the claim settlement process",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the 'Call Back' initiative being implemented/encouraged among\ninsurers?",
+    "option_a": "A process to automatically renew policies",
+    "option_b": "A program to check customer satisfaction after policy purchase and verify\nunderstanding",
+    "option_c": "A system for lodging complaints via phone",
+    "option_d": "A marketing campaign to re-engage lapsed policyholders",
+    "correct_option": "B"
+  },
+  {
+    "question": "The Union Budget announced an increase in the Foreign Direct Investment (FDI)\nlimit in the insurance sector from 74% to what percentage?",
+    "option_a": "80%",
+    "option_b": "90%",
+    "option_c": "100%",
+    "option_d": "No change was announced",
+    "correct_option": "C"
+  },
+  {
+    "question": "Besides the FDI limit increase, the upcoming Insurance Amendment Bill is\nexpected to introduce which new type of license for insurers?",
+    "option_a": "Micro-insurance license",
+    "option_b": "Digital-only license",
+    "option_c": "Composite license",
+    "option_d": "Reinsurance-only license",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is the current Chairperson of the Insurance Regulatory and Development\nAuthority of India (IRDAI)?",
+    "option_a": "Subhash Chandra Khuntia",
+    "option_b": "Pravin Kutumbe",
+    "option_c": "Debasish Panda",
+    "option_d": "T. S. Vijayan",
+    "correct_option": "C"
+  },
+  {
+    "question": "PhonePe has launched a device tokenization solution for which types of cards?",
+    "option_a": "Only Credit Cards",
+    "option_b": "Only Debit Cards",
+    "option_c": "Credit and Debit Cards",
+    "option_d": "Only Prepaid Cards",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the primary benefit of card tokenization for users and merchants?",
+    "option_a": "It allows higher transaction limits",
+    "option_b": "It replaces sensitive card details with unique tokens, enhancing security",
+    "option_c": "It offers cashback on every transaction",
+    "option_d": "It eliminates the need for OTP verification",
+    "correct_option": "B"
+  },
+  {
+    "question": "PhonePe's move towards device tokenization aligns with the guidelines issued by\nwhich regulatory body?",
+    "option_a": "SEBI",
+    "option_b": "NPCI",
+    "option_c": "RBI",
+    "option_d": "IRDAI",
+    "correct_option": "C"
+  },
+  {
+    "question": "PhonePe's launch of tokenization follows its recent move to directly integrate its\npayment solutions with merchants, eliminating the need for what?",
+    "option_a": "Point of Sale (POS) machines",
+    "option_b": "QR code payments",
+    "option_c": "Third-party payment orchestration platforms",
+    "option_d": "UPI infrastructure",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is the Founder & CEO of PhonePe?",
+    "option_a": "Vijay Shekhar Sharma",
+    "option_b": "Kunal Shah",
+    "option_c": "Sameer Nigam",
+    "option_d": "Nithin Kamath",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is NTPC's revised target for building nuclear power capacity over the next\ntwo decades?",
+    "option_a": "10 GW",
+    "option_b": "20 GW",
+    "option_c": "30 GW",
+    "option_d": "50 GW",
+    "correct_option": "C"
+  },
+  {
+    "question": "What prompted NTPC to revise its nuclear power capacity target upwards from\nthe initial 10 GW?",
+    "option_a": "A decrease in coal prices",
+    "option_b": "A directive from the International Atomic Energy Agency (IAEA)",
+    "option_c": "The government's decision to open the nuclear sector to foreign and private\ninvestment",
+    "option_d": "Technological breakthroughs making nuclear power cheaper",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the estimated investment cost for NTPC's plan to build 30 GW of nuclear\npower capacity?",
+    "option_a": "$30 billion",
+    "option_b": "$50 billion",
+    "option_c": "$62 billion",
+    "option_d": "$100 billion",
+    "correct_option": "C"
+  },
+  {
+    "question": "NTPC is currently building two 2.6 GW nuclear power plants in partnership with\nNPCIL in which two states?",
+    "option_a": "Gujarat and Maharashtra",
+    "option_b": "Tamil Nadu and Karnataka",
+    "option_c": "Madhya Pradesh and Rajasthan",
+    "option_d": "Uttar Pradesh and Haryana",
+    "correct_option": "C"
+  },
+  {
+    "question": "Jio-bp, a joint venture between Reliance Industries and bp, aims to expand its EV\ncharging stations to how many units in the next 10-12 years?",
+    "option_a": "10,000",
+    "option_b": "50,000",
+    "option_c": "100,000",
+    "option_d": "250,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "Besides EV charging, Jio-bp also plans to set up how many retail outlets to sell\ncompressed biogas?",
+    "option_a": "100",
+    "option_b": "500",
+    "option_c": "1,000",
+    "option_d": "5,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "What power rating did Jio-bp's first deployed EV chargers at NMACC Mumbai\nhave?",
+    "option_a": "120 kW",
+    "option_b": "240 kW",
+    "option_c": "350 kW",
+    "option_d": "480 kW",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the revised definition of small value loans for Urban Co-operative Banks\n(UCBs) as per RBI?",
+    "option_a": "Loans up to ₹1 crore per borrower.",
+    "option_b": "Loans up to 25 lakh or 0.4% of Tier I capital (whichever is higher), with a\nmaximum of 3 crore per borrower.",
+    "option_c": "Loans up to 5 crore per borrower.",
+    "option_d": "Loans up to ₹50 lakh irrespective of capital.",
+    "correct_option": "B"
+  },
+  {
+    "question": "By March 31, 2026, what percentage of their loan portfolio must UCBs ensure\ncomprises small value loans?",
+    "option_a": "25%",
+    "option_b": "40%",
+    "option_c": "50%",
+    "option_d": "60%",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the revised housing loan limit per dwelling unit specifically for Tier III\nUCBs?",
+    "option_a": "60 lakh",
+    "option_b": "₹1 crore",
+    "option_c": "₹1.40 crore",
+    "option_d": "2 crore",
+    "correct_option": "D"
+  },
+  {
+    "question": "According to the revised RBI norms explained, what is the individual housing\nloan limit per dwelling unit for Tier IV UCBs?",
+    "option_a": "1.40 crore",
+    "option_b": "2 crore",
+    "option_c": "3 crore",
+    "option_d": "5 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "The revised RBI norms specify that the aggregate exposure of a UCB to the\ncommercial real estate sector (excluding housing loans to individuals) shall not exceed what\npercentage of its total loans and advances?",
+    "option_a": "5%",
+    "option_b": "10%",
+    "option_c": "15%",
+    "option_d": "20%",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which bank became the first Urban Co-operative Bank (UCB) to receive\nin-principle approval from RBI to convert into a Small Finance Bank (SFB)?",
+    "option_a": "Saraswat Co-operative Bank Ltd",
+    "option_b": "Shivalik Mercantile Co-operative Bank Limited",
+    "option_c": "Cosmos Co-operative Bank Ltd",
+    "option_d": "PMC Bank (under resolution)",
+    "correct_option": "B"
+  },
+  {
+    "question": "For UCBs voluntarily transitioning into SFBs, what is the initial minimum net\nworth requirement at the time of commencement, and what must it be increased to within five\nyears?",
+    "option_a": "50 crore initially, ₹100 crore in 5 years",
+    "option_b": "₹100 crore initially, ₹200 crore in 5 years",
+    "option_c": "₹200 crore initially, ₹300 crore in 5 years",
+    "option_d": "100 crore initially, no mandatory increase specified",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the name of the new Act passed in 2023 that governs the appointment\nof the Chief Election Commissioner (CEC) and Election Commissioners (ECs) in India?",
+    "option_a": "Election Commission Strengthening Act, 2023",
+    "option_b": "Chief Election Commissioner and Other Election Commissioners (Appointment,\nConditions of Service and Term of Office) Act, 2023",
+    "option_c": "Representation of the People (Amendment) Act, 2023",
+    "option_d": "Electoral Reforms Act, 2023",
+    "correct_option": "B"
+  },
+  {
+    "question": "Under the new Act, who are the three members of the Selection Committee\nresponsible for recommending appointments of CEC and ECs?",
+    "option_a": "President, Prime Minister, Chief Justice of India",
+    "option_b": "Prime Minister, Leader of Opposition (Lok Sabha), Chief Justice of India",
+    "option_c": "Prime Minister, a Union Cabinet Minister nominated by PM, Leader of\nOpposition (Lok Sabha)",
+    "option_d": "President, Speaker of Lok Sabha, Chairman of Rajya Sabha",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who chairs the Search Committee that assists the Selection Committee by\nshortlisting candidates for CEC/EC positions?",
+    "option_a": "Prime Minister",
+    "option_b": "Home Minister",
+    "option_c": "Chief Justice of India",
+    "option_d": "Union Minister for Law and Justice",
+    "correct_option": "D"
+  },
+  {
+    "question": "A key criticism of the new CEC/EC appointment law is the exclusion of which\nfigure from the Selection Committee?",
+    "option_a": "The President of India",
+    "option_b": "The Speaker of the Lok Sabha",
+    "option_c": "The Chief Justice of India (CJI)",
+    "option_d": "The Comptroller and Auditor General (CAG)",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who were the two new Election Commissioners appointed under the new law,\nas shown in the slides?",
+    "option_a": "Rajiv Kumar and Anup Chandra Pandey",
+    "option_b": "Gyanesh Kumar and Sukhbir Singh Sandhu",
+    "option_c": "Vivek Joshi and T V Somanathan",
+    "option_d": "Arun Goel and Rajiv Mehrishi",
+    "correct_option": "B"
+  },
+  {
+    "question": "When does the tenure of the current Chief Election Commissioner, Rajiv Kumar,\nend?",
+    "option_a": "December 31, 2024",
+    "option_b": "February 18, 2025",
+    "option_c": "May 15, 2025",
+    "option_d": "August 31, 2025",
+    "correct_option": "B"
+  },
+  {
+    "question": "The revised Prompt Corrective Action (PCA) Framework for Primary (Urban)\nCo-operative Banks (UCBs) will be effective from which date?",
+    "option_a": "July 26, 2024",
+    "option_b": "January 1, 2025",
+    "option_c": "April 1, 2025",
+    "option_d": "March 31, 2026",
+    "correct_option": "C"
+  },
+  {
+    "question": "The revised PCA framework for UCBs applies to which tiers of banks?",
+    "option_a": "Only Tier I UCBs",
+    "option_b": "Only Tier IV UCBs",
+    "option_c": "Tier I, II, III, and IV UCBs",
+    "option_d": "Tier II, Tier III, and Tier IV UCBs (excluding Tier I)",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which three key areas are monitored under the revised PCA framework for\nUCBs?",
+    "option_a": "Liquidity, Market Risk, and Operational Risk",
+    "option_b": "Capital, Asset Quality, and Profitability",
+    "option_c": "Customer Service, Digital Penetration, and Branch Network",
+    "option_d": "Governance, Compliance, and Fraud Prevention",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which specific indicators are tracked for Capital, Asset Quality, and Profitability\nunder the PCA framework for UCBs?",
+    "option_a": "Tier 1 Capital Ratio, Gross NPA Ratio, Return on Equity",
+    "option_b": "CRAR, Net NPA Ratio, Net Profit",
+    "option_c": "Leverage Ratio, Provision Coverage Ratio, Operating Profit",
+    "option_d": "CET1 Ratio, Standard Asset Ratio, Profit Margin",
+    "correct_option": "B"
+  },
+  {
+    "question": "A UCB may be placed under PCA Risk Threshold 1 if its Net Non-Performing\nAdvances (NNPA) Ratio falls within which range?",
+    "option_a": "Less than 6.0%",
+    "option_b": ">=6.0% but <9.0%",
+    "option_c": ">=9.0% but <12.0%",
+    "option_d": ">=12.0%",
+    "correct_option": "B"
+  },
+  {
+    "question": "Incurring losses during how many consecutive years is a trigger for placing a\nUCB under PCA based on the Profitability parameter?",
+    "option_a": "One year",
+    "option_b": "Two consecutive years",
+    "option_c": "Three consecutive years",
+    "option_d": "Four consecutive years",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the mandatory minimum Capital to Risk-Weighted Assets Ratio (CRAR)\nthat Tier 2 to Tier 4 UCBs need to achieve by March 31, 2026?",
+    "option_a": "9%",
+    "option_b": "10%",
+    "option_c": "12%",
+    "option_d": "15%",
+    "correct_option": "C"
+  },
+  {
+    "question": "RBI recently corrected the Hindi name of its Reserve Bank-Integrated\nOmbudsman Scheme (RB-IOS), 2021. What was the initial incorrect Hindi term used?",
+    "option_a": "लोक अदालत (Lok Adalat)",
+    "option_b": "लोकपाल (Lokpal)",
+    "option_c": "लोकसेवक (Loksevak)",
+    "option_d": "जन सुनवाई (Jan Sunwai)",
+    "correct_option": "B"
+  },
+  {
+    "question": "The term 'Lokpal' used initially conflicted with which Act, where it is specifically\nreserved for the anti-corruption ombudsman body?",
+    "option_a": "The Prevention of Corruption Act, 1988",
+    "option_b": "The Right to Information Act, 2005",
+    "option_c": "The Lokpal and Lokayuktas Act, 2013",
+    "option_d": "The Central Vigilance Commission Act, 2003",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the corrected official Hindi name for the RB-IOS, 2021 scheme?",
+    "option_a": "रिज़र्व बैंक-शिकायत निवारण योजना, 2021",
+    "option_b": "रिज़र्व बैंक-ग्राहक संरक्षण योजना, 2021",
+    "option_c": "रिज़र्व बैंक-एकीकृत ओम्बड्समैन योजना, 2021",
+    "option_d": "रिज़र्व बैंक-बैंकिंग लोकपाल योजना, 2021",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the primary purpose of the Reserve Bank-Integrated Ombudsman\nScheme (RB-IOS)?",
+    "option_a": "To regulate interest rates charged by banks",
+    "option_b": "To provide a cost-free mechanism for customer complaint resolution against\nRBI-regulated entities",
+    "option_c": "To conduct audits of financial institutions",
+    "option_d": "To manage the currency circulation in the country",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which statement correctly describes Real GDP and Nominal GDP?",
+    "option_a": "Real GDP is at current prices, Nominal GDP is at base year prices.",
+    "option_b": "Real GDP is at base year prices, Nominal GDP is at current year prices.",
+    "option_c": "Both Real and Nominal GDP are calculated at current year prices.",
+    "option_d": "Both Real and Nominal GDP are calculated at base year prices.",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the typical action taken by a central bank during Quantitative Easing\n(QE)?",
+    "option_a": "Selling government bonds to absorb money",
+    "option_b": "Purchasing government bonds to pump money into the economy",
+    "option_c": "Increasing the policy interest rate",
+    "option_d": "Increasing the Cash Reserve Ratio (CRR)",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which of the following is characteristic of an Expansionary Monetary Policy?",
+    "option_a": "It decreases the supply of money and raises interest rates.",
+    "option_b": "It increases the supply of money and lowers interest rates.",
+    "option_c": "It is used primarily to tackle inflation.",
+    "option_d": "It involves increasing taxes and reducing government spending.",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which policy primarily deals with taxation and expenditure decisions of the\ngovernment?",
+    "option_a": "Monetary Policy",
+    "option_b": "Fiscal Policy",
+    "option_c": "Trade Policy",
+    "option_d": "Incomes Policy",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who heads the seven-member committee formed by IRDAI to work on\nimplementing proposed amendments to the Insurance Act, 1938?",
+    "option_a": "Debasish Panda",
+    "option_b": "Nirmala Sitharaman",
+    "option_c": "Dinesh Khara",
+    "option_d": "N Kannan",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the primary mandate of the IRDAI committee headed by Dinesh Khara\nregarding the Insurance Act amendments?",
+    "option_a": "To suggest new amendments to the Act",
+    "option_b": "To focus on implementing the already proposed amendments",
+    "option_c": "To review the performance of insurance companies",
+    "option_d": "To draft regulations for insurance intermediaries",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which former head of ICICI Prudential Life Insurance is mentioned as a member\nof the IRDAI committee on Insurance Act amendments?",
+    "option_a": "Sandeep Bakhshi",
+    "option_b": "Chanda Kochhar",
+    "option_c": "N Kannan",
+    "option_d": "Shikha Sharma",
+    "correct_option": "C"
+  },
+  {
+    "question": "What does NAKSHA stand for, the program launched for urban land surveys?",
+    "option_a": "National Automated Cadastral Hub and Survey Application",
+    "option_b": "New Age Knowledge Sharing Application for Land",
+    "option_c": "National Geospatial Knowledge-based Land Survey of Urban Habitations",
+    "option_d": "Networked Atlas and Knowledge Sharing Hub Application",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who launched the NAKSHA pilot program?",
+    "option_a": "Minister of Housing and Urban Affairs",
+    "option_b": "Minister of Science and Technology",
+    "option_c": "Union Agriculture Minister Shivraj Singh Chouhan",
+    "option_d": "Minister of Electronics and Information Technology",
+    "correct_option": "C"
+  },
+  {
+    "question": "The NAKSHA pilot program aims to update and create digital land records in\nurban areas primarily using which technology?",
+    "option_a": "Satellite Imagery",
+    "option_b": "Ground Penetrating Radar",
+    "option_c": "Manual Surveys",
+    "option_d": "Drone Surveys",
+    "correct_option": "D"
+  },
+  {
+    "question": "In how many urban local bodies (ULBs) across states and UTs was the NAKSHA\npilot program launched initially?",
+    "option_a": "100 ULBs",
+    "option_b": "152 ULBs",
+    "option_c": "200 ULBs",
+    "option_d": "250 ULBs",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to the slides, approximately what percentage of the combined Gross\nNPA ratio did all UCBs have as of September 2024?",
+    "option_a": "5.6%",
+    "option_b": "7.8%",
+    "option_c": "9.6%",
+    "option_d": "10.9%",
+    "correct_option": "C"
+  },
+  {
+    "question": "During the financial year 2023-24, how many UCB licenses were cancelled by\nthe RBI?",
+    "option_a": "10",
+    "option_b": "15",
+    "option_c": "24",
+    "option_d": "30",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is leading the working group formed by the Reserve Bank of India (RBI) to\nreview market timings?",
+    "option_a": "Michael Patra (MD Patra)",
+    "option_b": "Shaktikanta Das",
+    "option_c": "T. Rabi Sankar",
+    "option_d": "Radha Shyam Ratho",
+    "correct_option": "D"
+  }
+]

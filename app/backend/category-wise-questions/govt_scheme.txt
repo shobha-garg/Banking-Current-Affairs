@@ -1,0 +1,1290 @@
+﻿[
+  {
+    "question": "What is the initial collateral-free working capital loan amount provided under the PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi) scheme for a one-year tenure?",
+    "option_a": "₹5,000",
+    "option_b": "₹10,000",
+    "option_c": "₹20,000",
+    "option_d": "₹50,000",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the interest subsidy percentage offered on timely/early repayment of loans under the PM SVANidhi scheme?",
+    "option_a": "5%",
+    "option_b": "6%",
+    "option_c": "7%",
+    "option_d": "8%",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under PM SVANidhi, what is the maximum monthly cash-back incentive provided for undertaking a prescribed number of digital transactions?",
+    "option_a": "₹50",
+    "option_b": "₹100",
+    "option_c": "₹200",
+    "option_d": "₹1,200",
+    "correct_option": "B"
+  },
+  {
+    "question": "The revamped PM SVANidhi scheme, mentioned as benefiting 68 lakh street vendors, introduces UPI-linked credit cards with what maximum limit?",
+    "option_a": "₹10,000",
+    "option_b": "₹20,000",
+    "option_c": "₹30,000",
+    "option_d": "₹50,000",
+    "correct_option": "C"
+  },
+    {
+    "question": "Which ministry launched the Sukanya Samriddhi Yojana in 2015?",
+    "option_a": "Ministry of Finance",
+    "option_b": "Ministry of Women and Child Development",
+    "option_c": "Ministry of Education",
+    "option_d": "Ministry of Rural Development",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the maximum age a girl child can be to open an account under the Sukanya Samriddhi Yojana?",
+    "option_a": "5 years",
+    "option_b": "10 years",
+    "option_c": "15 years",
+    "option_d": "18 years",
+    "correct_option": "B"
+  },
+  {
+    "question": "What are the minimum and maximum deposit amounts allowed per fiscal year under the Sukanya Samriddhi Yojana?",
+    "option_a": "₹100 and ₹1,00,000",
+    "option_b": "₹500 and ₹2,00,000",
+    "option_c": "₹250 and ₹1,50,000",
+    "option_d": "₹1,000 and ₹1,50,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the penalty imposed if the minimum deposit amount is not made in a Sukanya Samriddhi Yojana account during a fiscal year?",
+    "option_a": "₹25",
+    "option_b": "₹50",
+    "option_c": "₹100",
+    "option_d": "₹250",
+    "correct_option": "B"
+  },
+  {
+    "question": "The Sukanya Samriddhi Yojana account's term lasts for how many years from the date of opening or until the account holder's marriage, whichever is earlier?",
+    "option_a": "15 years",
+    "option_b": "18 years",
+    "option_c": "21 years",
+    "option_d": "25 years",
+    "correct_option": "C"
+  },
+  {
+    "question": "What was the interest rate announced for the Sukanya Samriddhi Yojana for the period starting 2024?",
+    "option_a": "7.6% per annum",
+    "option_b": "8.0% per annum",
+    "option_c": "8.2% per annum",
+    "option_d": "8.5% per annum",
+    "correct_option": "C"
+  },
+    {
+    "question": "How often is the interest rate for the Sukanya Samriddhi Yojana decided and changed by the government?",
+    "option_a": "Monthly",
+    "option_b": "Quarterly",
+    "option_c": "Half-yearly",
+    "option_d": "Annually",
+    "correct_option": "B"
+  },
+  {
+    "question": "How many Sukanya Samriddhi Accounts are permitted per family, generally?",
+    "option_a": "One",
+    "option_b": "Two",
+    "option_c": "Three",
+    "option_d": "No limit",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which type of investment involves developing infrastructure on sites that were previously undeveloped?",
+    "option_a": "Brownfield Investment",
+    "option_b": "Greenfield Investment",
+    "option_c": "Asset Monetization",
+    "option_d": "Public Private Partnership",
+    "correct_option": "B"
+  },
+   {
+    "question": "Which type of investment focuses on utilizing existing, often government-owned, infrastructure through methods like privatization or leasing?",
+    "option_a": "Brownfield Investment",
+    "option_b": "Greenfield Investment",
+    "option_c": "Foreign Direct Investment",
+    "option_d": "Venture Capital Investment",
+    "correct_option": "A"
+  },
+  {
+    "question": "What was the total envisaged revenue target under the initial National Monetisation Pipeline (NMP) for brownfield assets (approx. FY22-FY25)?",
+    "option_a": "Rs. 2.5 Lakh Crore",
+    "option_b": "Rs. 4.0 Lakh Crore",
+    "option_c": "Rs. 6.0 Lakh Crore",
+    "option_d": "Rs. 10.0 Lakh Crore",
+    "correct_option": "C"
+  },
+    {
+    "question": "According to the NMP slide, which sector had the highest envisaged revenue target?",
+    "option_a": "Railways",
+    "option_b": "Roads",
+    "option_c": "Power Transmission",
+    "option_d": "Telecom",
+    "correct_option": "B"
+  },
+  {
+    "question": "The Union Budget 2025-26 announced a second Asset Monetization Plan for which period, aiming to plough back capital into new projects?",
+    "option_a": "2024-2029",
+    "option_b": "2025-2030",
+    "option_c": "2026-2031",
+    "option_d": "2025-2028",
+    "correct_option": "B"
+  },
+   {
+    "question": "What is the target amount to be generated under the Asset Monetization Plan announced for 2025-30 in the Union Budget 2025-26?",
+    "option_a": "₹6 lakh crore",
+    "option_b": "₹8 lakh crore",
+    "option_c": "₹10 lakh crore",
+    "option_d": "₹15 lakh crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "In the financial year 2023-24, what was the approximate achievement against the asset monetization target of Rs 1.8 lakh crore?",
+    "option_a": "Rs 1.2 lakh crore",
+    "option_b": "Rs 1.56 lakh crore",
+    "option_c": "Rs 1.8 lakh crore",
+    "option_d": "Rs 2.3 lakh crore",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which two ministries emerged as top performers in asset monetization in 2023-24, contributing Rs 97,000 crore?",
+    "option_a": "Railways and Power",
+    "option_b": "Road Transport & Highways and Coal",
+    "option_c": "Telecom and Aviation",
+    "option_d": "Ports and Warehousing",
+    "correct_option": "B"
+  },
+  {
+    "question": "As per Budget 2025-26 highlights, what outlay was proposed for 50-year interest-free loans to states for capital expenditure?",
+    "option_a": "₹1 lakh crore",
+    "option_b": "₹1.5 lakh crore",
+    "option_c": "₹2 lakh crore",
+    "option_d": "₹2.5 lakh crore",
+    "correct_option": "B"
+  },
+  {
+    "question": "The Jal Jeevan Mission, as mentioned in the Budget 2025-26 highlights, is set to be extended until which year?",
+    "option_a": "2026",
+    "option_b": "2027",
+    "option_c": "2028",
+    "option_d": "2030",
+    "correct_option": "C"
+  },
+  {
+    "question": "India ranks 1st globally in cotton acreage, accounting for approximately what percentage of the world area under cotton?",
+    "option_a": "20%",
+    "option_b": "30%",
+    "option_c": "40%",
+    "option_d": "50%",
+    "correct_option": "C"
+  },
+   {
+    "question": "Which of the following states are listed as major Extra-long Staple (ELS) cotton producing states in India?",
+    "option_a": "Punjab, Haryana, Rajasthan",
+    "option_b": "Gujarat, Maharashtra, Madhya Pradesh",
+    "option_c": "Karnataka, Tamil Nadu, Madhya Pradesh",
+    "option_d": "Telangana, Andhra Pradesh, Karnataka",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the classification shown, what is the minimum length for cotton fibre to be classified as Extra-long staple (ELS) cotton?",
+    "option_a": ">29 mm",
+    "option_b": ">34 mm",
+    "option_c": "≥34.925 mm",
+    "option_d": ">28 mm",
+    "correct_option": "C"
+  },
+  {
+    "question": "The 'Mission for Cotton Productivity' announced in Budget 2025-26 is planned for how many years?",
+    "option_a": "3 years",
+    "option_b": "5 years",
+    "option_c": "7 years",
+    "option_d": "10 years",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which ministry is responsible for implementing the 'Mission for Cotton Productivity'?",
+    "option_a": "Ministry of Agriculture & Farmers Welfare",
+    "option_b": "Ministry of Commerce and Industry",
+    "option_c": "Ministry of Textiles",
+    "option_d": "Ministry of Rural Development",
+    "correct_option": "C"
+  },
+    {
+    "question": "The Union Cabinet approved setting up a new Brownfield Ammonia-Urea Complex at which location in Assam?",
+    "option_a": "Guwahati",
+    "option_b": "Dibrugarh",
+    "option_c": "Namrup",
+    "option_d": "Silchar",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the estimated project cost for the new Namrup IV Fertilizer Plant approved by the Cabinet?",
+    "option_a": "₹8,500 crore",
+    "option_b": "₹10,601.40 crore",
+    "option_c": "₹12,700 crore",
+    "option_d": "₹15,000 crore",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the planned annual production capacity of urea for the Namrup IV Fertilizer Plant?",
+    "option_a": "10.5 Lakh Metric Tonnes (LMT)",
+    "option_b": "12.7 Lakh Metric Tonnes (LMT)",
+    "option_c": "15.0 Lakh Metric Tonnes (LMT)",
+    "option_d": "18.2 Lakh Metric Tonnes (LMT)",
+    "correct_option": "B"
+  },
+   {
+    "question": "What is the tentative commissioning schedule (timeline) for the Namrup IV Fertilizer Plant project?",
+    "option_a": "24 months",
+    "option_b": "36 months",
+    "option_c": "48 months",
+    "option_d": "60 months",
+    "correct_option": "C"
+  },
+   {
+    "question": "In the proposed Joint Venture (JV) for the Namrup IV Fertilizer Plant, what is the equity percentage held by the Government of Assam?",
+    "option_a": "11%",
+    "option_b": "18%",
+    "option_c": "40%",
+    "option_d": "13%",
+    "correct_option": "C"
+  },
+  {
+    "question": "What combined equity percentage is held by National Fertilizers Limited (NFL) and Oil India Limited (OIL) in the Namrup IV Fertilizer Plant JV?",
+    "option_a": "24%",
+    "option_b": "29%",
+    "option_c": "36%",
+    "option_d": "40%",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Grameen Credit Score (GCS) framework, introduced in Union Budget 2025-26, will be integrated with which existing scheme to enhance rural credit access?",
+    "option_a": "PM SVANidhi Scheme",
+    "option_b": "PM Jan Dhan Yojana",
+    "option_c": "PM Ujjwala Yojana",
+    "option_d": "SVAMITVA Scheme",
+    "correct_option": "D"
+  },
+  {
+    "question": "The Grameen Credit Score (GCS) aims to offer customized credit cards with limits up to what amount for micro-enterprises?",
+    "option_a": "₹1 lakh",
+    "option_b": "₹2 lakh",
+    "option_c": "₹5 lakh",
+    "option_d": "₹10 lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the full form of SVAMITVA scheme?",
+    "option_a": "Survey of Villages and Mapping with Improvised Technology in Village Areas",
+    "option_b": "Swachh Village Mapping and Technology Valuation Area",
+    "option_c": "Survey of Village Assets and Mapping Integrated Technology for Village Advancement",
+    "option_d": "Sampatti Verification and Mapping Initiative for Tribal Village Areas",
+    "correct_option": "A"
+  },
+  {
+    "question": "When was the national roll-out of the SVAMITVA scheme launched?",
+    "option_a": "24th April 2020",
+    "option_b": "15th August 2020",
+    "option_c": "24th April 2021",
+    "option_d": "2nd October 2021",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which ministry leads the implementation of the SVAMITVA scheme in collaboration with state departments and Survey of India?",
+    "option_a": "Ministry of Rural Development",
+    "option_b": "Ministry of Housing and Urban Affairs",
+    "option_c": "Ministry of Agriculture & Farmers Welfare",
+    "option_d": "Ministry of Panchayati Raj",
+    "correct_option": "D"
+  },
+   {
+    "question": "What is the primary output provided to property owners under the SVAMITVA scheme?",
+    "option_a": "Loan approval letters",
+    "option_b": "'Record of Rights' (Property cards/Title deeds)",
+    "option_c": "Agricultural subsidy vouchers",
+    "option_d": "Digital identity cards",
+    "correct_option": "B"
+  },
+   {
+    "question": "In which month and year was the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme launched?",
+    "option_a": "February 2019",
+    "option_b": "April 2018",
+    "option_c": "December 2019",
+    "option_d": "June 2020",
+    "correct_option": "A"
+  },
+  {
+    "question": "What is the total annual financial benefit provided to eligible land-holding farmer families under the PM-KISAN scheme?",
+    "option_a": "₹5,000 in 2 installments",
+    "option_b": "₹6,000 in 3 installments",
+    "option_c": "₹7,500 in 3 installments",
+    "option_d": "₹10,000 in 4 installments",
+    "correct_option": "B"
+  },
+   {
+    "question": "PM-KISAN is what type of scheme regarding funding?",
+    "option_a": "Centrally Sponsored Scheme (CSS) with 60:40 sharing",
+    "option_b": "Central Sector Scheme (100% funded by GoI)",
+    "option_c": "State Sector Scheme",
+    "option_d": "Public Private Partnership (PPP) Model",
+    "correct_option": "B"
+  },
+  {
+    "question": "The 19th installment of PM-KISAN was released on February 24, 2025, from which location?",
+    "option_a": "Washim, Maharashtra",
+    "option_b": "Khunti, Jharkhand",
+    "option_c": "Panipat, Haryana",
+    "option_d": "Bhagalpur, Bihar",
+    "correct_option": "D"
+  },
+  {
+    "question": "Approximately how many crore farmers benefited from the 19th installment of PM-KISAN released in Feb 2025?",
+    "option_a": "8.5 crore",
+    "option_b": "9.4 crore",
+    "option_c": "Over 9.8 crore",
+    "option_d": "11.2 crore",
+    "correct_option": "C"
+  },
+   {
+    "question": "What is the name of the AI chatbot launched for the PM-KISAN scheme to provide instant query resolution?",
+    "option_a": "Kisan Sahayak",
+    "option_b": "PMKisan Bot",
+    "option_c": "Kisan eMitra",
+    "option_d": "Agri Assist",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which platform's integration allows for multilingual support on the PM-KISAN AI Chatbot?",
+    "option_a": "DigiLocker",
+    "option_b": "UMANG",
+    "option_c": "Bhashini",
+    "option_d": "MyGov",
+    "correct_option": "C"
+  },
+   {
+    "question": "Which bank is mentioned as helping farmers complete e-KYC for the PM-KISAN scheme?",
+    "option_a": "State Bank of India",
+    "option_b": "NABARD",
+    "option_c": "India Post Payment Bank",
+    "option_d": "Punjab National Bank",
+    "correct_option": "C"
+  },
+  {
+    "question": "When was the Prime Minister's Internship Scheme (PMIS) launched?",
+    "option_a": "August 15, 2024",
+    "option_b": "October 3, 2024",
+    "option_c": "November 1, 2024",
+    "option_d": "January 26, 2025",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the overall objective of the PMIS in terms of the number of internships to be provided over five years?",
+    "option_a": "50 lakh",
+    "option_b": "75 lakh",
+    "option_c": "1 crore",
+    "option_d": "2 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the age range for candidates to be eligible for the Prime Minister's Internship Scheme (PMIS)?",
+    "option_a": "18 to 21 years",
+    "option_b": "20 to 25 years",
+    "option_c": "21 to 24 years",
+    "option_d": "22 to 26 years",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which category of individuals is explicitly excluded from participating in the PMIS?",
+    "option_a": "Students pursuing graduation",
+    "option_b": "Individuals from rural areas",
+    "option_c": "Graduates from IITs, IIMs, or those with CA/CMA qualifications",
+    "option_d": "Individuals who have completed vocational training",
+    "correct_option": "C"
+  },
+   {
+    "question": "During Round II (Jan-Mar 2025) of the PMIS pilot phase, approximately how many internships were offered across 735 districts?",
+    "option_a": "82,000+",
+    "option_b": "1.18 lakh+",
+    "option_c": "1.27 lakh+",
+    "option_d": "1.50 lakh+",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the monthly stipend offered to selected interns under the PMIS?",
+    "option_a": "₹3,000",
+    "option_b": "₹5,000",
+    "option_c": "₹7,000",
+    "option_d": "₹10,000",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the primary purpose of the National Forensic Infrastructure Enhancement Scheme (NFIES)?",
+    "option_a": "To provide scholarships for forensic science students",
+    "option_b": "To enhance forensic infrastructure in India",
+    "option_c": "To set up a national crime database",
+    "option_d": "To train police officers in forensic techniques",
+    "correct_option": "B"
+  },
+   {
+    "question": "What is the total financial outlay approved for the NFIES for the period 2024-25 to 2028-29?",
+    "option_a": "₹1500.50 crore",
+    "option_b": "₹2254.43 crore",
+    "option_c": "₹3100.00 crore",
+    "option_d": "₹4000.75 crore",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which ministry is funding the National Forensic Infrastructure Enhancement Scheme (NFIES)?",
+    "option_a": "Ministry of Education",
+    "option_b": "Ministry of Science and Technology",
+    "option_c": "Ministry of Home Affairs",
+    "option_d": "Ministry of Law and Justice",
+    "correct_option": "C"
+  },
+    {
+    "question": "The National Forensic Sciences University (NFSU), a key component of NFIES, has its main campus located where?",
+    "option_a": "New Delhi",
+    "option_b": "Hyderabad",
+    "option_c": "Pune",
+    "option_d": "Gandhinagar, Gujarat",
+    "correct_option": "D"
+  },
+  {
+    "question": "In which year was the Gujarat Forensic Sciences University elevated to the status of a National University and renamed NFSU?",
+    "option_a": "2009",
+    "option_b": "2015",
+    "option_c": "2019",
+    "option_d": "2020",
+    "correct_option": "D"
+  },
+   {
+    "question": "What type of scheme is the Pradhan Mantri Kisan Maan Dhan Yojana (PMKMY)?",
+    "option_a": "Mandatory health insurance scheme",
+    "option_b": "Voluntary and contributory pension scheme",
+    "option_c": "Crop insurance scheme",
+    "option_d": "Direct income support scheme",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the target group for the PMKMY pension scheme?",
+    "option_a": "All farmers",
+    "option_b": "Agricultural labourers",
+    "option_c": "Small and marginal farmers",
+    "option_d": "Large landholding farmers",
+    "correct_option": "C"
+  },
+   {
+    "question": "What is the entry age range for farmers to enroll in the PMKMY?",
+    "option_a": "18 to 30 years",
+    "option_b": "21 to 45 years",
+    "option_c": "18 to 40 years",
+    "option_d": "25 to 50 years",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the minimum assured monthly pension amount provided under PMKMY after the beneficiary attains 60 years of age?",
+    "option_a": "₹1,000",
+    "option_b": "₹2,000",
+    "option_c": "₹3,000",
+    "option_d": "₹5,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which organization acts as the Pension Fund Manager for the PMKMY?",
+    "option_a": "NABARD",
+    "option_b": "Pension Fund Regulatory and Development Authority (PFRDA)",
+    "option_c": "State Bank of India (SBI)",
+    "option_d": "Life Insurance Corporation (LIC) of India",
+    "correct_option": "D"
+  },
+  {
+    "question": "The Pradhan Mantri Dhan-Dhaanya Krishi Yojana (PMDKY), launched under Union Budget 2025-26, aims to benefit farmers in how many districts characterized by specific agricultural parameters?",
+    "option_a": "50 districts",
+    "option_b": "100 districts",
+    "option_c": "150 districts",
+    "option_d": "200 districts",
+    "correct_option": "B"
+  },
+  {
+    "question": "The PMDKY programme is expected to benefit approximately how many crore farmers across the selected districts?",
+    "option_a": "1.0 crore",
+    "option_b": "1.7 crore",
+    "option_c": "2.5 crore",
+    "option_d": "3.0 crore",
+    "correct_option": "B"
+  },
+   {
+    "question": "The 'Aatmanirbharta in Pulses' mission under PMDKY is a new mission planned for how many years?",
+    "option_a": "3 years",
+    "option_b": "4 years",
+    "option_c": "5 years",
+    "option_d": "6 years",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which specific pulse crops are the focus of the 'Aatmanirbharta in Pulses' mission under PMDKY?",
+    "option_a": "Chana, Moong, Arhar",
+    "option_b": "Tur, Urad, Masoor",
+    "option_c": "Moong, Masoor, Chana",
+    "option_d": "Urad, Chana, Tur",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which agencies are mentioned to buy pulses from farmers under guaranteed agreements for the next four years as part of the PMDKY measure?",
+    "option_a": "FCI and CWC",
+    "option_b": "NAFED and NCCF",
+    "option_c": "NABARD and SIDBI",
+    "option_d": "APEDA and MPEDA",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to Budget 2025-26 highlights, a Makhana Board is proposed to be established in which state?",
+    "option_a": "Uttar Pradesh",
+    "option_b": "West Bengal",
+    "option_c": "Bihar",
+    "option_d": "Odisha",
+    "correct_option": "C"
+  },
+  {
+    "question": "The National Mission on High Yielding Seeds announced in Budget 2025-26 aims to ensure commercial availability of more than how many seed varieties?",
+    "option_a": "50",
+    "option_b": "75",
+    "option_c": "100",
+    "option_d": "150",
+    "correct_option": "C"
+  },
+  {
+    "question": "Budget 2025-26 announced a framework for sustainable harnessing of fisheries with a special focus on which island groups?",
+    "option_a": "Andaman & Nicobar and Lakshadweep Islands",
+    "option_b": "Lakshadweep and Maldives",
+    "option_c": "Andaman & Nicobar and Sri Lanka",
+    "option_d": "Majuli and Elephanta Islands",
+    "correct_option": "A"
+  },
+   {
+    "question": "In Budget 2025-26, the loan limit under the Modified Interest Subvention Scheme for loans taken through the Kisan Credit Card (KCC) was enhanced from ₹3 lakh to what amount?",
+    "option_a": "₹4 lakh",
+    "option_b": "₹5 lakh",
+    "option_c": "₹6 lakh",
+    "option_d": "₹7 lakh",
+    "correct_option": "B"
+  },
+   {
+    "question": "Which of the following is NOT explicitly listed as one of the 6 pillars of Pradhan Mantri Jan Dhan Yojana (PMJDY)?",
+    "option_a": "Universal Access to Banking Services",
+    "option_b": "Overdraft Facility",
+    "option_c": "Micro-Insurance",
+    "option_d": "Skill Development Program",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the enhanced accident insurance cover available with the RuPay card issued to new PMJDY accounts opened after August 28, 2018?",
+    "option_a": "₹50,000",
+    "option_b": "₹1 lakh",
+    "option_c": "₹1.5 lakh",
+    "option_d": "₹2 lakh",
+    "correct_option": "D"
+  },
+  {
+    "question": "What is the maximum overdraft (OD) facility available to eligible PMJDY account holders?",
+    "option_a": "₹5,000",
+    "option_b": "₹10,000",
+    "option_c": "₹15,000",
+    "option_d": "₹20,000",
+    "correct_option": "B"
+  },
+    {
+    "question": "As per the data presented (dated 19/03/2025), approximately how many crore RuPay Debit Cards were issued to PMJDY beneficiaries?",
+    "option_a": "25.55 crore",
+    "option_b": "30.71 crore",
+    "option_c": "37.77 crore",
+    "option_d": "55.14 crore",
+    "correct_option": "C"
+  },
+    {
+    "question": "The Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM) scheme provides old age protection to unorganised workers with a monthly income of?",
+    "option_a": "₹10,000 or less",
+    "option_b": "₹15,000 or less",
+    "option_c": "₹20,000 or less",
+    "option_d": "₹25,000 or less",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the entry age group for eligibility under the PM-SYM scheme?",
+    "option_a": "18-50 years",
+    "option_b": "21-45 years",
+    "option_c": "18-40 years",
+    "option_d": "25-55 years",
+    "correct_option": "C"
+  },
+   {
+    "question": "What is the minimum assured pension per month provided under PM-SYM after attaining the age of 60?",
+    "option_a": "₹1,500",
+    "option_b": "₹2,500",
+    "option_c": "₹3,000",
+    "option_d": "₹4,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under PM-SYM, if the subscriber dies during the receipt of pension, what percentage of the pension is the spouse entitled to receive as family pension?",
+    "option_a": "25%",
+    "option_b": "50%",
+    "option_c": "75%",
+    "option_d": "100%",
+    "correct_option": "B"
+  },
+   {
+    "question": "According to the PM-SYM contribution chart, what is the total monthly contribution (subscriber + government) for a person joining at age 30?",
+    "option_a": "₹180",
+    "option_b": "₹200",
+    "option_c": "₹220",
+    "option_d": "₹260",
+    "correct_option": "B"
+  },
+   {
+    "question": "What does PM-JANMAN stand for?",
+    "option_a": "Pradhan Mantri Jan Arogya Nyaya Maha Abhiyaan",
+    "option_b": "Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan",
+    "option_c": "Pradhan Mantri Janjati Awas Nagar Maha Abhiyan",
+    "option_d": "Pradhan Mantri Jan Dhan Nyaya Maha Abhiyan",
+    "correct_option": "B"
+  },
+   {
+    "question": "PM-JANMAN was launched in 2023 on the occasion of Janjatiya Gaurav Diwas from which district in Jharkhand?",
+    "option_a": "Ranchi",
+    "option_b": "Jamshedpur",
+    "option_c": "Khunti",
+    "option_d": "Dumka",
+    "correct_option": "C"
+  },
+  {
+    "question": "PM-JANMAN specifically targets the socio-economic upliftment of which groups?",
+    "option_a": "Scheduled Castes (SCs)",
+    "option_b": "Other Backward Classes (OBCs)",
+    "option_c": "Particularly Vulnerable Tribal Groups (PVTGs)",
+    "option_d": "All Tribal Communities",
+    "correct_option": "C"
+  },
+   {
+    "question": "How many PVTG communities are targeted beneficiaries under the PM-JANMAN scheme?",
+    "option_a": "50",
+    "option_b": "75",
+    "option_c": "100",
+    "option_d": "125",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the total budgetary outlay allocated for the PM-JANMAN scheme covering the period 2023-24 to 2025-26?",
+    "option_a": "₹15,000 crore",
+    "option_b": "₹20,500 crore",
+    "option_c": "₹24,104 crore",
+    "option_d": "₹30,000 crore",
+    "correct_option": "C"
+  },
+   {
+    "question": "The Dharti Aaba Janjatiya Gram Utkarsh Abhiyan, launched on October 2, 2024, aims for comprehensive development covering approximately how many villages?",
+    "option_a": "45,000",
+    "option_b": "55,000",
+    "option_c": "63,000",
+    "option_d": "70,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "In September 2024, the Union Cabinet approved the Dharti Aaba Janjatiya Gram Utkarsh Abhiyan under what formal name?",
+    "option_a": "Pradhan Mantri Adivasi Vikas Yojana (PMAVY)",
+    "option_b": "Pradhan Mantri Janjatiya Samriddhi Karyakram (PMJSK)",
+    "option_c": "Pradhan Mantri Janjatiya Unnat Gram Abhiyan (PMJUGA)",
+    "option_d": "Pradhan Mantri Vanvasi Kalyan Path (PMVKP)",
+    "correct_option": "C"
+  },
+   {
+    "question": "The Unified Pension Scheme (UPS), approved by the Union Cabinet on August 24, 2024, is scheduled to come into effect from which date?",
+    "option_a": "January 1, 2025",
+    "option_b": "April 1, 2025",
+    "option_c": "July 1, 2025",
+    "option_d": "October 1, 2025",
+    "correct_option": "B"
+  },
+  {
+    "question": "The committee, which recommended the Unified Pension Scheme (UPS) in April 2023, was led by?",
+    "option_a": "Ajay Bhushan Pandey",
+    "option_b": "Hasmukh Adhia",
+    "option_c": "Rajiv Mehrishi",
+    "option_d": "T V Somanathan",
+    "correct_option": "D"
+  },
+  {
+    "question": "Under the UPS, what percentage of the average basic pay drawn in the last 12 months before retirement is assured as pension (for full service)?",
+    "option_a": "40%",
+    "option_b": "50%",
+    "option_c": "60%",
+    "option_d": "70%",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the assured minimum monthly pension under UPS for employees retiring after at least 10 years of service?",
+    "option_a": "₹5,000",
+    "option_b": "₹7,500",
+    "option_c": "₹10,000",
+    "option_d": "₹12,000",
+    "correct_option": "C"
+  },
+   {
+    "question": "The inflation indexation and Dearness Relief for pensions under UPS are linked to which index?",
+    "option_a": "Consumer Price Index for Rural Labourers (CPI-RL)",
+    "option_b": "Wholesale Price Index (WPI)",
+    "option_c": "All India Consumer Price Index for Industrial Workers (AICPI-IW)",
+    "option_d": "Consumer Price Index (Combined)",
+    "correct_option": "C"
+  },
+  {
+    "question": "What percentage of the employee's pension is payable to the family as Assured Family Pension under UPS after the employee's demise?",
+    "option_a": "50%",
+    "option_b": "60%",
+    "option_c": "75%",
+    "option_d": "100%",
+    "correct_option": "B"
+  },
+  {
+    "question": "The Pradhan Mantri MUDRA Yojana (PMMY) was launched on which date?",
+    "option_a": "April 8, 2015",
+    "option_b": "July 1, 2016",
+    "option_c": "October 2, 2014",
+    "option_d": "January 26, 2017",
+    "correct_option": "A"
+  },
+   {
+    "question": "What are the loan categories under the PMMY, covering loans up to ₹10 lakh initially?",
+    "option_a": "Balak, Yuva, Praudh",
+    "option_b": "Shishu, Kishore, Tarun",
+    "option_c": "Laghu, Madhya, Vridh",
+    "option_d": "Arambh, Vikas, Lakshya",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the loan amount range covered under the 'Kishore' category of MUDRA loans?",
+    "option_a": "Up to ₹50,000",
+    "option_b": "Above ₹50,000 and up to ₹5 Lakhs",
+    "option_c": "Above ₹5 Lakhs and up to ₹10 Lakhs",
+    "option_d": "Above ₹10 Lakhs and up to ₹20 Lakhs",
+    "correct_option": "B"
+  },
+  {
+    "question": "During the Union Budget 2024-25, the finance minister announced an increase in the PMMY loan limit to what amount?",
+    "option_a": "₹12 lakh",
+    "option_b": "₹15 lakh",
+    "option_c": "₹20 lakh",
+    "option_d": "₹25 lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "The new enhanced loan limit under PMMY took effect from which date?",
+    "option_a": "July 23, 2024",
+    "option_b": "August 15, 2024",
+    "option_c": "October 24, 2024",
+    "option_d": "January 1, 2025",
+    "correct_option": "C"
+  },
+   {
+    "question": "What is the name of the mobile application associated with the MUDRA Yojana?",
+    "option_a": "MUDRA Connect",
+    "option_b": "PMMY Assist",
+    "option_c": "MUDRA Mitra",
+    "option_d": "Udyami Saathi",
+    "correct_option": "C"
+  },
+  {
+    "question": "As per Budget 2025-26, the investment and turnover limits for the classification of MSMEs are proposed to be enhanced by how many times, respectively?",
+    "option_a": "2 and 1.5 times",
+    "option_b": "2.5 and 2 times",
+    "option_c": "3 and 2.5 times",
+    "option_d": "2 and 2 times",
+    "correct_option": "B"
+  },
+   {
+    "question": "What is the revised turnover limit for an enterprise to be classified as 'Small' under the proposed MSME classification in Budget 2025-26?",
+    "option_a": "₹10 crore",
+    "option_b": "₹50 crore",
+    "option_c": "₹100 crore",
+    "option_d": "₹250 crore",
+    "correct_option": "C"
+  },
+   {
+    "question": "What is the revised investment limit for an enterprise to be classified as 'Medium' under the proposed MSME classification in Budget 2025-26?",
+    "option_a": "₹50 crore",
+    "option_b": "₹100 crore",
+    "option_c": "₹125 crore",
+    "option_d": "₹250 crore",
+    "correct_option": "C"
+  },
+   {
+    "question": "Budget 2025-26 announced Customized Credit Cards with a ₹5 lakh limit for micro enterprises registered on which portal?",
+    "option_a": "GeM Portal",
+    "option_b": "Udyam Portal",
+    "option_c": "MSME Samadhaan Portal",
+    "option_d": "Champions Portal",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the fresh contribution announced in Budget 2025-26 for the expanded Fund of Funds for Startups?",
+    "option_a": "₹5,000 crore",
+    "option_b": "₹7,500 crore",
+    "option_c": "₹10,000 crore",
+    "option_d": "₹15,000 crore",
+    "correct_option": "C"
+  },
+   {
+    "question": "A new scheme announced in Budget 2025-26 for first-time women, SC, and ST entrepreneurs aims to provide term loans up to what amount over the next 5 years?",
+    "option_a": "₹50 lakh",
+    "option_b": "₹1 crore",
+    "option_c": "₹2 crore",
+    "option_d": "₹5 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Focus Product Scheme for Footwear & Leather Sector announced in Budget 2025-26 aims to facilitate employment for how many persons?",
+    "option_a": "10 lakh persons",
+    "option_b": "15 lakh persons",
+    "option_c": "22 lakh persons",
+    "option_d": "30 lakh persons",
+    "correct_option": "C"
+  },
+   {
+    "question": "Budget 2025-26 announced the establishment of a National Institute of Food Technology, Entrepreneurship and Management in which state?",
+    "option_a": "Punjab",
+    "option_b": "Haryana",
+    "option_c": "Uttar Pradesh",
+    "option_d": "Bihar",
+    "correct_option": "D"
+  },
+  {
+    "question": "The credit guarantee cover for Startups was enhanced in Budget 2025-26 from ₹10 crore to what amount?",
+    "option_a": "₹15 crore",
+    "option_b": "₹20 crore",
+    "option_c": "₹25 crore",
+    "option_d": "₹30 crore",
+    "correct_option": "B"
+  },
+   {
+    "question": "The NPS Vatsalya Yojana, nationally launched on September 18, 2024, is a pension scheme specifically targeting which group?",
+    "option_a": "Senior Citizens",
+    "option_b": "Women Entrepreneurs",
+    "option_c": "Minors (below 18 years)",
+    "option_d": "Unorganised Workers",
+    "correct_option": "C"
+  },
+   {
+    "question": "What is the minimum annual contribution required under the NPS Vatsalya scheme?",
+    "option_a": "₹500",
+    "option_b": "₹1,000",
+    "option_c": "₹1,500",
+    "option_d": "No minimum limit",
+    "correct_option": "B"
+  },
+  {
+    "question": "At what age is the NPS Vatsalya account seamlessly converted into a regular NPS account?",
+    "option_a": "16 years",
+    "option_b": "18 years",
+    "option_c": "21 years",
+    "option_d": "25 years",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the maximum percentage of the corpus that can be partially withdrawn from an NPS Vatsalya account after three years, for specific purposes?",
+    "option_a": "10%",
+    "option_b": "20%",
+    "option_c": "25%",
+    "option_d": "50%",
+    "correct_option": "C"
+  },
+    {
+    "question": "If the corpus in an NPS Vatsalya account upon the minor reaching 18 years is more than ₹2.5 lakh, what percentage must be used for purchasing an annuity under NPS?",
+    "option_a": "50%",
+    "option_b": "60%",
+    "option_c": "75%",
+    "option_d": "80%",
+    "correct_option": "D"
+  },
+  {
+    "question": "Is the NPS Vatsalya Yojana applicable for NRI & OCI Subscribers?",
+    "option_a": "Yes",
+    "option_b": "No",
+    "option_c": "Only for NRIs, not OCIs",
+    "option_d": "Only for OCIs, not NRIs",
+    "correct_option": "A"
+  },
+    {
+    "question": "The Union Cabinet approved the expansion of Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY) to include which group?",
+    "option_a": "All citizens below the poverty line",
+    "option_b": "All senior citizens aged 60 years and above",
+    "option_c": "All senior citizens aged 70 years and above, irrespective of income",
+    "option_d": "All citizens with chronic illnesses",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the name of the new, distinct card that will be issued to eligible senior citizens (70+) under the expanded AB PM-JAY scheme?",
+    "option_a": "Senior Health Card",
+    "option_b": "PM-JAY Gold Card",
+    "option_c": "Ayushman Vaya Vandana Card",
+    "option_d": "National Senior Citizen Card",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the health insurance coverage amount provided per year on a family basis to newly eligible senior citizens (70+) under the expanded AB PM-JAY?",
+    "option_a": "₹3 lakh",
+    "option_b": "₹5 lakh",
+    "option_c": "₹7 lakh",
+    "option_d": "₹10 lakh",
+    "correct_option": "B"
+  },
+  {
+    "question": "For senior citizens (70+) whose families are already covered under AB PM-JAY, the expanded scheme provides an additional top-up of what amount per year for themselves?",
+    "option_a": "₹2 lakh",
+    "option_b": "₹3 lakh",
+    "option_c": "₹5 lakh",
+    "option_d": "No additional top-up",
+    "correct_option": "C"
+  },
+  {
+    "question": "Are senior citizens (70+) availing benefits from schemes like CGHS or ECHS eligible to opt for AB PM-JAY under the new expansion?",
+    "option_a": "No, they must choose one.",
+    "option_b": "Yes, they can either continue with their existing scheme or opt for AB PM-JAY.",
+    "option_c": "Yes, but only if their income is below a certain threshold.",
+    "option_d": "No, eligibility is mutually exclusive.",
+    "correct_option": "B"
+  },
+   {
+    "question": "What is the standard funding pattern shared between the Centre and States/UTs with their own legislature for the AB PM-JAY scheme?",
+    "option_a": "50:50",
+    "option_b": "75:25",
+    "option_c": "60:40",
+    "option_d": "90:10",
+    "correct_option": "C"
+  },
+   {
+    "question": "What is the funding pattern for AB PM-JAY in Northeast states and the Himalayan states of Himachal Pradesh and Uttarakhand?",
+    "option_a": "60:40",
+    "option_b": "70:30",
+    "option_c": "80:20",
+    "option_d": "90:10",
+    "correct_option": "D"
+  },
+  {
+    "question": "Which body acts as the autonomous nodal agency at the national level for the effective implementation of AB PM-JAY?",
+    "option_a": "Ministry of Health and Family Welfare",
+    "option_b": "National Health Authority (NHA)",
+    "option_c": "Insurance Regulatory and Development Authority (IRDAI)",
+    "option_d": "NITI Aayog",
+    "correct_option": "B"
+  },
+  {
+    "question": "As of the data presented (before 70+ expansion), AB PM-JAY was implemented in how many States and Union Territories (excluding West Bengal)?",
+    "option_a": "28",
+    "option_b": "32",
+    "option_c": "35",
+    "option_d": "36",
+    "correct_option": "C"
+  },
+   {
+    "question": "What is the total funding approved by the Union Cabinet for the Electronics Component Manufacturing Scheme?",
+    "option_a": "₹15,500 crore",
+    "option_b": "₹19,800 crore",
+    "option_c": "₹22,919 crore",
+    "option_d": "₹25,000 crore",
+    "correct_option": "C"
+  },
+   {
+    "question": "The Electronics Component Manufacturing Scheme aims to attract investment and increase Domestic Value Addition (DVA) to make India 'Atmanirbhar' in which sector?",
+    "option_a": "Automobile Supply Chain",
+    "option_b": "Pharmaceutical Supply Chain",
+    "option_c": "Textile Supply Chain",
+    "option_d": "Electronics Supply Chain",
+    "correct_option": "D"
+  },
+  {
+    "question": "The Electronics Component Manufacturing Scheme envisages attracting investment worth approximately?",
+    "option_a": "₹40,000 crore",
+    "option_b": "₹59,350 crore",
+    "option_c": "₹75,000 crore",
+    "option_d": "₹1,00,000 crore",
+    "correct_option": "B"
+  },
+   {
+    "question": "The Electronics Component Manufacturing Scheme is expected to result in production worth approximately?",
+    "option_a": "₹2,50,000 crore",
+    "option_b": "₹3,75,000 crore",
+    "option_c": "₹4,56,500 crore",
+    "option_d": "₹5,00,000 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Electronics Component Manufacturing Scheme aims to generate additional direct employment for approximately how many persons?",
+    "option_a": "50,000",
+    "option_b": "75,500",
+    "option_c": "91,600",
+    "option_d": "1,10,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Production Linked Incentive (PLI) Scheme, which complements the Electronics Component Manufacturing Scheme, covers how many key sectors as shown in the slide?",
+    "option_a": "10",
+    "option_b": "12",
+    "option_c": "14",
+    "option_d": "16",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the primary objective of the PM Vidyalaxmi Scheme?",
+    "option_a": "To provide scholarships for school education",
+    "option_b": "To provide financial support (loans) for higher education",
+    "option_c": "To fund vocational training programs",
+    "option_d": "To offer grants for research projects",
+    "correct_option": "B"
+  },
+    {
+    "question": "Under PM Vidyalaxmi, students admitted to Quality Higher Education Institutions (QHEIs) are eligible for what type of loans from banks?",
+    "option_a": "Loans with mandatory collateral and guarantor",
+    "option_b": "Collateral-free and guarantor-free loans",
+    "option_c": "Loans with government guarantee only",
+    "option_d": "Interest-free loans",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which institutions are generally considered eligible QHEIs under the PM Vidyalaxmi Scheme based on NIRF rankings?",
+    "option_a": "Only Top 50 ranked institutions",
+    "option_b": "Top 100 Govt/Pvt HEIs, 101-200 State Govt HEIs, & All Central Govt HEIs",
+    "option_c": "Only Government institutions",
+    "option_d": "All institutions offering technical education",
+    "correct_option": "B"
+  },
+    {
+    "question": "What percentage of credit guarantee is provided for loan defaults up to Rs 7.5 lakh under the PM Vidyalaxmi Scheme?",
+    "option_a": "50%",
+    "option_b": "75%",
+    "option_c": "90%",
+    "option_d": "100%",
+    "correct_option": "B"
+  },
+  {
+    "question": "A 3% interest subsidy is available on loans up to Rs 10 lakh during the moratorium period for students under PM Vidyalaxmi, provided their annual family income is up to?",
+    "option_a": "Rs 4 lakh",
+    "option_b": "Rs 6 lakh",
+    "option_c": "Rs 8 lakh",
+    "option_d": "Rs 10 lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "Through which portal can students apply for education loans and interest subsidies under the PM Vidyalaxmi Scheme?",
+    "option_a": "National Scholarship Portal",
+    "option_b": "Vidya Saarthi Portal",
+    "option_c": "PM-Vidyalaxmi Portal",
+    "option_d": "Udyam Portal",
+    "correct_option": "C"
+  },
+   {
+    "question": "How is the interest subsidy under the PM Vidyalaxmi Scheme disbursed?",
+    "option_a": "Direct bank transfer",
+    "option_b": "Cheque payment",
+    "option_c": "Via E-vouchers and Central Bank Digital Currency (CBDC) wallets",
+    "option_d": "Adjustment against tuition fees",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the total budget allocated for the PM Vidyalaxmi Scheme for the period 2024-25 to 2030-31?",
+    "option_a": "₹2,500 crore",
+    "option_b": "₹3,600 crore",
+    "option_c": "₹4,800 crore",
+    "option_d": "₹5,000 crore",
+    "correct_option": "B"
+  },
+   {
+    "question": "PM Surya Ghar: Muft Bijli Yojana aims to provide free electricity to how many households through rooftop solar installations?",
+    "option_a": "50 lakh households",
+    "option_b": "1 crore households",
+    "option_c": "2 crore households",
+    "option_d": "5 crore households",
+    "correct_option": "B"
+  },
+  {
+    "question": "Households under the PM Surya Ghar scheme can receive up to how many units of free electricity per month?",
+    "option_a": "100 units",
+    "option_b": "200 units",
+    "option_c": "300 units",
+    "option_d": "500 units",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the subsidy amount provided per kW for residential rooftop solar systems up to 2 kW under the PM Surya Ghar scheme?",
+    "option_a": "₹15,000/kW",
+    "option_b": "₹18,000/kW",
+    "option_c": "₹25,000/kW",
+    "option_d": "₹30,000/kW",
+    "correct_option": "D"
+  },
+  {
+    "question": "For residential systems between 2 kW and 3 kW under PM Surya Ghar, what is the subsidy amount for the additional capacity beyond 2 kW?",
+    "option_a": "₹15,000/kW",
+    "option_b": "₹18,000/kW",
+    "option_c": "₹22,000/kW",
+    "option_d": "₹30,000/kW",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the maximum total subsidy capped at for residential rooftop solar systems larger than 3 kW under the PM Surya Ghar scheme?",
+    "option_a": "₹60,000",
+    "option_b": "₹78,000",
+    "option_c": "₹90,000",
+    "option_d": "₹1,00,000",
+    "correct_option": "B"
+  },
+  {
+    "question": "The PM Surya Ghar scheme aims to add 30 GW of solar capacity and reduce CO2 emissions by how many million tonnes?",
+    "option_a": "500 million tonnes",
+    "option_b": "650 million tonnes",
+    "option_c": "720 million tonnes",
+    "option_d": "800 million tonnes",
+    "correct_option": "C"
+  },
+   {
+    "question": "As per the achievements reported up to March 10, 2025, how many rooftop solar installations were completed under PM Surya Ghar?",
+    "option_a": "5 lakh",
+    "option_b": "7.5 lakh",
+    "option_c": "10 lakh",
+    "option_d": "12 lakh",
+    "correct_option": "C"
+  },
+  {
+    "question": "Under the 'Model Solar Village Initiative' of the PM Surya Ghar scheme, what is the grant allocated per district for the top-performing village?",
+    "option_a": "₹50 lakh",
+    "option_b": "₹75 lakh",
+    "option_c": "₹1 crore",
+    "option_d": "₹2 crore",
+    "correct_option": "C"
+  },
+   {
+    "question": "What does PM-KUSUM stand for?",
+    "option_a": "Pradhan Mantri Krishi Utpadan Samriddhi Yojana Maan",
+    "option_b": "Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyaan",
+    "option_c": "Pradhan Mantri Krishi Unnati Sinchai Urja Mission",
+    "option_d": "Pradhan Mantri Kisan Utility and Solar Mahashakti",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the overall target for solar capacity addition under all three components of the PM-KUSUM scheme by March 2026?",
+    "option_a": "25,500 MW",
+    "option_b": "30,000 MW",
+    "option_c": "34,800 MW",
+    "option_d": "40,200 MW",
+    "correct_option": "C"
+  },
+   {
+    "question": "Component A of the PM-KUSUM scheme involves setting up Decentralized Ground/ Stilt Mounted Grid Connected Solar power plants with a target capacity of?",
+    "option_a": "5,000 MW",
+    "option_b": "10,000 MW",
+    "option_c": "15,000 MW",
+    "option_d": "20,000 MW",
+    "correct_option": "B"
+  },
+  {
+    "question": "Component B of the PM-KUSUM scheme targets the installation of how many Lakh Stand-alone Solar Agriculture Pumps?",
+    "option_a": "10 Lakh",
+    "option_b": "14 Lakh",
+    "option_c": "20 Lakh",
+    "option_d": "25 Lakh",
+    "correct_option": "B"
+  },
+   {
+    "question": "Component C of the PM-KUSUM scheme focuses on the Solarisation of how many Lakh Grid Connected Agriculture Pumps?",
+    "option_a": "20 Lakh",
+    "option_b": "25 Lakh",
+    "option_c": "30 Lakh",
+    "option_d": "35 Lakh",
+    "correct_option": "D"
+  },
+  {
+    "question": "Until which date is the PM-KUSUM scheme available, as mentioned in the slide?",
+    "option_a": "31.03.2025",
+    "option_b": "31.12.2025",
+    "option_c": "31.03.2026",
+    "option_d": "31.12.2026",
+    "correct_option": "C"
+  },
+   {
+    "question": "PM Modi launched the LIC's Bima Sakhi Yojana during an event held in which city and state?",
+    "option_a": "Gurugram, Haryana",
+    "option_b": "Panipat, Haryana",
+    "option_c": "Jaipur, Rajasthan",
+    "option_d": "Lucknow, Uttar Pradesh",
+    "correct_option": "B"
+  },
+   {
+    "question": "LIC launched a stipendiary scheme to encourage women to become Career Agents (MCAs). What is the target number of women to be engaged in the first year?",
+    "option_a": "50,000",
+    "option_b": "75,000",
+    "option_c": "100,000",
+    "option_d": "150,000",
+    "correct_option": "C"
+  },
+   {
+    "question": "What is the target number of women MCAs LIC aims to reach within three years under its stipendiary scheme?",
+    "option_a": "150,000",
+    "option_b": "200,000",
+    "option_c": "250,000",
+    "option_d": "300,000",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the eligible age limit for women to participate in LIC's Stipendiary Scheme for Career Agents?",
+    "option_a": "21 to 60",
+    "option_b": "18 to 65",
+    "option_c": "25 to 70",
+    "option_d": "18 to 70",
+    "correct_option": "D"
+  },
+   {
+    "question": "What is the minimum educational qualification required for women applying to LIC's Stipendiary Scheme for Career Agents?",
+    "option_a": "8th Pass",
+    "option_b": "Min 10th Pass",
+    "option_c": "12th Pass",
+    "option_d": "Graduate",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the monthly stipend offered to women career agents in the first year of LIC's stipendiary scheme?",
+    "option_a": "₹5,000",
+    "option_b": "₹6,000",
+    "option_c": "₹7,000",
+    "option_d": "₹8,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the monthly stipend offered in the second year of LIC's stipendiary scheme for women agents, subject to performance?",
+    "option_a": "₹5,000",
+    "option_b": "₹6,000",
+    "option_c": "₹7,000",
+    "option_d": "₹7,500",
+    "correct_option": "B"
+  },
+   {
+    "question": "How many insurance policies is each MCA expected to sell annually under LIC's stipendiary scheme?",
+    "option_a": "12",
+    "option_b": "18",
+    "option_c": "24",
+    "option_d": "30",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the estimated cost to LIC for the stipendiary scheme for women career agents in the first year?",
+    "option_a": "₹500 crore",
+    "option_b": "₹725 crore",
+    "option_c": "₹845 crore",
+    "option_d": "₹1000 crore",
+    "correct_option": "C"
+  }
+]

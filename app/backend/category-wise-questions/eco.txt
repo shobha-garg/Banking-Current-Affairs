@@ -1,0 +1,906 @@
+﻿[
+    {
+        "question": "In the consumption function C = 100 + 0.8Y, what do '100' and '0.8' represent respectively?",
+        "option_a": "Marginal Propensity to Consume (MPC) and Autonomous Consumption (A)",
+        "option_b": "Autonomous Consumption (A) and Marginal Propensity to Save (MPS)",
+        "option_c": "Autonomous Consumption (A) and Marginal Propensity to Consume (MPC)",
+        "option_d": "Marginal Propensity to Save (MPS) and Autonomous Consumption (A)",
+        "correct_option": "C"
+    },
+    {
+        "question": "According to the Marshall-Lerner condition, when does devaluation of a currency improve a country's Balance of Payments?",
+        "option_a": "When the sum of the elasticity of demand for exports and imports is less than unity",
+        "option_b": "When the sum of the elasticity of demand for exports and imports is equal to unity",
+        "option_c": "When the sum of the elasticity of demand for exports and imports is zero",
+        "option_d": "When the sum of the elasticity of demand for exports and imports is greater than unity",
+        "correct_option": "D"
+    },
+    {
+        "question": "What characterizes the 'liquidity trap' in Keynesian economics?",
+        "option_a": "Speculative demand for money is infinitely inelastic, and the liquidity preference curve is perfectly elastic",
+        "option_b": "Speculative demand for money is infinitely elastic, and the liquidity preference curve is perfectly inelastic",
+        "option_c": "Speculative demand for money is infinitely inelastic, and the liquidity preference curve is perfectly inelastic",
+        "option_d": "Speculative demand for money is infinitely elastic, and the liquidity preference curve becomes perfectly elastic",
+        "correct_option": "D"
+    },
+    {
+        "question": "What is the term for the portion of agricultural produce that farmers sell in the market?",
+        "option_a": "Produced Surplus",
+        "option_b": "Marketed Surplus",
+        "option_c": "Produced Deficit",
+        "option_d": "Marketed Deficit",
+        "correct_option": "B"
+    },
+    {
+        "question": "Compared to monopolistic competition, how is the demand curve in a pure monopoly typically characterized?",
+        "option_a": "Perfectly elastic",
+        "option_b": "More elastic",
+        "option_c": "Infinitely elastic",
+        "option_d": "Less elastic",
+        "correct_option": "D"
+    },
+    {
+        "question": "If there is a sudden fall in the demand for a good, what is the expected immediate impact on its equilibrium price, assuming supply remains constant?",
+        "option_a": "Rise",
+        "option_b": "First rise, and then fall sharply",
+        "option_c": "Fall",
+        "option_d": "Neither fall nor rise",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which type of exchange rate is determined solely by the market forces of demand and supply without government intervention?",
+        "option_a": "Fixed exchange rate",
+        "option_b": "Floating exchange rate",
+        "option_c": "Soft pegged exchange rate",
+        "option_d": "Hard pegged exchange rate",
+        "correct_option": "B"
+    },
+    {
+        "question": "What conditions define market equilibrium?",
+        "option_a": "Market demand > Market supply and no excess supply",
+        "option_b": "Market demand = Market supply and existence of excess supply",
+        "option_c": "Market demand < Market supply and no excess supply",
+        "option_d": "Market demand = Market supply and no excess supply/demand",
+        "correct_option": "D"
+    },
+    {
+        "question": "How are competitive behaviour and competitive market structure generally related?",
+        "option_a": "Inversely related",
+        "option_b": "Not related",
+        "option_c": "Directly related",
+        "option_d": "Proportionately related",
+        "correct_option": "C"
+    },
+    {
+        "question": "If the Marginal Propensity to Consume (MPC) is 0.8, what is the value of the Government expenditure multiplier?",
+        "option_a": "0.2",
+        "option_b": "8",
+        "option_c": "1.25",
+        "option_d": "5",
+        "correct_option": "D"
+    },
+    {
+        "question": "If the Marginal Propensity to Consume (MPC) for an economy is 0.6, what is the value of the Marginal Propensity to Save (MPS)?",
+        "option_a": "0.4",
+        "option_b": "1.6",
+        "option_c": "-0.4",
+        "option_d": "0.6",
+        "correct_option": "A"
+    },
+     {
+        "question": "Which factor does NOT directly influence the quantity demanded for a specific good?",
+        "option_a": "Good's own price",
+        "option_b": "Price of a complementary good",
+        "option_c": "Prices of inputs used in the production of the good",
+        "option_d": "Price of a substitute good",
+        "correct_option": "C"
+    },
+    {
+        "question": "Under ceteris paribus conditions, the market supply for a good typically increases if:",
+        "option_a": "Its price decreases",
+        "option_b": "Price of its factors of production increases",
+        "option_c": "Price of other goods decreases",
+        "option_d": "Technology becomes outdated",
+        "correct_option": "C"
+    },
+    {
+        "question": "Given a normal downward-sloping demand curve and a fully elastic supply curve, what is the likely effect of an exogenous decrease in demand?",
+        "option_a": "Decrease in equilibrium quantity and no change in price",
+        "option_b": "Decrease in equilibrium price and quantity",
+        "option_c": "Increase in equilibrium price and quantity",
+        "option_d": "Decrease in equilibrium price and no change in quantity",
+        "correct_option": "A"
+    },
+    {
+        "question": "Which statement is NOT correct for a firm's equilibrium in Perfect Competition?",
+        "option_a": "Market price must be equal to marginal cost.",
+        "option_b": "Market price must be equal to average cost in the long run.",
+        "option_c": "The marginal cost decreases at the equilibrium output.",
+        "option_d": "Market price must be greater than or equal to average variable cost in the short run.",
+        "correct_option": "C"
+    },
+    {
+        "question": "If X and Y are the only two normal goods in an economy, and the price of good X increases (ceteris paribus), what is the likely impact on the demand for good X and good Y?",
+        "option_a": "Demand for X decreases, Demand for Y increases (Substitution effect)",
+        "option_b": "Demand for X decreases, Demand for Y decreases (Income effect dominates)",
+        "option_c": "Demand for X decreases, Demand for Y is indeterminate",
+        "option_d": "Demand for X increases, Demand for Y decreases",
+        "correct_option": "C"
+    },
+    {
+        "question": "Other things remaining unchanged, market demand for a normal good might increase if:",
+        "option_a": "Price of its substitute decreases",
+        "option_b": "Price of its complement increases",
+        "option_c": "Income of the consumers increases",
+        "option_d": "Its price increases",
+        "correct_option": "C"
+    },
+     {
+        "question": "Under competitive asset market conditions in equilibrium, the price of a bond should generally be:",
+        "option_a": "Less than its present value to benefit the seller",
+        "option_b": "Exceed its present value to benefit the buyer",
+        "option_c": "Equal to its present value",
+        "option_d": "Unrelated to its present value",
+        "correct_option": "C"
+    },
+     {
+        "question": "According to the theory of liquidity preference, if the interest rate goes up, what happens to the speculative demand for money?",
+        "option_a": "Rise",
+        "option_b": "Fall",
+        "option_c": "Remain the same",
+        "option_d": "First rise and then falls",
+        "correct_option": "B"
+    },
+     {
+        "question": "The Law of Demand states that, ceteris paribus, the consumer's demand for a good is:",
+        "option_a": "Directly related to the supply of the good",
+        "option_b": "Directly related to the price of the good",
+        "option_c": "Inversely related to the price of the good",
+        "option_d": "Inversely related to the supply of the good",
+        "correct_option": "C"
+    },
+    {
+        "question": "In a graphical diagram plotting ex-ante aggregate demand and ex-ante aggregate supply, equilibrium is reached at the point where:",
+        "option_a": "Ex-ante aggregate demand is zero",
+        "option_b": "Ex-ante aggregate demand is equal to ex-ante aggregate supply",
+        "option_c": "Ex-ante aggregate demand is less than ex-ante aggregate supply",
+        "option_d": "Ex-ante aggregate demand is more than ex-ante aggregate supply",
+        "correct_option": "B"
+    },
+     {
+        "question": "If the price elasticity of demand for a good is less than one (e.g., 0.7), the demand for the good is said to be:",
+        "option_a": "Perfectly inelastic",
+        "option_b": "Elastic",
+        "option_c": "Inelastic",
+        "option_d": "Unitary-elastic",
+        "correct_option": "C"
+    },
+    {
+        "question": "If both the demand and supply curves shift simultaneously, which scenario is possible?",
+        "option_a": "Supply curve shifts leftward and demand curve shifts rightward",
+        "option_b": "Both supply and demand curves shift leftwards",
+        "option_c": "Supply curve shifts rightward and demand curve shifts leftward",
+        "option_d": "All of the above",
+        "correct_option": "D"
+    },
+    {
+        "question": "Which assumption is often made in the simple Keynesian model to determine the level of aggregate demand for final goods in the short run?",
+        "option_a": "Variable final goods price and variable rate of interest",
+        "option_b": "Aggregate supply is assumed to be perfectly inelastic",
+        "option_c": "A constant final goods price and constant rate of interest are assumed",
+        "option_d": "Only aggregate supply is considered",
+        "correct_option": "C"
+    },
+    {
+        "question": "The demand for money that arises mainly due to the uncertainty of future receipts and expenses is known as:",
+        "option_a": "Transactions demand",
+        "option_b": "Precautionary demand",
+        "option_c": "Speculative demand",
+        "option_d": "Generic demand",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which statement(s) is/are correct regarding the features of a perfectly competitive market?",
+        "option_a": "The market consists of a large number of buyers and sellers.",
+        "option_b": "Information is perfect.",
+        "option_c": "Both A and B",
+        "option_d": "Neither A nor B",
+        "correct_option": "C"
+    },
+    {
+        "question": "Commercialisation of agriculture, where farmers increasingly produce for the market rather than self-consumption, is an indication of:",
+        "option_a": "Income surplus",
+        "option_b": "Producers' surplus",
+        "option_c": "Marketable surplus",
+        "option_d": "Consumer surplus",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which of the following statements correctly describes the marginal utility of a commodity?",
+        "option_a": "It is the total utility derived from consuming all units.",
+        "option_b": "It diminishes with an increase in the consumption of the commodity.",
+        "option_c": "It increases with an increase in the consumption of the commodity.",
+        "option_d": "It remains constant regardless of consumption level.",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which type of good defies the law of demand, where demand increases as price increases?",
+        "option_a": "Normal Goods",
+        "option_b": "Luxury Goods (Veblen Goods)",
+        "option_c": "Inferior Goods",
+        "option_d": "Giffen Goods",
+        "correct_option": "D"
+    },
+     {
+        "question": "What does the GDP Deflator measure?",
+        "option_a": "The ratio of Real GDP to Nominal GDP",
+        "option_b": "The overall price level changes in an economy (inflation/deflation)",
+        "option_c": "The rate of economic growth adjusted for population",
+        "option_d": "The difference between GDP and GNP",
+        "correct_option": "B"
+    },
+     {
+        "question": "Which organization calculates GDP in India?",
+        "option_a": "Reserve Bank of India (RBI)",
+        "option_b": "Ministry of Finance",
+        "option_c": "National Statistical Office (NSO)",
+        "option_d": "NITI Aayog",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the base year currently used for GDP calculation in India?",
+        "option_a": "2004-05",
+        "option_b": "2010-11",
+        "option_c": "2011-12",
+        "option_d": "2015-16",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is Per Capita Income?",
+        "option_a": "Total GDP divided by total workforce",
+        "option_b": "National Income divided by total population",
+        "option_c": "Total GNP divided by total population",
+        "option_d": "Personal Income divided by number of households",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which concept compares the cost of a common basket of goods in different countries to evaluate exchange rates and economic output?",
+        "option_a": "GDP Deflator",
+        "option_b": "Purchasing Power Parity (PPP)",
+        "option_c": "Human Development Index (HDI)",
+        "option_d": "Consumer Price Index (CPI)",
+        "correct_option": "B"
+    },
+     {
+        "question": "What is Personal Disposable Income (PDI)?",
+        "option_a": "Personal Income + Direct Taxes",
+        "option_b": "National Income - Corporate Taxes",
+        "option_c": "Personal Income - Direct Taxes (like Income Tax)",
+        "option_d": "Total income earned by an individual before taxes",
+        "correct_option": "C"
+    },
+     {
+        "question": "Which method of calculating GDP involves summing up Consumption (C), Government Expenditure (G), Investment (I), and Net Exports (X-M)?",
+        "option_a": "Income Method",
+        "option_b": "Value Added Method (Production Method)",
+        "option_c": "Expenditure Method",
+        "option_d": "Factor Cost Method",
+        "correct_option": "C"
+    },
+     {
+        "question": "What does Net National Product (NNP) at Factor Cost represent?",
+        "option_a": "Gross Domestic Product (GDP)",
+        "option_b": "Gross National Product (GNP)",
+        "option_c": "National Income",
+        "option_d": "Net Domestic Product (NDP)",
+        "correct_option": "C"
+    },
+    {
+        "question": "How is Gross National Product (GNP) calculated from Gross Domestic Product (GDP)?",
+        "option_a": "GDP - Depreciation",
+        "option_b": "GDP + Net Factor Income from Abroad (NFIA)",
+        "option_c": "GDP - Net Indirect Taxes",
+        "option_d": "GDP + Net Exports",
+        "correct_option": "B"
+    },
+    {
+        "question": "How is Net Domestic Product (NDP) calculated?",
+        "option_a": "GNP - Depreciation",
+        "option_b": "GDP + Depreciation",
+        "option_c": "GDP - Depreciation",
+        "option_d": "NNP + Depreciation",
+        "correct_option": "C"
+    },
+    {
+        "question": "Who developed the concept of GDP in 1934?",
+        "option_a": "John Maynard Keynes",
+        "option_b": "Adam Smith",
+        "option_c": "Simon Kuznets",
+        "option_d": "Milton Friedman",
+        "correct_option": "C"
+    },
+    {
+        "question": "How is Factor Cost (FC) derived from Market Price (MP)?",
+        "option_a": "MP + Net Indirect Tax",
+        "option_b": "MP - Net Indirect Tax (Indirect Tax - Subsidy)",
+        "option_c": "MP + Subsidy",
+        "option_d": "MP - Indirect Tax",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which curve illustrates the relationship between inflation and unemployment?",
+        "option_a": "Lorenz Curve",
+        "option_b": "Laffer Curve",
+        "option_c": "Phillips Curve",
+        "option_d": "Engel Curve",
+        "correct_option": "C"
+    },
+    {
+        "question": "What does the Lorenz Curve graphically represent?",
+        "option_a": "Relationship between tax rates and tax revenue",
+        "option_b": "Distribution of income or wealth inequality",
+        "option_c": "Relationship between income and proportion of expenditure on food",
+        "option_d": "Trade-off between inflation and unemployment",
+        "correct_option": "B"
+    },
+    {
+        "question": "A Gini Coefficient of 0 indicates:",
+        "option_a": "Perfect inequality",
+        "option_b": "High inflation",
+        "option_c": "Perfect equality",
+        "option_d": "High unemployment",
+        "correct_option": "C"
+    },
+     {
+        "question": "What are the two main components of the Balance of Payments (BoP)?",
+        "option_a": "Trade Account and Services Account",
+        "option_b": "Current Account and Capital Account",
+        "option_c": "Visible Account and Invisible Account",
+        "option_d": "FDI Account and FII Account",
+        "correct_option": "B"
+    },
+     {
+        "question": "Transactions involving trade in goods (visible items) and services (invisible items), transfer payments, and remittances fall under which BoP account?",
+        "option_a": "Capital Account",
+        "option_b": "Official Reserves Account",
+        "option_c": "Current Account",
+        "option_d": "Error and Omissions Account",
+        "correct_option": "C"
+    },
+    {
+        "question": "Foreign Direct Investment (FDI) and Foreign Portfolio Investment (FPI) are recorded in which BoP account?",
+        "option_a": "Current Account",
+        "option_b": "Trade Account",
+        "option_c": "Capital Account",
+        "option_d": "Services Account",
+        "correct_option": "C"
+    },
+    {
+        "question": "What does Current Account Deficit (CAD) signify?",
+        "option_a": "Value of Exports > Value of Imports",
+        "option_b": "Value of Imports > Value of Exports",
+        "option_c": "Government Expenditure > Government Revenue",
+        "option_d": "Capital Inflows > Capital Outflows",
+        "correct_option": "B"
+    },
+    {
+        "question": "The Balance of Payments crisis in India in 1991 led to which major economic reforms?",
+        "option_a": "Nationalization of Banks",
+        "option_b": "Green Revolution",
+        "option_c": "LPG Reforms (Liberalisation, Privatisation, Globalisation)",
+        "option_d": "Demonetization",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which of the following is NOT typically a component of a country's FOREX Reserves?",
+        "option_a": "Foreign currency assets",
+        "option_b": "Gold reserves",
+        "option_c": "Domestic Government Bonds",
+        "option_d": "Special Drawing Rights (SDR)",
+        "correct_option": "C"
+    },
+    {
+        "question": "The decrease in the value of a domestic currency due to market forces under a floating exchange rate system is called:",
+        "option_a": "Devaluation",
+        "option_b": "Revaluation",
+        "option_c": "Appreciation",
+        "option_d": "Depreciation",
+        "correct_option": "D"
+    },
+     {
+        "question": "The official reduction in the value of a currency by the government under a fixed exchange rate system is called:",
+        "option_a": "Depreciation",
+        "option_b": "Appreciation",
+        "option_c": "Devaluation",
+        "option_d": "Revaluation",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which act replaced the Foreign Exchange Regulation Act (FERA), 1973 in India?",
+        "option_a": "Foreign Exchange Management Act (FEMA), 1999",
+        "option_b": "RBI Act, 1934",
+        "option_c": "Banking Regulation Act, 1949",
+        "option_d": "Companies Act, 2013",
+        "correct_option": "A"
+    },
+     {
+        "question": "What does 'M0' (Monetary Base or High Powered Money) typically consist of?",
+        "option_a": "Currency with Public + Demand Deposits with Banks",
+        "option_b": "Currency in Circulation + Bankers' Deposits with RBI + Other Deposits with RBI",
+        "option_c": "M1 + Time Deposits with Banks",
+        "option_d": "M3 + Total Deposits with Post Office",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which monetary aggregate is often referred to as 'Narrow Money'?",
+        "option_a": "M0",
+        "option_b": "M1",
+        "option_c": "M3",
+        "option_d": "M4",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which monetary aggregate represents the broadest measure of money supply, often considered the 'Actual Money Supply'?",
+        "option_a": "M1",
+        "option_b": "M2",
+        "option_c": "M3",
+        "option_d": "M0",
+        "correct_option": "C"
+    },
+    {
+        "question": "Arrange the monetary aggregates M1, M2, M3, M4 in decreasing order of liquidity.",
+        "option_a": "M4 > M3 > M2 > M1",
+        "option_b": "M1 > M2 > M3 > M4",
+        "option_c": "M0 > M1 > M2 > M3",
+        "option_d": "M3 > M1 > M2 > M4",
+        "correct_option": "B"
+    },
+     {
+        "question": "Which committee recommended the establishment of the Monetary Policy Committee (MPC) in India?",
+        "option_a": "Narasimham Committee",
+        "option_b": "Urjit Patel Committee",
+        "option_c": "Rangarajan Committee",
+        "option_d": "Malegam Committee",
+        "correct_option": "B"
+    },
+     {
+        "question": "How many members constitute the Monetary Policy Committee (MPC) in India?",
+        "option_a": "4",
+        "option_b": "5",
+        "option_c": "6",
+        "option_d": "7",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which of the following is a Quantitative tool of Monetary Policy?",
+        "option_a": "Moral Suasion",
+        "option_b": "Margin Requirements",
+        "option_c": "Open Market Operations (OMO)",
+        "option_d": "Rationing of Credit",
+        "correct_option": "C"
+    },
+    {
+        "question": "The rate at which the RBI lends money to commercial banks for long term without collateral is known as:",
+        "option_a": "Repo Rate",
+        "option_b": "Reverse Repo Rate",
+        "option_c": "Bank Rate",
+        "option_d": "Marginal Standing Facility (MSF) Rate",
+        "correct_option": "C"
+    },
+    {
+        "question": "The buying and selling of government securities by the RBI in the open market to regulate liquidity is called:",
+        "option_a": "Cash Reserve Ratio (CRR) adjustment",
+        "option_b": "Statutory Liquidity Ratio (SLR) adjustment",
+        "option_c": "Open Market Operations (OMO)",
+        "option_d": "Liquidity Adjustment Facility (LAF)",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the facility under which scheduled commercial banks can borrow additional amount of overnight money from the RBI by dipping into their SLR portfolio up to a limit?",
+        "option_a": "Repo Rate",
+        "option_b": "Bank Rate",
+        "option_c": "Marginal Standing Facility (MSF)",
+        "option_d": "Reverse Repo Rate",
+        "correct_option": "C"
+    },
+     {
+        "question": "The Repo Rate and Reverse Repo Rate are components of which facility used by the RBI?",
+        "option_a": "Open Market Operations (OMO)",
+        "option_b": "Marginal Standing Facility (MSF)",
+        "option_c": "Liquidity Adjustment Facility (LAF)",
+        "option_d": "Market Stabilisation Scheme (MSS)",
+        "correct_option": "C"
+    },
+     {
+        "question": "What is the minimum percentage of Net Demand and Time Liabilities (NDTL) that banks must maintain as cash with the RBI?",
+        "option_a": "Statutory Liquidity Ratio (SLR)",
+        "option_b": "Repo Rate",
+        "option_c": "Cash Reserve Ratio (CRR)",
+        "option_d": "Bank Rate",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the minimum percentage of NDTL that banks must maintain in the form of liquid assets like cash, gold, or approved securities?",
+        "option_a": "Cash Reserve Ratio (CRR)",
+        "option_b": "Statutory Liquidity Ratio (SLR)",
+        "option_c": "Capital Adequacy Ratio (CAR)",
+        "option_d": "Reverse Repo Rate",
+        "correct_option": "B"
+    },
+    {
+        "question": "During periods of high inflation, what stance does the RBI typically adopt with its monetary policy tools like CRR, SLR, Repo Rate?",
+        "option_a": "Decrease them (Dovish/Easy Policy)",
+        "option_b": "Increase them (Hawkish/Tight Policy)",
+        "option_c": "Keep them unchanged",
+        "option_d": "Selectively decrease some and increase others",
+        "correct_option": "B"
+    },
+     {
+        "question": "Which type of unemployment occurs due to a mismatch between the skills possessed by workers and the skills demanded by employers, often caused by technological changes?",
+        "option_a": "Frictional Unemployment",
+        "option_b": "Cyclical Unemployment",
+        "option_c": "Structural Unemployment",
+        "option_d": "Disguised Unemployment",
+        "correct_option": "C"
+    },
+    {
+        "question": "What is the term for unemployment that occurs when individuals are transitioning between jobs?",
+        "option_a": "Structural Unemployment",
+        "option_b": "Disguised Unemployment",
+        "option_c": "Seasonal Unemployment",
+        "option_d": "Frictional Unemployment",
+        "correct_option": "D"
+    },
+     {
+        "question": "Unemployment that arises due to fluctuations in the business cycle (recessions and downturns) is known as:",
+        "option_a": "Frictional Unemployment",
+        "option_b": "Structural Unemployment",
+        "option_c": "Cyclical Unemployment",
+        "option_d": "Educated Unemployment",
+        "correct_option": "C"
+    },
+     {
+        "question": "A situation where more people are employed in an activity (like agriculture) than are actually needed, resulting in zero marginal productivity, is called:",
+        "option_a": "Frictional Unemployment",
+        "option_b": "Disguised Unemployment",
+        "option_c": "Cyclical Unemployment",
+        "option_d": "Structural Unemployment",
+        "correct_option": "B"
+    },
+    {
+        "question": "What economic condition is characterized by high inflation coexisting with high unemployment and stagnant demand?",
+        "option_a": "Deflation",
+        "option_b": "Disinflation",
+        "option_c": "Stagflation",
+        "option_d": "Reflation",
+        "correct_option": "C"
+    },
+     {
+        "question": "What is the term for a decrease in the rate of inflation (e.g., inflation falling from 5% to 3%)?",
+        "option_a": "Deflation",
+        "option_b": "Stagflation",
+        "option_c": "Disinflation",
+        "option_d": "Hyperinflation",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which index measures inflation at the wholesale level?",
+        "option_a": "Consumer Price Index (CPI)",
+        "option_b": "Producer Price Index (PPI)",
+        "option_c": "Wholesale Price Index (WPI)",
+        "option_d": "Index of Industrial Production (IIP)",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which index is primarily used by the RBI for inflation targeting in India?",
+        "option_a": "WPI",
+        "option_b": "CPI (Combined)",
+        "option_c": "CPI (Industrial Workers)",
+        "option_d": "IIP",
+        "correct_option": "B"
+    },
+    {
+        "question": "Who publishes the Wholesale Price Index (WPI) in India?",
+        "option_a": "National Statistical Office (NSO)",
+        "option_b": "Reserve Bank of India (RBI)",
+        "option_c": "Office of the Economic Adviser, Ministry of Commerce and Industry",
+        "option_d": "Labour Bureau",
+        "correct_option": "C"
+    },
+    {
+        "question": "Who publishes the Consumer Price Index (CPI - Combined) in India?",
+        "option_a": "Office of the Economic Adviser",
+        "option_b": "National Statistical Office (NSO), Ministry of Statistics and Programme Implementation",
+        "option_c": "Reserve Bank of India (RBI)",
+        "option_d": "Ministry of Finance",
+        "correct_option": "B"
+    },
+     {
+        "question": "Which type of poverty refers to a severe deprivation of basic human needs like food, clothing, and shelter?",
+        "option_a": "Relative Poverty",
+        "option_b": "Subjective Poverty",
+        "option_c": "Absolute Poverty",
+        "option_d": "Situational Poverty",
+        "correct_option": "C"
+    },
+     {
+        "question": "Which type of poverty is defined in comparison to the living standards of others within the same society (e.g., household income lower than the median income)?",
+        "option_a": "Absolute Poverty",
+        "option_b": "Relative Poverty",
+        "option_c": "Generational Poverty",
+        "option_d": "Urban Poverty",
+        "correct_option": "B"
+    },
+    {
+        "question": "Who made the first systematic estimation of poverty in pre-independence India and discussed the 'Drain of Wealth' theory?",
+        "option_a": "Jawaharlal Nehru",
+        "option_b": "Dadabhai Naoroji",
+        "option_c": "Mahatma Gandhi",
+        "option_d": "V.K.R.V. Rao",
+        "correct_option": "B"
+    },
+     {
+        "question": "Which committee, established post-independence, first recommended a poverty line based on nutritional requirements (calories)?",
+        "option_a": "Tendulkar Committee",
+        "option_b": "Lakdawala Committee",
+        "option_c": "Alagh Committee (1979)",
+        "option_d": "Rangarajan Committee",
+        "correct_option": "C"
+    },
+     {
+        "question": "Which poverty estimation committee shifted focus from calorie intake to a broader definition including expenditure on health and education, using a Uniform Reference Period initially?",
+        "option_a": "Alagh Committee",
+        "option_b": "Lakdawala Committee",
+        "option_c": "Tendulkar Committee (2005/2009)",
+        "option_d": "Rangarajan Committee",
+        "correct_option": "C"
+    },
+     {
+        "question": "The Rangarajan Committee (2012) defined poverty lines based on:",
+        "option_a": "Only calorie intake",
+        "option_b": "Only expenditure on health and education",
+        "option_c": "Monthly per capita expenditure covering food (calories, protein, fat) and non-food essential items",
+        "option_d": "Purchasing Power Parity (PPP)",
+        "correct_option": "C"
+    },
+     {
+        "question": "The Multidimensional Poverty Index (MPI) considers indicators across which dimensions?",
+        "option_a": "Income, Expenditure, Savings",
+        "option_b": "Health, Education, Standard of Living",
+        "option_c": "Employment, Housing, Sanitation",
+        "option_d": "Agriculture, Industry, Services",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which Industrial Policy Resolution (IPR) is known as the 'Economic Constitution of India' and classified industries into Schedule A, B, and C?",
+        "option_a": "IPR 1948",
+        "option_b": "IPR 1956",
+        "option_c": "IPR 1977",
+        "option_d": "IPR 1991",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which IPR marked the beginning of significant economic liberalization (LPG reforms) and the end of the 'License Raj'?",
+        "option_a": "IPR 1956",
+        "option_b": "IPR 1977",
+        "option_c": "IPR 1980",
+        "option_d": "IPR 1991 (New Industrial Policy)",
+        "correct_option": "D"
+    },
+    {
+        "question": "The First Five Year Plan (1951-56) was based on which model and focused primarily on which sector?",
+        "option_a": "Mahalanobis Model; Heavy Industry",
+        "option_b": "Harrod-Domar Model; Agriculture",
+        "option_c": "Gadgil Formula; Self-Reliance",
+        "option_d": "Nehruvian Model; Public Sector",
+        "correct_option": "B"
+    },
+    {
+        "question": "The Second Five Year Plan (1956-61) emphasized rapid industrialization, particularly heavy industries, and was based on the model developed by:",
+        "option_a": "Harrod-Domar",
+        "option_b": "P.C. Mahalanobis",
+        "option_c": "D.R. Gadgil",
+        "option_d": "C. Rangarajan",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which Five Year Plan introduced the slogan 'Garibi Hatao' (Removal of Poverty)?",
+        "option_a": "Third Plan (1961-66)",
+        "option_b": "Fourth Plan (1969-74)",
+        "option_c": "Fifth Plan (1974-78)",
+        "option_d": "Sixth Plan (1980-85)",
+        "correct_option": "C"
+    },
+    {
+        "question": "The period between 1966-69, after the failure of the Third Plan, is known as:",
+        "option_a": "Rolling Plan",
+        "option_b": "Plan Holiday",
+        "option_c": "Indicative Plan",
+        "option_d": "Perspective Plan",
+        "correct_option": "B"
+    },
+     {
+        "question": "When was the Reserve Bank of India (RBI) established?",
+        "option_a": "1st April 1947",
+        "option_b": "15th August 1947",
+        "option_c": "1st April 1935",
+        "option_d": "26th January 1950",
+        "correct_option": "C"
+    },
+    {
+        "question": "On the recommendation of which commission was the RBI established?",
+        "option_a": "Simon Commission",
+        "option_b": "Hilton Young Commission",
+        "option_c": "Sarkaria Commission",
+        "option_d": "Radhakrishnan Commission",
+        "correct_option": "B"
+    },
+     {
+        "question": "When was the RBI nationalized?",
+        "option_a": "1935",
+        "option_b": "1947",
+        "option_c": "1949",
+        "option_d": "1955",
+        "correct_option": "C"
+    },
+    {
+        "question": "Who was the first Governor of the RBI?",
+        "option_a": "C.D. Deshmukh",
+        "option_b": "Osborne Smith",
+        "option_c": "James Braid Taylor",
+        "option_d": "Benegal Rama Rau",
+        "correct_option": "B"
+    },
+    {
+        "question": "Who was the first Indian Governor of the RBI?",
+        "option_a": "Osborne Smith",
+        "option_b": "Benegal Rama Rau",
+        "option_c": "C.D. Deshmukh",
+        "option_d": "L.K. Jha",
+        "correct_option": "C"
+    },
+     {
+        "question": "Which function of the RBI involves regulating the issue of Bank Notes?",
+        "option_a": "Banker to Government",
+        "option_b": "Banker's Bank",
+        "option_c": "Issuer of Currency",
+        "option_d": "Controller of Credit",
+        "correct_option": "C"
+    },
+     {
+        "question": "The function of RBI acting as a lender when commercial banks face liquidity crisis is termed:",
+        "option_a": "Banker to Government",
+        "option_b": "Lender of Last Resort",
+        "option_c": "Custodian of Foreign Exchange",
+        "option_d": "Controller of Credit",
+        "correct_option": "B"
+    },
+    {
+        "question": "Banks included in the Second Schedule of the RBI Act, 1934 are known as:",
+        "option_a": "Non-Scheduled Banks",
+        "option_b": "Cooperative Banks",
+        "option_c": "Scheduled Banks",
+        "option_d": "Development Banks",
+        "correct_option": "C"
+    },
+     {
+        "question": "In which year did the first major nationalization of commercial banks (14 banks) take place in India?",
+        "option_a": "1955",
+        "option_b": "1969",
+        "option_c": "1980",
+        "option_d": "1991",
+        "correct_option": "B"
+    },
+     {
+        "question": "What is the primary function of NABARD (National Bank for Agriculture and Rural Development)?",
+        "option_a": "Regulate the stock market",
+        "option_b": "Provide finance for agriculture and rural development",
+        "option_c": "Control inflation",
+        "option_d": "Manage foreign exchange reserves",
+        "correct_option": "B"
+    },
+     {
+        "question": "On the recommendation of which committee was NABARD established in 1982?",
+        "option_a": "Narasimham Committee",
+        "option_b": "B. Sivaraman Committee",
+        "option_c": "Goiporia Committee",
+        "option_d": "Urjit Patel Committee",
+        "correct_option": "B"
+    },
+    {
+        "question": "Which regulatory body oversees the insurance sector in India?",
+        "option_a": "RBI",
+        "option_b": "SEBI",
+        "option_c": "IRDAI",
+        "option_d": "PFRDA",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which organization regulates the securities (stock) market in India?",
+        "option_a": "RBI",
+        "option_b": "IRDAI",
+        "option_c": "NABARD",
+        "option_d": "SEBI",
+        "correct_option": "D"
+    },
+    {
+        "question": "Non-Banking Financial Companies (NBFCs) are primarily registered under which Act?",
+        "option_a": "RBI Act, 1934",
+        "option_b": "Banking Regulation Act, 1949",
+        "option_c": "Companies Act, 1956/2013",
+        "option_d": "SEBI Act, 1992",
+        "correct_option": "C"
+    },
+    {
+        "question": "Which type of financial institution provides small loans (microfinance) to low-income populations, often without collateral?",
+        "option_a": "Commercial Banks",
+        "option_b": "Investment Banks",
+        "option_c": "Micro Finance Institutions (MFIs)",
+        "option_d": "Development Banks",
+        "correct_option": "C"
+    },
+    {
+        "question": "The Basel Norms, related to banking supervision and capital adequacy, originate from the Basel Committee on Banking Supervision headquartered in:",
+        "option_a": "Geneva, Switzerland",
+        "option_b": "Basel, Switzerland",
+        "option_c": "New York, USA",
+        "option_d": "London, UK",
+        "correct_option": "B"
+    },
+    {
+        "question": "Loans where the borrower has defaulted on payments for 90 days or more are classified by banks as:",
+        "option_a": "Standard Assets",
+        "option_b": "Sub-standard Assets",
+        "option_c": "Non-Performing Assets (NPA)",
+        "option_d": "Doubtful Assets",
+        "correct_option": "C"
+    },
+     {
+        "question": "The SARFAESI Act, 2002 empowers banks and financial institutions to:",
+        "option_a": "Issue new currency",
+        "option_b": "Regulate interest rates",
+        "option_c": "Seize and dispose of assets pledged as collateral to recover bad loans",
+        "option_d": "Provide microfinance loans",
+        "correct_option": "C"
+    },
+    {
+        "question": "The concept of 'Bad Bank' (like NARCL in India) is primarily set up to:",
+        "option_a": "Provide loans to risky borrowers",
+        "option_b": "Take over and resolve Non-Performing Assets (NPAs) from commercial banks",
+        "option_c": "Regulate Non-Banking Financial Companies",
+        "option_d": "Offer basic banking services to the unbanked",
+        "correct_option": "B"
+    },
+    {
+        "question": "In the context of India's economy, which sector contributes the most to GDP?",
+        "option_a": "Primary Sector (Agriculture)",
+        "option_b": "Secondary Sector (Industry)",
+        "option_c": "Tertiary Sector (Services)",
+        "option_d": "Quaternary Sector",
+        "correct_option": "C"
+    },
+     {
+        "question": "In the context of India's economy, which sector employs the largest proportion of the workforce?",
+        "option_a": "Primary Sector (Agriculture)",
+        "option_b": "Secondary Sector (Industry)",
+        "option_c": "Tertiary Sector (Services)",
+        "option_d": "Organized Sector",
+        "correct_option": "A"
+    },
+     {
+        "question": "What is the Production Possibility Frontier (PPF) or Curve?",
+        "option_a": "A curve showing the relationship between price and quantity demanded.",
+        "option_b": "A curve showing the different combinations of two goods that can be produced efficiently with given resources and technology.",
+        "option_c": "A curve showing the relationship between inflation and unemployment.",
+        "option_d": "A curve showing the distribution of income in an economy.",
+        "correct_option": "B"
+    },
+     {
+        "question": "The value of the next best alternative forgone when making a choice is known as:",
+        "option_a": "Marginal Cost",
+        "option_b": "Sunk Cost",
+        "option_c": "Opportunity Cost",
+        "option_d": "Average Cost",
+        "correct_option": "C"
+    }
+]

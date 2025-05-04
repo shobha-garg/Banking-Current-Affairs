@@ -1,0 +1,922 @@
+﻿[
+  {
+    "question": "Which two fintech firms recently launched e₹ wallets for the RBI's digital\ncurrency, marking the entry of non-bank platforms into the ecosystem?",
+    "option_a": "Paytm and PhonePe",
+    "option_b": "Cred and MobiKwik",
+    "option_c": "BharatPe and Google Pay",
+    "option_d": "Slice and Jupiter",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the name of the digital knowledge repository launched by SEBI to\ndocument and showcase the history and evolution of the Indian Securities Market?",
+    "option_a": "MarketGuard",
+    "option_b": "SecuritiesArchive",
+    "option_c": "Dharohar",
+    "option_d": "SEBIpedia",
+    "correct_option": "C"
+  },
+  {
+    "question": "The value of the IMF's Special Drawing Right (SDR) is calculated based on a\nweighted basket of which five major currencies?",
+    "option_a": "US Dollar, Euro, British Pound, Swiss Franc, Canadian Dollar",
+    "option_b": "US Dollar, Euro, Japanese Yen, Australian Dollar, British Pound",
+    "option_c": "US Dollar, Euro, Japanese Yen, Chinese Yuan, British Pound",
+    "option_d": "US Dollar, Euro, Chinese Yuan, Indian Rupee, British Pound",
+    "correct_option": "C"
+  },
+  {
+    "question": "Tata Electronics acquired a 60% stake in the Indian subsidiary of which\nTaiwanese electronics manufacturing giant, thereby expanding its iPhone production footprint?",
+    "option_a": "Foxconn",
+    "option_b": "Wistron",
+    "option_c": "Pegatron",
+    "option_d": "Acer",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Deposit Insurance and Credit Guarantee Corporation (DICGC), which\nprovides deposit insurance for banks in India, is governed by which institution?",
+    "option_a": "Ministry of Finance",
+    "option_b": "Securities and Exchange Board of India (SEBI)",
+    "option_c": "National Bank for Agriculture and Rural Development (NABARD)",
+    "option_d": "Reserve Bank of India (RBI)",
+    "correct_option": "D"
+  },
+  {
+    "question": "Bajaj Finance has partnered with which telecommunications company to create a\ndigital platform offering retail financial products to its customer base?",
+    "option_a": "Reliance Jio",
+    "option_b": "Vodafone Idea",
+    "option_c": "Airtel",
+    "option_d": "BSNL",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to reports shared in late 2024/early 2025, what percentage of Pradhan\nMantri Jan Dhan Yojana (PMJDY) accounts had become inoperative?",
+    "option_a": "Around 10%",
+    "option_b": "Over 21%",
+    "option_c": "Less than 5%",
+    "option_d": "Approximately 35%",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the primary function of an Asset Reconstruction Company (ARC) under\nthe SARFAESI Act, 2002?",
+    "option_a": "Providing fresh loans to stressed companies",
+    "option_b": "Offering credit ratings for banks",
+    "option_c": "Purchasing bad debts (NPAs) from banks and attempting recovery",
+    "option_d": "Managing mutual funds for retail investors",
+    "correct_option": "C"
+  },
+  {
+    "question": "As per RBI's revised norms for ARCs (Jan 2025), settlements of dues *below* ₹1\ncrore can be approved by whom?",
+    "option_a": "Only the full Board of the ARC",
+    "option_b": "The Independent Advisory Committee (IAC) only",
+    "option_c": "An official not involved in the acquisition of the concerned financial assets",
+    "option_d": "The Reserve Bank of India directly",
+    "correct_option": "C"
+  },
+  {
+    "question": "As part of RBI's steps to internationalize the Rupee (Jan 2025), Indian exporters\nare now permitted to open which type of accounts overseas for trade settlements?",
+    "option_a": "Special Rupee Vostro Accounts (SRVAs)",
+    "option_b": "Foreign Currency Accounts",
+    "option_c": "Special Non-Resident Rupee (SNRR) Accounts",
+    "option_d": "Repatriable Fixed Deposit Accounts",
+    "correct_option": "B"
+  },
+  {
+    "question": "The Union Cabinet approved the National Critical Minerals Mission with a total\noutlay (Centre + PSU investment) of approximately how much?",
+    "option_a": "₹16,300 crore",
+    "option_b": "₹18,000 crore",
+    "option_c": "₹34,300 crore",
+    "option_d": "₹50,000 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "Reliance Industries (RIL) is planning to build the world's largest data center,\nfocused on AI services, with a massive capacity of 3 gigawatts in which Indian city?",
+    "option_a": "Mumbai, Maharashtra",
+    "option_b": "Bengaluru, Karnataka",
+    "option_c": "Hyderabad, Telangana",
+    "option_d": "Jamnagar, Gujarat",
+    "correct_option": "D"
+  },
+  {
+    "question": "Following its acquisition by Warburg Pincus and co-investors, Shriram Housing\nFinance has been rebranded as?",
+    "option_a": "Piramal Housing Finance",
+    "option_b": "Truhome Finance",
+    "option_c": "Warburg Housing India",
+    "option_d": "Affordable Homes Ltd",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is 'Entity Locker', launched by the Government of India in early 2025?",
+    "option_a": "A physical storage facility for government documents",
+    "option_b": "A cybersecurity tool for businesses",
+    "option_c": "A digital platform for managing and verifying business/organizational documents",
+    "option_d": "A scheme for providing loans to MSMEs",
+    "correct_option": "C"
+  },
+  {
+    "question": "Entity Locker, the secure cloud-based platform for business documents, was\ndeveloped by the National eGovernance Division (NeGD) under which ministry?",
+    "option_a": "Ministry of Home Affairs",
+    "option_b": "Ministry of Finance",
+    "option_c": "Ministry of Commerce and Industry",
+    "option_d": "Ministry of Electronics and Information Technology (MeitY)",
+    "correct_option": "D"
+  },
+  {
+    "question": "North East Small Finance Bank (NESFB) received an NOC from the RBI in Jan\n2025 to rebrand itself, reflecting its merger with a fintech firm. What is the new proposed\nname?",
+    "option_a": "Unity Small Finance Bank",
+    "option_b": "Slice Small Finance Bank Limited (Slice SFB)",
+    "option_c": "Fincare Small Finance Bank",
+    "option_d": "Capital Small Finance Bank",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which organization launched the Fiscal Health Index (FHI) 2025, assessing the\nfiscal performance of 18 major Indian states?",
+    "option_a": "Reserve Bank of India (RBI)",
+    "option_b": "Ministry of Finance",
+    "option_c": "NITI Aayog",
+    "option_d": "Comptroller and Auditor General (CAG)",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the NITI Aayog Fiscal Health Index (FHI) 2025 results (released Jan\n2025), which state secured the top rank for overall fiscal health?",
+    "option_a": "Maharashtra",
+    "option_b": "Gujarat",
+    "option_c": "Odisha",
+    "option_d": "Chhattisgarh",
+    "correct_option": "C"
+  },
+  {
+    "question": "The NITI Aayog FHI 2025 report raised concerns about growing debt burden and\nsustainability primarily in which two states, categorizing them towards the bottom?",
+    "option_a": "Odisha and Chhattisgarh",
+    "option_b": "Maharashtra and Uttar Pradesh",
+    "option_c": "West Bengal and Punjab",
+    "option_d": "Tamil Nadu and Karnataka",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which quick-commerce unicorn completed a 'reverse merger' in late 2024/early\n2025, shifting its holding company's domicile from Singapore to India ahead of a planned IPO?",
+    "option_a": "Blinkit",
+    "option_b": "Dunzo",
+    "option_c": "Swiggy Instamart",
+    "option_d": "Zepto",
+    "correct_option": "D"
+  },
+  {
+    "question": "How many Padma Vibhushan awards, the second-highest civilian award, were\nannounced for the year 2025?",
+    "option_a": "5",
+    "option_b": "7",
+    "option_c": "10",
+    "option_d": "19",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is the current CEO of NITI Aayog (as of early 2025 based on slides)?",
+    "option_a": "Suman Bery",
+    "option_b": "Amitabh Kant",
+    "option_c": "B. V. R. Subrahmanyam",
+    "option_d": "Narendra Modi",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which entity, mentioned in Jan 2025 news, has submitted an application to the\nRBI for a Small Finance Bank (SFB) license?",
+    "option_a": "AU Small Finance Bank",
+    "option_b": "VFS Capital",
+    "option_c": "Bajaj Finance",
+    "option_d": "Shriram Finance",
+    "correct_option": "B"
+  },
+  {
+    "question": "In the context of inflation measurement in India, 'core inflation' is calculated by\nexcluding the volatile prices of which two categories?",
+    "option_a": "Clothing and Housing",
+    "option_b": "Food and Energy",
+    "option_c": "Transport and Communication",
+    "option_d": "Healthcare and Education",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is 'iSPOT', the new initiative launched by SEBI effective Feb 3, 2025?",
+    "option_a": "An investor protection fund",
+    "option_b": "An integrated portal for MIIs to report technical glitches",
+    "option_c": "A surveillance tool for stock markets",
+    "option_d": "A platform for IPO applications",
+    "correct_option": "B"
+  },
+  {
+    "question": "IDFC FIRST Bank launched the 'FIRST EA₹N' RuPay Credit Card in Jan 2025.\nWhat type of card is it, linked to a specific requirement?",
+    "option_a": "Travel credit card linked to airline miles",
+    "option_b": "Fuel credit card linked to petrol pump usage",
+    "option_c": "Secured credit card linked to a Fixed Deposit (FD)",
+    "option_d": "Corporate credit card linked to business expenses",
+    "correct_option": "C"
+  },
+  {
+    "question": "According to the IMF's World Economic Outlook update (Jan 2025), what GDP\ngrowth rate was projected for India for the fiscal years FY26 and FY27?",
+    "option_a": "6.0%",
+    "option_b": "6.5%",
+    "option_c": "6.7%",
+    "option_d": "7.0%",
+    "correct_option": "B"
+  },
+  {
+    "question": "What global growth forecast did the IMF project for the years 2025 and 2026 in\nits Jan 2025 update, indicating stability post-pandemic?",
+    "option_a": "2.7%",
+    "option_b": "3.0%",
+    "option_c": "3.3%",
+    "option_d": "4.0%",
+    "correct_option": "C"
+  },
+  {
+    "question": "HSBC India received approval from the RBI (Jan 2025) to open how many new\nbranches across India, signifying a renewed focus on physical presence?",
+    "option_a": "10",
+    "option_b": "20",
+    "option_c": "30",
+    "option_d": "46",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the base period used by the RBI for calculating its Digital Payments\nIndex (RBI-DPI)?",
+    "option_a": "March 2016",
+    "option_b": "March 2018",
+    "option_c": "January 2020",
+    "option_d": "September 2021",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which parameter holds the highest weightage (45%) in the composition of the\nRBI-Digital Payments Index (RBI-DPI)?",
+    "option_a": "Payment Enablers",
+    "option_b": "Payment Infrastructure - Supply Side",
+    "option_c": "Payment Performance",
+    "option_d": "Consumer Centricity",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who has been appointed as the new Managing Director (MD) and CEO of\nPunjab National Bank (PNB) as of Jan 2025?",
+    "option_a": "Binod Kumar",
+    "option_b": "Atul Kumar Goel",
+    "option_c": "Ashok Chandra",
+    "option_d": "Rajkiran Rai G.",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who has been appointed as the new MD and CEO of Indian Bank as of Jan\n2025?",
+    "option_a": "Ashok Chandra",
+    "option_b": "Shanti Lal Jain",
+    "option_c": "Binod Kumar",
+    "option_d": "Swaminathan Janakiraman",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Indian government has strongly urged public sector banks to integrate their\nbackend systems with which coordination center by the end of January 2025 to combat financial\nfrauds?",
+    "option_a": "National Payments Corporation of India (NPCI)",
+    "option_b": "Unique Identification Authority of India (UIDAI)",
+    "option_c": "Indian Cyber Crime Coordination Centre (I4C)",
+    "option_d": "Financial Intelligence Unit - India (FIU-IND)",
+    "correct_option": "C"
+  },
+  {
+    "question": "The fintech company 'Skydo' received in-principle approval from the RBI (Jan\n2025) to operate as which type of entity, facilitating international trade payments?",
+    "option_a": "Account Aggregator (AA)",
+    "option_b": "Payment Aggregator - Cross Border (PA-CB)",
+    "option_c": "Small Finance Bank (SFB)",
+    "option_d": "NBFC - Peer-to-Peer Lending Platform (NBFC-P2P)",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who is heading the RBI's new external advisory committee (formed late\n2024/early 2025) responsible for evaluating applications for universal and small finance\nbanks?",
+    "option_a": "Shaktikanta Das",
+    "option_b": "Shyama Gopinath",
+    "option_c": "Nandan Nilekani",
+    "option_d": "M. K. Jain",
+    "correct_option": "B"
+  },
+  {
+    "question": "The 'Bharat Cleantech Manufacturing Platform', launched at the Bharat Climate\nForum 2025, aims to strengthen India's value chains primarily in which sectors?",
+    "option_a": "Textiles, Pharmaceuticals, Automobiles",
+    "option_b": "IT Services, BPO, Software Development",
+    "option_c": "Solar, Wind, Hydrogen, and Battery Storage",
+    "option_d": "Agriculture, Food Processing, Retail",
+    "correct_option": "C"
+  },
+  {
+    "question": "JK Tyre & Industries secured a $100 million sustainability-linked loan in Jan 2025\nfrom which international financial institution?",
+    "option_a": "World Bank",
+    "option_b": "Asian Development Bank (ADB)",
+    "option_c": "International Monetary Fund (IMF)",
+    "option_d": "International Finance Corporation (IFC)",
+    "correct_option": "D"
+  },
+  {
+    "question": "Singapore-based Sembcorp Industries is set to develop a large-scale (720,000\nmetric tons/year) green hydrogen production facility in which Indian state?",
+    "option_a": "Gujarat",
+    "option_b": "Tamil Nadu",
+    "option_c": "Odisha",
+    "option_d": "Rajasthan",
+    "correct_option": "C"
+  },
+  {
+    "question": "Small Finance Banks (SFBs) in India primarily cater to the credit needs of which\nsegments?",
+    "option_a": "Large corporations and multinational companies",
+    "option_b": "High Net Worth Individuals (HNIs)",
+    "option_c": "Small business units, small/marginal farmers, micro industries, unorganised\nsector",
+    "option_d": "Government infrastructure projects",
+    "correct_option": "C"
+  },
+  {
+    "question": "An increase in the US Federal Reserve interest rates often leads to which effect\non India's import bill, particularly for commodities like crude oil?",
+    "option_a": "Imports become significantly cheaper",
+    "option_b": "No impact on import costs",
+    "option_c": "Imports become more expensive, often due to Rupee depreciation",
+    "option_d": "Only non-essential imports become expensive",
+    "correct_option": "C"
+  },
+  {
+    "question": "The RBI - Integrated Ombudsman Scheme (RBI-IOS), launched by\namalgamating previous schemes, covers complaints against which regulated entities?",
+    "option_a": "Only Commercial Banks",
+    "option_b": "Only NBFCs and Payment Banks",
+    "option_c": "Banks, NBFCs, and Pre-paid Instrument Players",
+    "option_d": "Only Cooperative Banks",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who functions as the Appellate Authority under the RBI - Integrated Ombudsman\nScheme?",
+    "option_a": "The RBI Governor",
+    "option_b": "A retired Supreme Court Judge",
+    "option_c": "The Finance Secretary",
+    "option_d": "RBI's Executive Director (Consumer Education and Protection Dept.)",
+    "correct_option": "D"
+  },
+  {
+    "question": "Changing the Cash Reserve Ratio (CRR) or conducting Open Market Operations\n(OMOs) are examples of which type of monetary policy tools used by the RBI?",
+    "option_a": "Qualitative Tools",
+    "option_b": "Quantitative Tools",
+    "option_c": "Fiscal Policy Tools",
+    "option_d": "Administrative Tools",
+    "correct_option": "B"
+  },
+  {
+    "question": "The Economic Survey of India, an annual document reviewing the economy, is\nprepared under the guidance of whom?",
+    "option_a": "The Finance Minister",
+    "option_b": "The RBI Governor",
+    "option_c": "The Chief Economic Advisor (CEA)",
+    "option_d": "The Prime Minister's Economic Advisory Council",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which NBFC was identified as potentially qualifying for the NBFC-Upper Layer\n(NBFC-UL) category based on RBI's scoring methodology but wasn't included in the Jan 2025\nlist due to an ongoing reorganization?",
+    "option_a": "Bajaj Finance",
+    "option_b": "LIC Housing Finance",
+    "option_c": "Shriram Finance",
+    "option_d": "Piramal Enterprises Ltd",
+    "correct_option": "D"
+  },
+  {
+    "question": "India Mortgage Guarantee Corporation (IMGC) announced a partnership in early\n2025 with which entity to offer innovative mortgage guarantee-backed home loan products?",
+    "option_a": "HDFC Bank",
+    "option_b": "State Bank of India",
+    "option_c": "GIC Housing Finance Ltd (GICHFL)",
+    "option_d": "National Housing Bank (NHB)",
+    "correct_option": "C"
+  },
+  {
+    "question": "The term 'Annual Financial Statement', as mentioned in the Constitution of India,\nrefers to what?",
+    "option_a": "The Economic Survey",
+    "option_b": "The Union Budget",
+    "option_c": "The RBI Annual Report",
+    "option_d": "The Finance Commission Report",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which Article of the Constitution of India deals with the 'Annual Financial\nStatement' (Union Budget)?",
+    "option_a": "Article 110",
+    "option_b": "Article 112",
+    "option_c": "Article 266",
+    "option_d": "Article 280",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the role of the Search Committee in the revised appointment\nprocedure for India's Chief Election Commissioner (CEC) and Election Commissioners (ECs)?",
+    "option_a": "To make the final selection of the CEC and ECs.",
+    "option_b": "To be chaired by the Prime Minister.",
+    "option_c": "To shortlist a panel of candidates for the Selection Committee's\nconsideration.",
+    "option_d": "To include the Chief Justice of India as a member.",
+    "correct_option": "C"
+  },
+  {
+    "question": "RBI approved HDFC Bank to acquire up to what percentage stake in Kotak\nMahindra Bank, AU Small Finance Bank, and Capital Small Finance Bank?",
+    "option_a": "5.0%",
+    "option_b": "7.5%",
+    "option_c": "9.5%",
+    "option_d": "10.0%",
+    "correct_option": "C"
+  },
+  {
+    "question": "Until which date is the RBI's approval for HDFC Bank's stake acquisition in\nKotak Mahindra Bank, AU SFB, and Capital SFB valid?",
+    "option_a": "December 31, 2025",
+    "option_b": "January 2, 2026",
+    "option_c": "June 30, 2026",
+    "option_d": "December 31, 2026",
+    "correct_option": "B"
+  },
+  {
+    "question": "Where is the headquarters of Capital Small Finance Bank located?",
+    "option_a": "Mumbai, Maharashtra",
+    "option_b": "Jaipur, Rajasthan",
+    "option_c": "Jalandhar, Punjab",
+    "option_d": "Bengaluru, Karnataka",
+    "correct_option": "C"
+  },
+  {
+    "question": "Microsoft announced an investment of how much to boost India's AI and cloud\necosystem?",
+    "option_a": "$1 Billion",
+    "option_b": "$2 Billion",
+    "option_c": "$3 Billion",
+    "option_d": "$5 Billion",
+    "correct_option": "C"
+  },
+  {
+    "question": "India set a new record by adding approximately how much green energy\ncapacity in 2024?",
+    "option_a": "13.75 GW",
+    "option_b": "30 GW",
+    "option_c": "50 GW",
+    "option_d": "218 GW",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is India's target for cumulative renewable energy capacity by the year\n2030?",
+    "option_a": "218 GW",
+    "option_b": "300 GW",
+    "option_c": "500 GW",
+    "option_d": "750 GW",
+    "correct_option": "C"
+  },
+  {
+    "question": "How many AI startups will be supported through Microsoft's Founders Hub\nprogram as part of its investment in India's AI ecosystem?",
+    "option_a": "250",
+    "option_b": "500",
+    "option_c": "1,000",
+    "option_d": "2,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "Unity Small Finance Bank (SFB) was founded by Centrum Financial Services\nand which other entity?",
+    "option_a": "Paytm",
+    "option_b": "PhonePe",
+    "option_c": "BharatPe",
+    "option_d": "Razorpay",
+    "correct_option": "C"
+  },
+  {
+    "question": "BharatPe's parent company, Resilient Innovations, plans to reduce its holding\nin Unity SFB to what percentage by 2029 to comply with regulatory requirements?",
+    "option_a": "25%",
+    "option_b": "15%",
+    "option_c": "10%",
+    "option_d": "5%",
+    "correct_option": "C"
+  },
+  {
+    "question": "Retired Supreme Court Justice B.N. Srikrishna has been appointed Chairman\nof the Advisory Board for which two fintech companies?",
+    "option_a": "Paytm and Mobikwik",
+    "option_b": "Equal and OneMoney",
+    "option_c": "CRED and Slice",
+    "option_d": "PhonePe and Google Pay",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the function of OneMoney, for which Justice B.N. Srikrishna chairs the\nadvisory board?",
+    "option_a": "Payment Gateway",
+    "option_b": "Neo-Bank",
+    "option_c": "Account Aggregator Platform",
+    "option_d": "Wealth Management App",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is India's projected share in global electronics production value targeted\nby 2030?",
+    "option_a": "2-3%",
+    "option_b": "3-4%",
+    "option_c": "4-5%",
+    "option_d": "6-7%",
+    "correct_option": "D"
+  },
+  {
+    "question": "The RBI approved the merger of National Co-operative Bank Ltd. (Bangalore)\nwith which Pune-based co-operative bank, effective January 6, 2025?",
+    "option_a": "Saraswat Co-operative Bank",
+    "option_b": "Cosmos Co-operative Bank",
+    "option_c": "Shamrao Vithal Co-operative Bank",
+    "option_d": "Abhyudaya Co-operative Bank",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which new SBI deposit scheme is a specialized term deposit for senior\ncitizens aged 80 years and above?",
+    "option_a": "Har Ghar Lakhpati",
+    "option_b": "SBI Sarvottam",
+    "option_c": "SBI Patrons",
+    "option_d": "SBI WeCare",
+    "correct_option": "C"
+  },
+  {
+    "question": "Who is the Managing Director & Board Member of Arohan Financial Services,\nan NBFC-MFI featured in the slides?",
+    "option_a": "Ashok Vaswani",
+    "option_b": "Sashidhar Jagdishan",
+    "option_c": "Manoj Kumar Nambiar",
+    "option_d": "Amitabh Chaudhry",
+    "correct_option": "C"
+  },
+  {
+    "question": "The RBI recently lifted business restrictions imposed on Arohan Financial\nServices in which month and year?",
+    "option_a": "July 2024",
+    "option_b": "October 2024",
+    "option_c": "December 2024",
+    "option_d": "January 2025",
+    "correct_option": "B"
+  },
+  {
+    "question": "What was the Month-on-Month (MoM) percentage growth in the value of\nFASTag transactions in December 2024?",
+    "option_a": "6%",
+    "option_b": "8%",
+    "option_c": "9%",
+    "option_d": "10%",
+    "correct_option": "C"
+  },
+  {
+    "question": "What was the total value of FASTag transactions recorded in December\n2024?",
+    "option_a": "₹5,580 crore",
+    "option_b": "₹6,070 crore",
+    "option_c": "₹6,642 crore",
+    "option_d": "₹7,120 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "Adani Enterprises is set to exit Adani Wilmar by selling its entire stake. Adani\nWilmar is a joint venture established in 1999 between the Adani Group and which international\ncompany?",
+    "option_a": "Cargill",
+    "option_b": "Wilmar International",
+    "option_c": "Unilever",
+    "option_d": "Procter & Gamble",
+    "correct_option": "B"
+  },
+  {
+    "question": "Adani Enterprises plans to use the estimated ₹18,817 crore proceeds from the\nAdani Wilmar stake sale for what purpose?",
+    "option_a": "Reducing overall group debt",
+    "option_b": "Investing in its core infrastructure platforms (energy, transport, logistics)",
+    "option_c": "Expanding its FMCG business independently",
+    "option_d": "Acquiring media companies",
+    "correct_option": "B"
+  },
+  {
+    "question": "Where is VFS Capital, formerly Village Financial Services (an NBFC-MFI that\napplied for an SFB license), headquartered?",
+    "option_a": "Maharashtra",
+    "option_b": "West Bengal",
+    "option_c": "Tamil Nadu",
+    "option_d": "Karnataka",
+    "correct_option": "B"
+  },
+  {
+    "question": "What does the 'On-tap' licensing facility for Small Finance Banks (SFBs) allow\neligible entities to do?",
+    "option_a": "Apply only during specific windows announced by RBI.",
+    "option_b": "Apply for an SFB license at any time throughout the year.",
+    "option_c": "Get automatic approval if they meet basic criteria.",
+    "option_d": "Convert from an NBFC to SFB without application.",
+    "correct_option": "B"
+  },
+  {
+    "question": "According to the UN's World Economic Situation and Prospects 2025 report,\nwhat is India's projected GDP growth rate for 2025?",
+    "option_a": "6.2%",
+    "option_b": "6.6%",
+    "option_c": "6.7%",
+    "option_d": "7.0%",
+    "correct_option": "B"
+  },
+  {
+    "question": "What was the approximate volume of Immediate Payment Service (IMPS)\ntransactions in December 2024?",
+    "option_a": "382 million",
+    "option_b": "408 million",
+    "option_c": "441 million",
+    "option_d": "516 million",
+    "correct_option": "C"
+  },
+  {
+    "question": "What was the total value of IMPS transactions recorded in December 2024?",
+    "option_a": "₹5.58 trillion",
+    "option_b": "₹6.02 trillion",
+    "option_c": "₹6.64 trillion",
+    "option_d": "₹23.25 trillion",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which revamped e-Auction portal was launched by the Secretary, Department\nof Financial Services, to provide a one-stop platform for properties from all Public Sector Banks\n(PSBs)?",
+    "option_a": "e-Kray",
+    "option_b": "MSTC e-Auction",
+    "option_c": "Baanknet",
+    "option_d": "PSB Auctions",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is a key benefit of the revamped 'Baanknet' e-Auction portal for Public\nSector Banks (PSBs)?",
+    "option_a": "Increased interest rates on deposits",
+    "option_b": "Simplified loan application process",
+    "option_c": "Improved recovery process and unlocking value of distressed assets",
+    "option_d": "Facilitation of international trade finance",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Indian government is considering increasing the KCC (Kisan Credit Card)\nborrowing limit from ₹3 lakh to what amount in the upcoming Union Budget FY26?",
+    "option_a": "₹4 Lakh",
+    "option_b": "₹5 Lakh",
+    "option_c": "₹6 Lakh",
+    "option_d": "₹7 Lakh",
+    "correct_option": "B"
+  },
+  {
+    "question": "The KCC scheme, launched in 1998, provides short-term crop loans to farmers\nat a subsidized interest rate. What is the effective subsidized interest rate mentioned after\ngovernment subvention and prompt repayment incentive?",
+    "option_a": "9%",
+    "option_b": "7%",
+    "option_c": "4%",
+    "option_d": "2%",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which platform, operated by NPCI and previously known as Bharat BillPay, is\nexpected to launch a B2B payments feature by March?",
+    "option_a": "UPI",
+    "option_b": "IMPS",
+    "option_c": "Bharat Connect",
+    "option_d": "RuPay",
+    "correct_option": "C"
+  },
+  {
+    "question": "The upcoming B2B payments feature on Bharat Connect will follow a model\nsimilar to how NPCI issues credentials to which type of entities for UPI transactions?",
+    "option_a": "Payment Service Providers (PSPs)",
+    "option_b": "Third-Party Application Providers (TPAPs)",
+    "option_c": "Account Aggregators (AAs)",
+    "option_d": "Prepaid Payment Instrument issuers (PPIs)",
+    "correct_option": "B"
+  },
+  {
+    "question": "The government is allowing private companies to invest in nuclear power\nprojects through the construction of what type of reactors?",
+    "option_a": "Large Pressurized Water Reactors (LPWRs)",
+    "option_b": "Bharat Small Reactors (BSRs)",
+    "option_c": "Fast Breeder Reactors (FBRs)",
+    "option_d": "Advanced Heavy Water Reactors (AHWRs)",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the maximum capacity defined for the Bharat Small Reactors (BSRs)\nthat private entities can invest in?",
+    "option_a": "100 MW",
+    "option_b": "220 MW",
+    "option_c": "500 MW",
+    "option_d": "700 MW",
+    "correct_option": "B"
+  },
+  {
+    "question": "Under the proposed investment model for BSRs, who will supervise the\nconstruction funded by private entities?",
+    "option_a": "Department of Atomic Energy (DAE)",
+    "option_b": "Bhabha Atomic Research Centre (BARC)",
+    "option_c": "Nuclear Power Corporation of India Limited (NPCIL)",
+    "option_d": "Atomic Energy Regulatory Board (AERB)",
+    "correct_option": "D"
+  },
+  {
+    "question": "As of November 2024, PhonePe and Google Pay collectively held\napproximately what percentage of the UPI market share?",
+    "option_a": "Around 50%",
+    "option_b": "Around 65%",
+    "option_c": "Around 75%",
+    "option_d": "Over 85%",
+    "correct_option": "D"
+  },
+  {
+    "question": "NPCI has extended the deadline for UPI payment apps to comply with the 30%\nmarket share cap until when?",
+    "option_a": "December 31, 2025",
+    "option_b": "June 30, 2026",
+    "option_c": "December 31, 2026",
+    "option_d": "March 31, 2027",
+    "correct_option": "C"
+  },
+  {
+    "question": "IMGC (India Mortgage Guarantee Corporation) and which Housing Finance\ncompany have partnered to offer mortgage guarantee-backed home loan products?",
+    "option_a": "HDFC Ltd",
+    "option_b": "LIC Housing Finance",
+    "option_c": "GIC Housing Finance",
+    "option_d": "PNB Housing Finance",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the primary objective of the partnership between IMGC and GIC\nHousing Finance?",
+    "option_a": "To offer loans only to high-net-worth individuals",
+    "option_b": "To enhance accessibility and affordability of home loans for salaried and\nself-employed individuals",
+    "option_c": "To provide guarantees for commercial property loans",
+    "option_d": "To focus exclusively on rural housing",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the analogy 'pig butchering' referring to in the context of the cyber\nfraud mentioned?",
+    "option_a": "Using pigs in online games for the scam.",
+    "option_b": "Signifying the 'fattening up' (building trust) of victims before exploiting them.",
+    "option_c": "Highlighting the violent nature of the scam.",
+    "option_d": "Implying the use of sophisticated technology.",
+    "correct_option": "B"
+  },
+  {
+    "question": "This 'Pig Butchering Scam' often involves convincing victims to invest in what\ntype of asset after building trust?",
+    "option_a": "Real Estate",
+    "option_b": "Stock Market",
+    "option_c": "Cryptocurrency",
+    "option_d": "Government Bonds",
+    "correct_option": "C"
+  },
+  {
+    "question": "What was the Month-on-Month (MoM) volume growth percentage for the\nAadhaar Enabled Payment System (AePS) in December 2024?",
+    "option_a": "1%",
+    "option_b": "3%",
+    "option_c": "5%",
+    "option_d": "-1%",
+    "correct_option": "A"
+  },
+  {
+    "question": "What was the total value of AePS transactions in December 2024?",
+    "option_a": "₹21,550 crore",
+    "option_b": "₹23,844 crore",
+    "option_c": "₹24,020 crore",
+    "option_d": "₹25,100 crore",
+    "correct_option": "C"
+  },
+  {
+    "question": "Vijay Chandok, who joined NSDL as MD & CEO, previously held the position\nof MD and CEO at which company?",
+    "option_a": "HDFC Securities",
+    "option_b": "ICICI Securities",
+    "option_c": "Axis Securities",
+    "option_d": "Kotak Securities",
+    "correct_option": "B"
+  },
+  {
+    "question": "Who has assumed charge as the new Chief Executive Officer (CEO) of UIDAI\n(Unique Identification Authority of India)?",
+    "option_a": "Amit Agrawal",
+    "option_b": "Bhuvanesh Kumar",
+    "option_c": "Saurabh Garg",
+    "option_d": "Neelkanth Mishra",
+    "correct_option": "B"
+  },
+  {
+    "question": "The RBI has lifted restrictions imposed in July 2022 on which cooperative\nbank, after reviewing its improved financial position?",
+    "option_a": "PMC Bank",
+    "option_b": "Sangli Sahakari Bank",
+    "option_c": "Mapusa Urban Co-operative Bank",
+    "option_d": "Rupee Co-operative Bank",
+    "correct_option": "D"
+  },
+  {
+    "question": "Starting January 1, 2025, RBI mandates banks to close certain types of\naccounts. Which accounts are defined as having no transactions for two years or more?",
+    "option_a": "Inactive Accounts",
+    "option_b": "Zero Balance Accounts",
+    "option_c": "Dormant Accounts",
+    "option_d": "Restricted Accounts",
+    "correct_option": "C"
+  },
+  {
+    "question": "What are 'Inactive Accounts' as defined by the RBI's directive for account\nclosure from January 1, 2025?",
+    "option_a": "Accounts with zero balance.",
+    "option_b": "Accounts with no transactions for 6 months or more.",
+    "option_c": "Accounts with no transactions for 12 months or more.",
+    "option_d": "Accounts linked to fraudulent activities.",
+    "correct_option": "C"
+  },
+  {
+    "question": "The RBI has increased its gold purchases, buying 50 tonnes in FY25 so far.\nWhat is the stated rationale for this strategy?",
+    "option_a": "To sell gold for profit when prices rise.",
+    "option_b": "To comply with IMF requirements.",
+    "option_c": "Diversification, reducing reliance on US dollar assets, and currency stability.",
+    "option_d": "To support the domestic jewellery industry.",
+    "correct_option": "C"
+  },
+  {
+    "question": "What are the key provisions under RBI's new directions on Credit Information\nReporting regarding alerts and compensation?",
+    "option_a": "Alerts only for negative information; No compensation for delays.",
+    "option_b": "Alerts via post only; ₹50 per day compensation after 60 days.",
+    "option_c": "Alerts via SMS/email when CIR is accessed; ₹100 per day compensation if\ncomplaints are not resolved within 30 days.",
+    "option_d": "No alerts required; Compensation decided case-by-case.",
+    "correct_option": "C"
+  },
+  {
+    "question": "The Ministry of Electronics and Information Technology (MeitY) aims for India\nto achieve how much in electronics production by 2030?",
+    "option_a": "$200 billion",
+    "option_b": "$300 billion",
+    "option_c": "$500 billion",
+    "option_d": "$750 billion",
+    "correct_option": "C"
+  },
+  {
+    "question": "MeitY is collaborating with which industry body and consultancy firm to finalize\nthe strategy for the $500 billion electronics production target?",
+    "option_a": "NASSCOM and McKinsey",
+    "option_b": "CII and BCG",
+    "option_c": "ICEA and Bain & Company",
+    "option_d": "FICCI and KPMG",
+    "correct_option": "C"
+  },
+  {
+    "question": "Reliance Industries Limited (RIL) has secured a $3 billion loan from 11 banks.\nWhat is the maturity period for this loan?",
+    "option_a": "3 years",
+    "option_b": "5 years",
+    "option_c": "7 years",
+    "option_d": "10 years",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which Indian bank is mentioned as the only Indian lender in the group\nproviding the $3 billion loan to Reliance Industries?",
+    "option_a": "ICICI Bank",
+    "option_b": "HDFC Bank",
+    "option_c": "State Bank of India (SBI)",
+    "option_d": "Axis Bank",
+    "correct_option": "C"
+  },
+  {
+    "question": "The RBI has proposed the introduction of a 'beneficiary account name look-up\nfacility' for which two payment systems to prevent fraud?",
+    "option_a": "UPI and IMPS",
+    "option_b": "NEFT and RTGS",
+    "option_c": "Cheque Truncation System (CTS) and NACH",
+    "option_d": "FASTag and BBPS",
+    "correct_option": "B"
+  },
+  {
+    "question": "What information will the proposed 'beneficiary account name look-up facility'\nin NEFT/RTGS display when the remitter inputs the account number and IFSC code?",
+    "option_a": "Account Balance",
+    "option_b": "Name of the beneficiary",
+    "option_c": "Transaction History",
+    "option_d": "Beneficiary's Address",
+    "correct_option": "B"
+  },
+  {
+    "question": "Which of the following is NOT a typical characteristic of a Small Finance Bank\n(SFB)?",
+    "option_a": "Focus on serving underserved and unbanked populations.",
+    "option_b": "Primarily cater to large corporations and high-net-worth individuals.",
+    "option_c": "Offer basic banking services like deposits and loans.",
+    "option_d": "Operate primarily in rural and semi-urban areas.",
+    "correct_option": "B"
+  },
+  {
+    "question": "The Indian government will invest ₹50,000 crore over the next five years to\ndevelop and improve what infrastructure?",
+    "option_a": "National Highways",
+    "option_b": "Railway Network",
+    "option_c": "National Waterways",
+    "option_d": "Airport Infrastructure",
+    "correct_option": "C"
+  },
+  {
+    "question": "As part of the ₹50,000 crore investment in inland waterways, how many\neco-friendly vessels are planned to be introduced to promote green shipping?",
+    "option_a": "100",
+    "option_b": "500",
+    "option_c": "1,000",
+    "option_d": "2,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "LIC launched the 'Bima Sakhi Yojana', a stipendiary scheme to encourage\nwomen to become career agents (MCAs). What is the target number of women to be engaged\nin the first year?",
+    "option_a": "25,000",
+    "option_b": "50,000",
+    "option_c": "100,000",
+    "option_d": "200,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the monthly stipend offered in the first year under the LIC's Bima Sakhi\nscheme?",
+    "option_a": "₹5,000",
+    "option_b": "₹6,000",
+    "option_c": "₹7,000",
+    "option_d": "₹8,000",
+    "correct_option": "C"
+  },
+  {
+    "question": "What record number of new demat accounts were opened in India during\n2024?",
+    "option_a": "25 million",
+    "option_b": "35 million",
+    "option_c": "46 million",
+    "option_d": "50 million",
+    "correct_option": "C"
+  },
+  {
+    "question": "Which depository accounted for the majority of the new demat accounts\nopened in 2024?",
+    "option_a": "National Securities Depository Limited (NSDL)",
+    "option_b": "Central Depository Services Limited (CDSL)",
+    "option_c": "Both equally",
+    "option_d": "Data not specified",
+    "correct_option": "B"
+  },
+  {
+    "question": "What is the main purpose of the Centralised Pension Payments System\n(CPPS) implemented by EPFO?",
+    "option_a": "To increase pension amounts.",
+    "option_b": "To allow beneficiaries to withdraw pensions from any bank without visiting\nbranches for verification.",
+    "option_c": "To invest pension funds in the stock market.",
+    "option_d": "To reduce the eligibility age for pension.",
+    "correct_option": "B"
+  },
+  {
+    "question": "The US government has introduced new rules restricting the export of\nGraphics Processing Units (GPUs). India is placed in which group with a country-specific cap?",
+    "option_a": "Group 1 (Unrestricted access)",
+    "option_b": "Group 2 (No access)",
+    "option_c": "Group 3 (Country-specific cap)",
+    "option_d": "Group 4 (Case-by-case approval)",
+    "correct_option": "C"
+  },
+  {
+    "question": "What is the country-specific cap on GPU exports to India mentioned under the\nnew US rules?",
+    "option_a": "10,000 GPUs",
+    "option_b": "25,000 GPUs",
+    "option_c": "50,000 GPUs",
+    "option_d": "100,000 GPUs",
+    "correct_option": "C"
+  }
+]
