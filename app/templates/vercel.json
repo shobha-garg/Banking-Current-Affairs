@@ -1,0 +1,43 @@
+{
+    "rewrites": [
+      {
+        "source": "/api/(.*)",
+        "destination": "https://banking-ca.onrender.com/api/$1"
+      },
+      {
+        "source": "/quiz/(.*)",
+        "destination": "https://banking-ca.onrender.com/quiz/$1"
+      },
+      {
+        "source": "/load_data",
+        "destination": "https://banking-ca.onrender.com/load_data"
+      },
+      {
+        "source": "/stats",
+        "destination": "https://banking-ca.onrender.com/stats"
+      },
+      {
+        "source": "/(.*)",
+        "destination": "/index.html"
+      }
+    ],
+    "headers": [
+      {
+        "source": "/(.*)",
+        "headers": [
+          {
+            "key": "Access-Control-Allow-Origin",
+            "value": "*"
+          },
+          {
+            "key": "Access-Control-Allow-Methods",
+            "value": "GET, POST, PUT, DELETE, OPTIONS"
+          },
+          {
+            "key": "Access-Control-Allow-Headers",
+            "value": "X-Requested-With, Content-Type, Accept"
+          }
+        ]
+      }
+    ]
+  }
